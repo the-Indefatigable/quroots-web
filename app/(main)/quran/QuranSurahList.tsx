@@ -3,6 +3,7 @@
 import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
+import { GoToAyah } from '@/components/quran/GoToAyah';
 
 interface Surah {
   number: number;
@@ -82,6 +83,8 @@ export function QuranSurahList() {
             Browse all 114 surahs
           </motion.p>
         </div>
+        {/* jump straight to an ayah or a range, e.g. for hifz */}
+        <GoToAyah className="sm:w-80" />
       </motion.div>
 
       {/* Search */}

@@ -17,6 +17,7 @@ const short = (v: unknown, n = 40) => (typeof v === 'string' && v ? v.toLowerCas
  */
 export async function POST(request: NextRequest) {
   const none = new Response(null, { status: 204 });
+  if (process.env.TRACK_OFF === '1') return none;   // local testing against the live database: don't count visits
   if (!rateLimit(clientKey(request, 'track'), 120, 60_000).ok) return none;
   try {
     const b = await request.json();

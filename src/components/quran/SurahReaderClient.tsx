@@ -8,6 +8,8 @@ import { WordPopover, type WordData } from './WordPopover';
 import { AyahLessonModal } from './AyahLessonModal';
 import type { PlayMode, LoopMode } from './AudioPlayer';
 import { unpack } from '@/lib/wire';
+import { planFromQuery, planToQuery, type RepeatPlan } from '@/lib/hifz';
+import { GoToAyah } from './GoToAyah';
 
 // Lazy-load the 1.3k LOC audio player + its DSP deps. Keeps it out of the
 // initial reader bundle; mounts on first render of the player surface.
@@ -237,6 +239,14 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
   const [audioCurrentWordPos, setAudioCurrentWordPos] = useState<number | null>(null);
   const [audioPlayMode, setAudioPlayMode] = useState<PlayMode>('ayah');
   const [audioLoopMode, setAudioLoopMode] = useState<LoopMode>('none');
+  // Hifz repeat plan (lib/hifz); kept in the address so a refresh or a shared link keeps it
+  const [repeatPlan, setRepeatPlanState] = useState<RepeatPlan | null>(null);
+  const setRepeatPlan = useCallback((plan: RepeatPlan | null) => {
+    setRepeatPlanState(plan);
+    const url = new URL(window.location.href);
+    url.search = plan ? planToQuery(plan) : '';
+    window.history.replaceState(null, '', url);
+  }, []);
 
   // Follow-playback toggle: whether reader auto-scrolls to active ayah
   const [followPlayback, setFollowPlayback] = useState(true);
@@ -289,7 +299,7 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
     });
   }, [audioCurrentAyah, audioMode, audioSurah, audioPlayMode, audioLoopMode, updatePlayInfo]);
 
-  const openAudioMode = useCallback((block: SurahBlock, fromAyah?: number) => {
+  const openAudioMode = useCallback((block: SurahBlock, fromAyah?: number, plan: RepeatPlan | null = null) => {
     // Stop any existing playback and reset the shared audio element
     // so the old and new AudioPlayer don't fight over the same element
     if (audioEl) {
@@ -297,7 +307,9 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
       audioEl.removeAttribute('src');
       audioEl.load();
     }
-    const startAyah = fromAyah ?? 1;
+    const startAyah = plan?.from ?? fromAyah ?? 1;
+    setRepeatPlan(plan);
+    if (plan) setAudioPlayMode('ayah');   // a repeat plan plays ayah by ayah
     setAudioSurah(block);
     setAudioStartAyah(startAyah);
     setAudioCurrentAyah(startAyah);
@@ -308,10 +320,23 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
       currentAyah: startAyah,
       totalAyahs: block.ayahs.length,
       isPlaying: true,
-      playMode: audioPlayMode,
+      playMode: plan ? 'ayah' : audioPlayMode,
       loopMode: audioLoopMode,
     });
-  }, [audioEl, audioPlayMode, audioLoopMode, setPlayInfo]);
+  }, [audioEl, audioPlayMode, audioLoopMode, setPlayInfo, setRepeatPlan]);
+
+  // Arriving with a range in the address (/quran/2?from=255&to=257&each=3): go there and start the plan.
+  // If the browser blocks sound until a tap, the player opens paused on that ayah.
+  const urlPlanRef = useRef(false);
+  useEffect(() => {
+    if (urlPlanRef.current || !audioEl) return;
+    const plan = planFromQuery(new URLSearchParams(window.location.search), surahNumber);
+    const block = surahBlocks.find((b) => b.surahNumber === surahNumber);
+    if (!plan || !block) return;
+    urlPlanRef.current = true;
+    document.getElementById(`s${surahNumber}-ayah-${plan.from}`)?.scrollIntoView({ block: 'center' });
+    openAudioMode(block, plan.from, plan);
+  }, [audioEl, surahNumber, surahBlocks, openAudioMode]);
 
   const closeAudioMode = useCallback(() => {
     audioEl?.pause();
@@ -321,7 +346,8 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
     setAudioCurrentWordPos(null);
     scrolledAyahRef.current = null;
     setPlayInfo(null);
-  }, [audioEl, setPlayInfo]);
+    setRepeatPlan(null);
+  }, [audioEl, setPlayInfo, setRepeatPlan]);
 
   // Adopt ongoing global playback when arriving at the reader (e.g. via the
   // mini-player's "Return to reader"). The audio element lives in the root
@@ -347,6 +373,16 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
   return (
     <div className={audioMode ? 'pb-28 lg:pb-20' : ''}>
       {/* Toolbar */}
+      <GoToAyah
+        currentSurah={surahNumber}
+        className="mb-3 sm:max-w-xs sm:ml-auto"
+        onLocal={(ref) => {
+          const block = surahBlocks.find((b) => b.surahNumber === ref.surah);
+          if (!block) return;
+          document.getElementById(`s${ref.surah}-ayah-${ref.from}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          openAudioMode(block, ref.from, { from: ref.from, to: ref.to, each: 1, times: 1, gap: 0 });
+        }}
+      />
       <div className="flex justify-end gap-2 mb-8">
         {hasWords && (
           <button
@@ -816,6 +852,8 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
           onLoopModeChange={setAudioLoopMode}
           selectedQariId={selectedQariId}
           onQariChange={setSelectedQariId}
+          repeatPlan={repeatPlan}
+          onRepeatPlanChange={setRepeatPlan}
         />
       )}
     </div>

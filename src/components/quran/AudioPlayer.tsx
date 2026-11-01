@@ -11,6 +11,8 @@ import { useAudioKeyboard } from './audio/useAudioKeyboard';
 import { useQariMenu } from './audio/useQariMenu';
 import { SurahGlyph } from './audio/SurahGlyph';
 import { QariProfile } from './audio/QariProfile';
+import { HifzPanel } from './audio/HifzPanel';
+import { nextUnderPlan, type RepeatPlan } from '@/lib/hifz';
 
 type ExpandedTab = 'lyrics' | 'qari' | 'pitch' | 'practice';
 
@@ -45,6 +47,9 @@ interface Props {
   onLoopModeChange: (mode: LoopMode) => void;
   selectedQariId?: string;
   onQariChange?: (qariId: string) => void;
+  /** Hifz repeat: a range, repeats per ayah, rounds and a pause (lib/hifz). Null = play normally. */
+  repeatPlan?: RepeatPlan | null;
+  onRepeatPlanChange?: (plan: RepeatPlan | null) => void;
 }
 
 export function AudioPlayer({
@@ -63,6 +68,8 @@ export function AudioPlayer({
   onLoopModeChange,
   selectedQariId,
   onQariChange,
+  repeatPlan = null,
+  onRepeatPlanChange,
 }: Props) {
   const selectedQari: QariInfo = getQariById(selectedQariId ?? '') ?? getDefaultQari();
   const { showQariMenu, setShowQariMenu } = useQariMenu();
@@ -89,6 +96,22 @@ export function AudioPlayer({
   totalAyahsRef.current  = totalAyahs;
 
   const rafRef = useRef<number | null>(null);
+
+  // Hifz repeat: where we are in the plan, and the pause timer while the listener recites back
+  const planRef  = useRef<RepeatPlan | null>(repeatPlan);
+  const countRef = useRef(1);
+  const roundRef = useRef(1);
+  const gapTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  planRef.current = repeatPlan;
+  const [hifzOpen, setHifzOpen] = useState(false);
+  const [hifzStep, setHifzStep] = useState({ count: 1, round: 1 });
+  const [reciting, setReciting] = useState(false);
+  const [hifzDone, setHifzDone] = useState(false);
+  const clearGap = useCallback(() => {
+    if (gapTimerRef.current) clearTimeout(gapTimerRef.current);
+    gapTimerRef.current = null;
+    setReciting(false);
+  }, []);
 
   const [isPlaying, setIsPlaying]         = useState(false);
   const [currentAyah, _setCurrentAyah]    = useState(startAyah);
@@ -217,6 +240,7 @@ export function AudioPlayer({
 
   const playAyah = useCallback((ayahNumber: number) => {
     const audio   = audioElement;
+    countRef.current = 1;
     const ayahData = ayahDataRef.current.get(ayahNumber);
     const src     = ayahData?.url ?? buildAyahAudioUrl(selectedQari, surahNumber, ayahNumber);
     usingSurahAudioRef.current = false;
@@ -453,6 +477,37 @@ export function AudioPlayer({
         }
         return;
       }
+      const plan = planRef.current;
+      if (plan) {
+        const next = nextUnderPlan(plan, currentAyahRef.current, countRef.current, roundRef.current);
+        if (!next) { setHifzDone(true); return; }
+        const go = () => {
+          audio.removeEventListener('hifz-skip-gap', go);
+          if (gapTimerRef.current) clearTimeout(gapTimerRef.current);
+          gapTimerRef.current = null;
+          setReciting(false);
+          roundRef.current = next.round;
+          if (next.ayah === currentAyahRef.current) {
+            // same ayah again: seek instead of reloading to keep the analyser connected
+            audio.currentTime = 0;
+            audio.play().catch(() => setIsPlaying(false));
+            setIsPlaying(true);
+            setProgress(0);
+            setPlayRevision(r => r + 1);
+          } else {
+            playAyah(next.ayah);
+          }
+          countRef.current = next.count;
+          setHifzStep({ count: next.count, round: next.round });
+        };
+        if (plan.gap > 0) {
+          setReciting(true);
+          gapTimerRef.current = setTimeout(go, plan.gap * 1000);
+          // tapping play during the pause skips it (togglePlay)
+          audio.addEventListener('hifz-skip-gap', go, { once: true });
+        } else go();
+        return;
+      }
       if (loop === 'ayah') {
         // Same ayah — seek instead of reloading to keep analyser connected
         audio.currentTime = 0;
@@ -507,6 +562,21 @@ export function AudioPlayer({
   // ── Controls ───────────────────────────────────────────────────────────────
   function togglePlay() {
     const audio = audioElement;
+    const plan = planRef.current;
+    if (plan && gapTimerRef.current) {
+      clearTimeout(gapTimerRef.current);
+      gapTimerRef.current = null;
+      setReciting(false);
+      audio.dispatchEvent(new Event('hifz-skip-gap'));
+      return;
+    }
+    if (plan && hifzDone) {
+      setHifzDone(false);
+      roundRef.current = 1;
+      setHifzStep({ count: 1, round: 1 });
+      playAyah(plan.from);
+      return;
+    }
     if (audio.src) {
       isPlaying ? audio.pause() : audio.play().catch(() => {});
     } else if (playMode === 'surah') {
@@ -559,6 +629,26 @@ export function AudioPlayer({
       playAyah(1);
     }
   }
+
+  // A new plan starts at its first ayah, in ayah mode, from the top of its counters
+  const prevPlanRef = useRef(repeatPlan);
+  useEffect(() => {
+    const prev = prevPlanRef.current;
+    prevPlanRef.current = repeatPlan;
+    if (prev === repeatPlan) return;
+    clearGap();
+    setHifzDone(false);
+    roundRef.current = 1;
+    setHifzStep({ count: 1, round: 1 });
+    if (!repeatPlan) return;
+    currentAyahRef.current = repeatPlan.from;
+    if (playModeRef.current === 'surah') onPlayModeChange('ayah');   // the mode change plays currentAyahRef
+    else playAyah(repeatPlan.from);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [repeatPlan]);
+
+  // no stray repeat after the player closes
+  useEffect(() => () => { if (gapTimerRef.current) clearTimeout(gapTimerRef.current); }, []);
 
   function cycleLoop() {
     const order: LoopMode[] = ['none', 'ayah', 'surah'];
@@ -639,6 +729,18 @@ export function AudioPlayer({
   };
 
   // ── EXPANDED VIEW ──────────────────────────────────────────────────────────
+  const hifzPanel = hifzOpen ? (
+    <HifzPanel
+      surahNumber={surahNumber}
+      totalAyahs={totalAyahs}
+      currentAyah={currentAyah}
+      plan={repeatPlan}
+      onStart={(p) => { onRepeatPlanChange?.(p); setHifzOpen(false); }}
+      onStop={() => { onRepeatPlanChange?.(null); setHifzOpen(false); }}
+      onClose={() => setHifzOpen(false)}
+    />
+  ) : null;
+
   if (expanded) {
     return createPortal(
       <div
@@ -1049,6 +1151,18 @@ export function AudioPlayer({
           {/* ── Bottom row ── */}
           <div className="px-8 pb-8 pt-3">
             <div className="max-w-sm mx-auto flex items-center justify-between">
+              <button
+            onClick={(e) => { e.stopPropagation(); setHifzOpen(true); }}
+            className="text-xs font-semibold px-3 py-1.5 rounded-full transition-colors"
+            style={{
+              color: repeatPlan ? G.gold : G.textSecond,
+              background: repeatPlan ? 'rgba(212,162,70,0.12)' : G.surface,
+              border: `1px solid ${repeatPlan ? 'rgba(212,162,70,0.35)' : G.border}`,
+            }}
+            aria-label="Hifz repeat"
+          >
+            Hifz
+          </button>
               {/* Play mode toggle */}
               <button
                 onClick={() => onPlayModeChange(playMode === 'ayah' ? 'surah' : 'ayah')}
@@ -1077,6 +1191,7 @@ export function AudioPlayer({
           </div>
 
         </div>
+        {hifzPanel}
       </div>,
       document.body
     );
@@ -1165,7 +1280,11 @@ export function AudioPlayer({
           >
             {playMode === 'surah'
               ? `Surah ${surahNumber}`
-              : `Ayah ${currentAyah} · ${totalAyahs}`}
+              : repeatPlan
+                ? (hifzDone ? `Done · ${surahNumber}:${repeatPlan.from}${repeatPlan.to !== repeatPlan.from ? `–${repeatPlan.to}` : ''}`
+                  : reciting ? `Your turn · ayah ${currentAyah}`
+                  : `Ayah ${currentAyah} · ${hifzStep.count}/${repeatPlan.each} · round ${hifzStep.round}/${repeatPlan.times || '∞'}`)
+                : `Ayah ${currentAyah} · ${totalAyahs}`}
             {duration > 0 && ` — ${formatTime(currentTime)} / ${formatTime(duration)}`}
             {timingsError && ' · sync unavailable'}
           </p>
@@ -1255,6 +1374,20 @@ export function AudioPlayer({
           </button>
         </div>
 
+        {/* Hifz repeat — on every screen size: it is what memorisers come for */}
+        <button
+            onClick={(e) => { e.stopPropagation(); setHifzOpen(true); }}
+            className="h-8 px-3 rounded-full text-[12px] font-semibold shrink-0"
+            style={{
+              color: repeatPlan ? G.gold : G.textSecond,
+              background: repeatPlan ? 'rgba(212,162,70,0.12)' : G.surface,
+              border: `1px solid ${repeatPlan ? 'rgba(212,162,70,0.35)' : G.border}`,
+            }}
+            aria-label="Hifz repeat"
+          >
+            Hifz
+          </button>
+
         {/* Right-side mini controls — visually demoted, secondary tier */}
         <div className="hidden sm:flex items-center gap-0.5 opacity-70 hover:opacity-100 transition-opacity">
           <button
@@ -1306,6 +1439,7 @@ export function AudioPlayer({
           </svg>
         </button>
       </div>
+      {hifzPanel}
     </div>,
     document.body
   );

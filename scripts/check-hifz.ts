@@ -1,0 +1,30 @@
+import assert from "node:assert/strict";
+import { AYAH_COUNTS, parseAyahRef, planFromQuery, planToQuery, nextUnderPlan } from "../src/lib/hifz.ts";
+assert.equal(AYAH_COUNTS.length, 114);
+assert.equal(AYAH_COUNTS.reduce((a, b) => a + b, 0), 6236);
+assert.deepEqual(parseAyahRef("2:123"), { surah: 2, from: 123, to: 123 });
+assert.deepEqual(parseAyahRef("2-123"), { surah: 2, from: 123, to: 123 });
+assert.deepEqual(parseAyahRef(" 2 . 255 "), { surah: 2, from: 255, to: 255 });
+assert.deepEqual(parseAyahRef("2:255-257"), { surah: 2, from: 255, to: 257 });
+assert.deepEqual(parseAyahRef("2:255 to 260"), { surah: 2, from: 255, to: 260 });
+assert.deepEqual(parseAyahRef("2-285-999"), { surah: 2, from: 285, to: 286 });
+assert.deepEqual(parseAyahRef("255", 2), { surah: 2, from: 255, to: 255 });
+assert.deepEqual(parseAyahRef("1-3", 18), { surah: 1, from: 3, to: 3 });
+assert.deepEqual(parseAyahRef("255-257", 2), { surah: 2, from: 255, to: 257 });
+assert.deepEqual(parseAyahRef("255 to 257", 2), { surah: 2, from: 255, to: 257 });
+assert.equal(parseAyahRef("2:287"), null);
+assert.equal(parseAyahRef("115:1"), null);
+assert.equal(parseAyahRef("abc"), null);
+assert.equal(parseAyahRef("255"), null);
+const p = planFromQuery(new URLSearchParams("from=255&to=257&each=3&times=5&gap=3"), 2)!;
+assert.deepEqual(p, { from: 255, to: 257, each: 3, times: 5, gap: 3 });
+assert.equal(planToQuery(p), "from=255&to=257&each=3&times=5&gap=3");
+assert.equal(planFromQuery(new URLSearchParams("from=300"), 2), null);
+// each ×2 over 1–2, two rounds: 1,1,2,2,1,1,2,2 then stop
+const plan = { from: 1, to: 2, each: 2, times: 2, gap: 0 };
+let st: { ayah: number; count: number; round: number } | null = { ayah: 1, count: 1, round: 1 };
+const seq = [st.ayah];
+while ((st = nextUnderPlan(plan, st.ayah, st.count, st.round))) seq.push(st.ayah);
+assert.deepEqual(seq, [1, 1, 2, 2, 1, 1, 2, 2]);
+assert.notEqual(nextUnderPlan({ ...plan, times: 0 }, 2, 2, 99), null); // endless
+console.log("hifz checks: all pass");

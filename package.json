@@ -20,7 +20,8 @@
     "populate:translations": "node scripts/populate-translations.mjs",
     "populate:words": "node scripts/populate-words.mjs",
     "populate:all": "node scripts/populate-surahs.mjs && node scripts/populate-ayahs.mjs && node scripts/populate-translations.mjs && node scripts/populate-words.mjs",
-    "populate:roots-backfill": "node scripts/backfill-word-roots.mjs"
+    "populate:roots-backfill": "node scripts/backfill-word-roots.mjs",
+    "check:hifz": "node --experimental-strip-types scripts/check-hifz.ts"
   },
   "dependencies": {
     "@auth/drizzle-adapter": "^1.11.1",
