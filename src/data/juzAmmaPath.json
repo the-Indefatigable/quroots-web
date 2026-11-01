@@ -1,0 +1,6571 @@
+{
+ "generated": "2026-11-01",
+ "perDay": 10,
+ "roots": 290,
+ "totalRoots": 531,
+ "surahs": [
+  {
+   "number": 78,
+   "name": "An-Naba",
+   "pctEnd": 85
+  },
+  {
+   "number": 79,
+   "name": "An-Nazi'at",
+   "pctEnd": 81
+  },
+  {
+   "number": 80,
+   "name": "'Abasa",
+   "pctEnd": 82
+  },
+  {
+   "number": 81,
+   "name": "At-Takwir",
+   "pctEnd": 76
+  },
+  {
+   "number": 82,
+   "name": "Al-Infitar",
+   "pctEnd": 91
+  },
+  {
+   "number": 83,
+   "name": "Al-Mutaffifin",
+   "pctEnd": 85
+  },
+  {
+   "number": 84,
+   "name": "Al-Inshiqaq",
+   "pctEnd": 91
+  },
+  {
+   "number": 85,
+   "name": "Al-Buruj",
+   "pctEnd": 79
+  },
+  {
+   "number": 86,
+   "name": "At-Tariq",
+   "pctEnd": 88
+  },
+  {
+   "number": 87,
+   "name": "Al-A'la",
+   "pctEnd": 88
+  },
+  {
+   "number": 88,
+   "name": "Al-Ghashiyah",
+   "pctEnd": 89
+  },
+  {
+   "number": 89,
+   "name": "Al-Fajr",
+   "pctEnd": 85
+  },
+  {
+   "number": 90,
+   "name": "Al-Balad",
+   "pctEnd": 79
+  },
+  {
+   "number": 91,
+   "name": "Ash-Shams",
+   "pctEnd": 82
+  },
+  {
+   "number": 92,
+   "name": "Al-Layl",
+   "pctEnd": 88
+  },
+  {
+   "number": 93,
+   "name": "Ad-Duhaa",
+   "pctEnd": 82
+  },
+  {
+   "number": 94,
+   "name": "Ash-Sharh",
+   "pctEnd": 69
+  },
+  {
+   "number": 95,
+   "name": "At-Tin",
+   "pctEnd": 92
+  },
+  {
+   "number": 96,
+   "name": "Al-'Alaq",
+   "pctEnd": 90
+  },
+  {
+   "number": 97,
+   "name": "Al-Qadr",
+   "pctEnd": 90
+  },
+  {
+   "number": 98,
+   "name": "Al-Bayyinah",
+   "pctEnd": 93
+  },
+  {
+   "number": 99,
+   "name": "Az-Zalzalah",
+   "pctEnd": 97
+  },
+  {
+   "number": 100,
+   "name": "Al-'Adiyat",
+   "pctEnd": 72
+  },
+  {
+   "number": 101,
+   "name": "Al-Qari'ah",
+   "pctEnd": 83
+  },
+  {
+   "number": 102,
+   "name": "At-Takathur",
+   "pctEnd": 94
+  },
+  {
+   "number": 103,
+   "name": "Al-'Asr",
+   "pctEnd": 100
+  },
+  {
+   "number": 104,
+   "name": "Al-Humazah",
+   "pctEnd": 76
+  },
+  {
+   "number": 105,
+   "name": "Al-Fil",
+   "pctEnd": 72
+  },
+  {
+   "number": 106,
+   "name": "Quraysh",
+   "pctEnd": 62
+  },
+  {
+   "number": 107,
+   "name": "Al-Ma'un",
+   "pctEnd": 71
+  },
+  {
+   "number": 108,
+   "name": "Al-Kawthar",
+   "pctEnd": 57
+  },
+  {
+   "number": 109,
+   "name": "Al-Kafirun",
+   "pctEnd": 100
+  },
+  {
+   "number": 110,
+   "name": "An-Nasr",
+   "pctEnd": 100
+  },
+  {
+   "number": 111,
+   "name": "Al-Masad",
+   "pctEnd": 71
+  },
+  {
+   "number": 112,
+   "name": "Al-Ikhlas",
+   "pctEnd": 80
+  },
+  {
+   "number": 113,
+   "name": "Al-Falaq",
+   "pctEnd": 73
+  },
+  {
+   "number": 114,
+   "name": "An-Nas",
+   "pctEnd": 100
+  }
+ ],
+ "days": [
+  {
+   "day": 1,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "ربب",
+     "letters": "ر ب ب",
+     "meaning": "Lord; to nurture and sustain",
+     "quranCount": 980,
+     "words": [
+      {
+       "ar": "رَّبِّكَ",
+       "en": "your Lord",
+       "ref": "78:36"
+      },
+      {
+       "ar": "رَّبِّ",
+       "en": "Lord",
+       "ref": "78:37"
+      },
+      {
+       "ar": "رَبِّهِۦ",
+       "en": "his Lord",
+       "ref": "78:39"
+      }
+     ],
+     "inJuzAmma": 48
+    },
+    {
+     "root": "يوم",
+     "letters": "ي و م",
+     "meaning": "day",
+     "quranCount": 475,
+     "words": [
+      {
+       "ar": "يَوْمَ",
+       "en": "(the) Day",
+       "ref": "78:17"
+      },
+      {
+       "ar": "ٱلْيَوْمُ",
+       "en": "(is) the Day",
+       "ref": "78:39"
+      },
+      {
+       "ar": "يَوْمَئِذٍۢ",
+       "en": "that Day",
+       "ref": "79:8"
+      }
+     ],
+     "inJuzAmma": 37
+    },
+    {
+     "root": "انس",
+     "letters": "ا ن س",
+     "meaning": "to be companionable, to feel at ease",
+     "quranCount": 338,
+     "words": [
+      {
+       "ar": "ٱلْإِنسَـٰنُ",
+       "en": "man",
+       "ref": "79:35"
+      },
+      {
+       "ar": "ٱلنَّاسِ",
+       "en": "the people",
+       "ref": "83:2"
+      },
+      {
+       "ar": "ٱلنَّاسُ",
+       "en": "mankind",
+       "ref": "83:6"
+      }
+     ],
+     "inJuzAmma": 26
+    },
+    {
+     "root": "قول",
+     "letters": "ق و ل",
+     "meaning": "to say",
+     "quranCount": 1722,
+     "words": [
+      {
+       "ar": "وَقَالَ",
+       "en": "and he (will) say",
+       "ref": "78:38"
+      },
+      {
+       "ar": "وَيَقُولُ",
+       "en": "and will say",
+       "ref": "78:40"
+      },
+      {
+       "ar": "يَقُولُونَ",
+       "en": "They say",
+       "ref": "79:10"
+      }
+     ],
+     "inJuzAmma": 22
+    },
+    {
+     "root": "اله",
+     "letters": "ا ل ه",
+     "meaning": "Allah, God (the root of Allah and ilāh)",
+     "quranCount": 2851,
+     "words": [
+      {
+       "ar": "ٱللَّهُ",
+       "en": "Allah",
+       "ref": "79:25"
+      },
+      {
+       "ar": "لِّلَّهِ",
+       "en": "(will be) with Allah",
+       "ref": "82:19"
+      },
+      {
+       "ar": "وَٱللَّهُ",
+       "en": "And Allah",
+       "ref": "84:23"
+      }
+     ],
+     "inJuzAmma": 22
+    },
+    {
+     "root": "راي",
+     "letters": "ر ا ي",
+     "meaning": "to see, to view, to think",
+     "quranCount": 328,
+     "words": [
+      {
+       "ar": "فَأَرَىٰهُ",
+       "en": "Then he showed him",
+       "ref": "79:20"
+      },
+      {
+       "ar": "يَرَىٰ",
+       "en": "sees",
+       "ref": "79:36"
+      },
+      {
+       "ar": "يَرَوْنَهَا",
+       "en": "they see it",
+       "ref": "79:46"
+      }
+     ],
+     "inJuzAmma": 21
+    },
+    {
+     "root": "كون",
+     "letters": "ك و ن",
+     "meaning": "to be, to exist",
+     "quranCount": 1390,
+     "words": [
+      {
+       "ar": "كَانَ",
+       "en": "is",
+       "ref": "78:17"
+      },
+      {
+       "ar": "فَكَانَتْ",
+       "en": "and becomes",
+       "ref": "78:19"
+      },
+      {
+       "ar": "كَانَتْ",
+       "en": "is",
+       "ref": "78:21"
+      }
+     ],
+     "inJuzAmma": 20
+    },
+    {
+     "root": "علم",
+     "letters": "ع ل م",
+     "meaning": "to know",
+     "quranCount": 854,
+     "words": [
+      {
+       "ar": "سَيَعْلَمُونَ",
+       "en": "(soon) they will know",
+       "ref": "78:4"
+      },
+      {
+       "ar": "عَلِمَتْ",
+       "en": "Will know",
+       "ref": "81:14"
+      },
+      {
+       "ar": "لِّلْعَـٰلَمِينَ",
+       "en": "to the worlds",
+       "ref": "81:27"
+      }
+     ],
+     "inJuzAmma": 19
+    },
+    {
+     "root": "كذب",
+     "letters": "ك ذ ب",
+     "meaning": "to lie, to deny",
+     "quranCount": 282,
+     "words": [
+      {
+       "ar": "وَكَذَّبُوا۟",
+       "en": "And they denied",
+       "ref": "78:28"
+      },
+      {
+       "ar": "كِذَّابًۭا",
+       "en": "(with) denial",
+       "ref": "78:28"
+      },
+      {
+       "ar": "كِذَّٰبًۭا",
+       "en": "any falsehood",
+       "ref": "78:35"
+      }
+     ],
+     "inJuzAmma": 19
+    },
+    {
+     "root": "ذكر",
+     "letters": "ذ ك ر",
+     "meaning": "to remember, to mention",
+     "quranCount": 292,
+     "words": [
+      {
+       "ar": "يَتَذَكَّرُ",
+       "en": "will remember",
+       "ref": "79:35"
+      },
+      {
+       "ar": "ذِكْرَىٰهَآ",
+       "en": "(to) mention it",
+       "ref": "79:43"
+      },
+      {
+       "ar": "يَذَّكَّرُ",
+       "en": "be reminded",
+       "ref": "80:4"
+      }
+     ],
+     "inJuzAmma": 17
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 16
+  },
+  {
+   "day": 2,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "خلق",
+     "letters": "خ ل ق",
+     "meaning": "to create",
+     "quranCount": 261,
+     "words": [
+      {
+       "ar": "وَخَلَقْنَـٰكُمْ",
+       "en": "And We created you",
+       "ref": "78:8"
+      },
+      {
+       "ar": "خَلْقًا",
+       "en": "creation",
+       "ref": "79:27"
+      },
+      {
+       "ar": "خَلَقَهُۥ",
+       "en": "He created him",
+       "ref": "80:18"
+      }
+     ],
+     "inJuzAmma": 16
+    },
+    {
+     "root": "امن",
+     "letters": "ا م ن",
+     "meaning": "to be safe / feel secure",
+     "quranCount": 879,
+     "words": [
+      {
+       "ar": "أَمِينٍۢ",
+       "en": "trustworthy",
+       "ref": "81:21"
+      },
+      {
+       "ar": "ءَامَنُوا۟",
+       "en": "believed",
+       "ref": "83:29"
+      },
+      {
+       "ar": "يُؤْمِنُونَ",
+       "en": "they believe",
+       "ref": "84:20"
+      }
+     ],
+     "inJuzAmma": 16
+    },
+    {
+     "root": "سمو",
+     "letters": "س م و",
+     "meaning": "name; to be high",
+     "quranCount": 381,
+     "words": [
+      {
+       "ar": "ٱلسَّمَآءُ",
+       "en": "the heaven",
+       "ref": "78:19"
+      },
+      {
+       "ar": "ٱلسَّمَـٰوَٰتِ",
+       "en": "(of) the heavens",
+       "ref": "78:37"
+      },
+      {
+       "ar": "ٱلسَّمَآءُ ۚ",
+       "en": "the heaven",
+       "ref": "79:27"
+      }
+     ],
+     "inJuzAmma": 15
+    },
+    {
+     "root": "كفر",
+     "letters": "ك ف ر",
+     "meaning": "to disbelieve, to reject faith",
+     "quranCount": 525,
+     "words": [
+      {
+       "ar": "ٱلْكَافِرُ",
+       "en": "the disbeliever",
+       "ref": "78:40"
+      },
+      {
+       "ar": "أَكْفَرَهُۥ",
+       "en": "ungrateful is he",
+       "ref": "80:17"
+      },
+      {
+       "ar": "ٱلْكَفَرَةُ",
+       "en": "(are) the disbelievers",
+       "ref": "80:42"
+      }
+     ],
+     "inJuzAmma": 13
+    },
+    {
+     "root": "ارض",
+     "letters": "ا ر ض",
+     "meaning": "earth, land",
+     "quranCount": 461,
+     "words": [
+      {
+       "ar": "ٱلْأَرْضَ",
+       "en": "the earth",
+       "ref": "78:6"
+      },
+      {
+       "ar": "وَٱلْأَرْضِ",
+       "en": "and the earth",
+       "ref": "78:37"
+      },
+      {
+       "ar": "وَٱلْأَرْضَ",
+       "en": "And the earth",
+       "ref": "79:30"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "ليل",
+     "letters": "ل ي ل",
+     "meaning": "night",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "ٱلَّيْلَ",
+       "en": "the night",
+       "ref": "78:10"
+      },
+      {
+       "ar": "لَيْلَهَا",
+       "en": "its night",
+       "ref": "79:29"
+      },
+      {
+       "ar": "وَٱلَّيْلِ",
+       "en": "And the night",
+       "ref": "81:17"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "شيا",
+     "letters": "ش ي ا",
+     "meaning": "to make appear, to show",
+     "quranCount": 519,
+     "words": [
+      {
+       "ar": "شَىْءٍ",
+       "en": "thing",
+       "ref": "78:29"
+      },
+      {
+       "ar": "شَآءَ",
+       "en": "wills",
+       "ref": "78:39"
+      },
+      {
+       "ar": "تَشَآءُونَ",
+       "en": "you will",
+       "ref": "81:29"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "كتب",
+     "letters": "ك ت ب",
+     "meaning": "to write",
+     "quranCount": 319,
+     "words": [
+      {
+       "ar": "كِتَـٰبًۭا",
+       "en": "(in) a Book",
+       "ref": "78:29"
+      },
+      {
+       "ar": "كَـٰتِبِينَ",
+       "en": "recording",
+       "ref": "82:11"
+      },
+      {
+       "ar": "كِتَـٰبَ",
+       "en": "(the) record",
+       "ref": "83:7"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "نفس",
+     "letters": "ن ف س",
+     "meaning": "to dispute, to contend",
+     "quranCount": 298,
+     "words": [
+      {
+       "ar": "ٱلنَّفْسَ",
+       "en": "his soul",
+       "ref": "79:40"
+      },
+      {
+       "ar": "ٱلنُّفُوسُ",
+       "en": "the souls",
+       "ref": "81:7"
+      },
+      {
+       "ar": "نَفْسٌۭ",
+       "en": "a soul",
+       "ref": "81:14"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "دين",
+     "letters": "د ي ن",
+     "meaning": "to judge, to account, to owe",
+     "quranCount": 101,
+     "words": [
+      {
+       "ar": "بِٱلدِّينِ",
+       "en": "the Judgment",
+       "ref": "82:9"
+      },
+      {
+       "ar": "ٱلدِّينِ",
+       "en": "(of) the Judgment",
+       "ref": "82:15"
+      },
+      {
+       "ar": "ٱلدِّينَ",
+       "en": "(in) the religion",
+       "ref": "98:5"
+      }
+     ],
+     "inJuzAmma": 12
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 25
+  },
+  {
+   "day": 3,
+   "title": "Now follow Al-Kafirun",
+   "roots": [
+    {
+     "root": "عبد",
+     "letters": "ع ب د",
+     "meaning": "to worship, to serve",
+     "quranCount": 275,
+     "words": [
+      {
+       "ar": "عِبَـٰدِى",
+       "en": "My slaves",
+       "ref": "89:29"
+      },
+      {
+       "ar": "عَبْدًا",
+       "en": "A slave",
+       "ref": "96:10"
+      },
+      {
+       "ar": "لِيَعْبُدُوا۟",
+       "en": "to worship",
+       "ref": "98:5"
+      }
+     ],
+     "inJuzAmma": 12
+    },
+    {
+     "root": "ايي",
+     "letters": "ا ي ي",
+     "meaning": "which; O (in calling out)",
+     "quranCount": 597,
+     "words": [
+      {
+       "ar": "بِـَٔايَـٰتِنَا",
+       "en": "Our Signs",
+       "ref": "78:28"
+      },
+      {
+       "ar": "ٱلْـَٔايَةَ",
+       "en": "the sign",
+       "ref": "79:20"
+      },
+      {
+       "ar": "أَىِّ",
+       "en": "what",
+       "ref": "80:18"
+      }
+     ],
+     "inJuzAmma": 11
+    },
+    {
+     "root": "دري",
+     "letters": "د ر ي",
+     "meaning": "to know, to be aware",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "يُدْرِيكَ",
+       "en": "would make you know",
+       "ref": "80:3"
+      },
+      {
+       "ar": "أَدْرَىٰكَ",
+       "en": "can make you know",
+       "ref": "82:17"
+      }
+     ],
+     "inJuzAmma": 11
+    },
+    {
+     "root": "اتي",
+     "letters": "ا ت ي",
+     "meaning": "to come",
+     "quranCount": 549,
+     "words": [
+      {
+       "ar": "فَتَأْتُونَ",
+       "en": "and you will come forth",
+       "ref": "78:18"
+      },
+      {
+       "ar": "أَتَىٰكَ",
+       "en": "(there) come to you",
+       "ref": "79:15"
+      },
+      {
+       "ar": "أُوتِىَ",
+       "en": "is given",
+       "ref": "84:7"
+      }
+     ],
+     "inJuzAmma": 10
+    },
+    {
+     "root": "عذب",
+     "letters": "ع ذ ب",
+     "meaning": "to torment, to punish",
+     "quranCount": 373,
+     "words": [
+      {
+       "ar": "عَذَابًا",
+       "en": "(in) punishment",
+       "ref": "78:30"
+      },
+      {
+       "ar": "عَذَابًۭا",
+       "en": "(of) a punishment",
+       "ref": "78:40"
+      },
+      {
+       "ar": "بِعَذَابٍ",
+       "en": "of a punishment",
+       "ref": "84:24"
+      }
+     ],
+     "inJuzAmma": 10
+    },
+    {
+     "root": "نعم",
+     "letters": "ن ع م",
+     "meaning": "to bless, to favor",
+     "quranCount": 140,
+     "words": [
+      {
+       "ar": "وَلِأَنْعَـٰمِكُمْ",
+       "en": "and for your cattle",
+       "ref": "79:33"
+      },
+      {
+       "ar": "نَعِيمٍۢ",
+       "en": "bliss",
+       "ref": "82:13"
+      },
+      {
+       "ar": "نَعِيمٍ",
+       "en": "bliss",
+       "ref": "83:22"
+      }
+     ],
+     "inJuzAmma": 10
+    },
+    {
+     "root": "جعل",
+     "letters": "ج ع ل",
+     "meaning": "to make, to place, to set",
+     "quranCount": 346,
+     "words": [
+      {
+       "ar": "نَجْعَلِ",
+       "en": "We made",
+       "ref": "78:6"
+      },
+      {
+       "ar": "وَجَعَلْنَا",
+       "en": "And We made",
+       "ref": "78:9"
+      },
+      {
+       "ar": "فَجَعَلَهُۥ",
+       "en": "And then makes it",
+       "ref": "87:5"
+      }
+     ],
+     "inJuzAmma": 9
+    },
+    {
+     "root": "جنن",
+     "letters": "ج ن ن",
+     "meaning": "to be mad, to go insane",
+     "quranCount": 201,
+     "words": [
+      {
+       "ar": "وَجَنَّـٰتٍ",
+       "en": "And gardens",
+       "ref": "78:16"
+      },
+      {
+       "ar": "ٱلْجَنَّةَ",
+       "en": "Paradise ",
+       "ref": "79:41"
+      },
+      {
+       "ar": "ٱلْجَنَّةُ",
+       "en": "Paradise",
+       "ref": "81:13"
+      }
+     ],
+     "inJuzAmma": 9
+    },
+    {
+     "root": "كرم",
+     "letters": "ك ر م",
+     "meaning": "to be generous, to honor",
+     "quranCount": 47,
+     "words": [
+      {
+       "ar": "مُّكَرَّمَةٍۢ",
+       "en": "honored",
+       "ref": "80:13"
+      },
+      {
+       "ar": "كِرَامٍۭ",
+       "en": "Noble",
+       "ref": "80:16"
+      },
+      {
+       "ar": "كَرِيمٍۢ",
+       "en": "noble",
+       "ref": "81:19"
+      }
+     ],
+     "inJuzAmma": 9
+    },
+    {
+     "root": "يسر",
+     "letters": "ي س ر",
+     "meaning": "to make easy",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "يَسَّرَهُۥ",
+       "en": "He made easy for him",
+       "ref": "80:20"
+      },
+      {
+       "ar": "يَسِيرًۭا",
+       "en": "easy",
+       "ref": "84:8"
+      },
+      {
+       "ar": "وَنُيَسِّرُكَ",
+       "en": "And We will ease you",
+       "ref": "87:8"
+      }
+     ],
+     "inJuzAmma": 9
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 109,
+     "name": "Al-Kafirun"
+    }
+   ],
+   "pctJuzAmma": 31
+  },
+  {
+   "day": 4,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "عمل",
+     "letters": "ع م ل",
+     "meaning": "to work, to do, to act",
+     "quranCount": 360,
+     "words": [
+      {
+       "ar": "وَعَمِلُوا۟",
+       "en": "and do",
+       "ref": "84:25"
+      },
+      {
+       "ar": "عَامِلَةٌۭ",
+       "en": "Laboring",
+       "ref": "88:3"
+      },
+      {
+       "ar": "أَعْمَـٰلَهُمْ",
+       "en": "their deeds",
+       "ref": "99:6"
+      }
+     ],
+     "inJuzAmma": 9
+    },
+    {
+     "root": "نور",
+     "letters": "ن و ر",
+     "meaning": "light; fire",
+     "quranCount": 194,
+     "words": [
+      {
+       "ar": "ٱلنَّارِ",
+       "en": "(Of) the fire",
+       "ref": "85:5"
+      },
+      {
+       "ar": "ٱلنَّارَ",
+       "en": "(in) the Fire",
+       "ref": "87:12"
+      },
+      {
+       "ar": "نَارًا",
+       "en": "(in) a Fire",
+       "ref": "88:4"
+      }
+     ],
+     "inJuzAmma": 9
+    },
+    {
+     "root": "حسب",
+     "letters": "ح س ب",
+     "meaning": "to reckon, to account, to esteem",
+     "quranCount": 109,
+     "words": [
+      {
+       "ar": "حِسَابًۭا",
+       "en": "an account",
+       "ref": "78:27"
+      },
+      {
+       "ar": "يُحَاسَبُ",
+       "en": "his account will be taken",
+       "ref": "84:8"
+      },
+      {
+       "ar": "حِسَابَهُم",
+       "en": "(is) their account",
+       "ref": "88:26"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "قوم",
+     "letters": "ق و م",
+     "meaning": "to rise, to stand up",
+     "quranCount": 660,
+     "words": [
+      {
+       "ar": "يَقُومُ",
+       "en": "will stand",
+       "ref": "78:38"
+      },
+      {
+       "ar": "مَقَامَ",
+       "en": "standing",
+       "ref": "79:40"
+      },
+      {
+       "ar": "يَسْتَقِيمَ",
+       "en": "take a straight way",
+       "ref": "81:28"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "جيا",
+     "letters": "ج ي ا",
+     "meaning": "to live, to be alive",
+     "quranCount": 278,
+     "words": [
+      {
+       "ar": "جَآءَتِ",
+       "en": "comes",
+       "ref": "79:34"
+      },
+      {
+       "ar": "جَآءَهُ",
+       "en": "came to him",
+       "ref": "80:2"
+      },
+      {
+       "ar": "جَآءَكَ",
+       "en": "came to you",
+       "ref": "80:8"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "غني",
+     "letters": "غ ن ي",
+     "meaning": "to be rich, to be wealthy",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "ٱسْتَغْنَىٰ",
+       "en": "considers himself free from need",
+       "ref": "80:5"
+      },
+      {
+       "ar": "يُغْنِيهِ",
+       "en": "occupying him",
+       "ref": "80:37"
+      },
+      {
+       "ar": "يُغْنِى",
+       "en": "it avails",
+       "ref": "88:7"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "قدر",
+     "letters": "ق د ر",
+     "meaning": "to measure, to decree",
+     "quranCount": 132,
+     "words": [
+      {
+       "ar": "فَقَدَّرَهُۥ",
+       "en": "then He proportioned him",
+       "ref": "80:19"
+      },
+      {
+       "ar": "لَقَادِرٌۭ",
+       "en": "(is) Able",
+       "ref": "86:8"
+      },
+      {
+       "ar": "قَدَّرَ",
+       "en": "measured",
+       "ref": "87:3"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "رضو",
+     "letters": "ر ض و",
+     "meaning": "to be pleased, to be satisfied",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "رَاضِيَةٌۭ",
+       "en": "satisfied",
+       "ref": "88:9"
+      },
+      {
+       "ar": "رَاضِيَةًۭ",
+       "en": "well pleased",
+       "ref": "89:28"
+      },
+      {
+       "ar": "مَّرْضِيَّةًۭ",
+       "en": "and pleasing",
+       "ref": "89:28"
+      }
+     ],
+     "inJuzAmma": 8
+    },
+    {
+     "root": "كلل",
+     "letters": "ك ل ل",
+     "meaning": "all, every",
+     "quranCount": 377,
+     "words": [
+      {
+       "ar": "وَكُلَّ",
+       "en": "And every",
+       "ref": "78:29"
+      },
+      {
+       "ar": "لِكُلِّ",
+       "en": "For every",
+       "ref": "80:37"
+      },
+      {
+       "ar": "كُلُّ",
+       "en": "every",
+       "ref": "83:12"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "ملك",
+     "letters": "م ل ك",
+     "meaning": "to possess, to own",
+     "quranCount": 206,
+     "words": [
+      {
+       "ar": "يَمْلِكُونَ",
+       "en": "they have power",
+       "ref": "78:37"
+      },
+      {
+       "ar": "وَٱلْمَلَـٰٓئِكَةُ",
+       "en": "and the Angels",
+       "ref": "78:38"
+      },
+      {
+       "ar": "تَمْلِكُ",
+       "en": "will have power",
+       "ref": "82:19"
+      }
+     ],
+     "inJuzAmma": 7
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 36
+  },
+  {
+   "day": 5,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "زكو",
+     "letters": "ز ك و",
+     "meaning": "to grow, to increase",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "تَزَكَّىٰ",
+       "en": "purify yourself",
+       "ref": "79:18"
+      },
+      {
+       "ar": "يَزَّكَّىٰٓ",
+       "en": "purify himself",
+       "ref": "80:3"
+      },
+      {
+       "ar": "يَزَّكَّىٰ",
+       "en": "he purifies himself",
+       "ref": "80:7"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "فجر",
+     "letters": "ف ج ر",
+     "meaning": "to split, to break open",
+     "quranCount": 24,
+     "words": [
+      {
+       "ar": "ٱلْفَجَرَةُ",
+       "en": "the wicked ones",
+       "ref": "80:42"
+      },
+      {
+       "ar": "فُجِّرَتْ",
+       "en": "are made to gush forth",
+       "ref": "82:3"
+      },
+      {
+       "ar": "ٱلْفُجَّارَ",
+       "en": "the wicked",
+       "ref": "82:14"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "صلي",
+     "letters": "ص ل ي",
+     "meaning": "to pray, to worship",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "يَصْلَوْنَهَا",
+       "en": "They will burn (in) it",
+       "ref": "82:15"
+      },
+      {
+       "ar": "لَصَالُوا۟",
+       "en": "(surely) will burn",
+       "ref": "83:16"
+      },
+      {
+       "ar": "وَيَصْلَىٰ",
+       "en": "And he will burn",
+       "ref": "84:12"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "مول",
+     "letters": "م و ل",
+     "meaning": "wealth, property",
+     "quranCount": 86,
+     "words": [
+      {
+       "ar": "ٱلْمَالَ",
+       "en": "wealth",
+       "ref": "89:20"
+      },
+      {
+       "ar": "مَالًۭا",
+       "en": "wealth",
+       "ref": "90:6"
+      },
+      {
+       "ar": "مَالُهُۥٓ",
+       "en": "his wealth",
+       "ref": "92:11"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "احد",
+     "letters": "ا ح د",
+     "meaning": "one, single",
+     "quranCount": 85,
+     "words": [
+      {
+       "ar": "أَحَدٌۭ",
+       "en": "anyone",
+       "ref": "89:25"
+      },
+      {
+       "ar": "أَحَدٌ",
+       "en": "anyone",
+       "ref": "90:7"
+      },
+      {
+       "ar": "لِأَحَدٍ",
+       "en": "for anyone",
+       "ref": "92:19"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "شرر",
+     "letters": "ش ر ر",
+     "meaning": "to spark, to kindle",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "شَرُّ",
+       "en": "(are the) worst",
+       "ref": "98:6"
+      },
+      {
+       "ar": "شَرًّۭا",
+       "en": "evil",
+       "ref": "99:8"
+      },
+      {
+       "ar": "شَرِّ",
+       "en": "(the) evil",
+       "ref": "113:2"
+      }
+     ],
+     "inJuzAmma": 7
+    },
+    {
+     "root": "جبل",
+     "letters": "ج ب ل",
+     "meaning": "to knead, to form, to create",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "وَٱلْجِبَالَ",
+       "en": "And the mountains",
+       "ref": "78:7"
+      },
+      {
+       "ar": "ٱلْجِبَالُ",
+       "en": "the mountains",
+       "ref": "78:20"
+      },
+      {
+       "ar": "ٱلْجِبَالِ",
+       "en": "the mountains",
+       "ref": "88:19"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "نهر",
+     "letters": "ن ه ر",
+     "meaning": "to rebuke, to scold",
+     "quranCount": 113,
+     "words": [
+      {
+       "ar": "ٱلنَّهَارَ",
+       "en": "the day",
+       "ref": "78:11"
+      },
+      {
+       "ar": "ٱلْأَنْهَـٰرُ ۚ",
+       "en": "the rivers",
+       "ref": "85:11"
+      },
+      {
+       "ar": "وَٱلنَّهَارِ",
+       "en": "And the day",
+       "ref": "91:3"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "خرج",
+     "letters": "خ ر ج",
+     "meaning": "to exit, to come out",
+     "quranCount": 182,
+     "words": [
+      {
+       "ar": "لِّنُخْرِجَ",
+       "en": "That We may bring forth",
+       "ref": "78:15"
+      },
+      {
+       "ar": "وَأَخْرَجَ",
+       "en": "and brought out",
+       "ref": "79:29"
+      },
+      {
+       "ar": "أَخْرَجَ",
+       "en": "He brought forth",
+       "ref": "79:31"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "طغي",
+     "letters": "ط غ ي",
+     "meaning": "to transgress, to exceed bounds",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "لِّلطَّـٰغِينَ",
+       "en": "For the transgressors",
+       "ref": "78:22"
+      },
+      {
+       "ar": "طَغَىٰ",
+       "en": "(has) transgressed",
+       "ref": "79:17"
+      },
+      {
+       "ar": "طَغَوْا۟",
+       "en": "transgressed",
+       "ref": "89:11"
+      }
+     ],
+     "inJuzAmma": 6
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 40
+  },
+  {
+   "day": 6,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "نظر",
+     "letters": "ن ظ ر",
+     "meaning": "to look, to consider",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "يَنظُرُ",
+       "en": "will see",
+       "ref": "78:40"
+      },
+      {
+       "ar": "فَلْيَنظُرِ",
+       "en": "Then let look",
+       "ref": "80:24"
+      },
+      {
+       "ar": "يَنظُرُونَ",
+       "en": "observing",
+       "ref": "83:23"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "امر",
+     "letters": "ا م ر",
+     "meaning": "to command",
+     "quranCount": 248,
+     "words": [
+      {
+       "ar": "أَمْرًۭا",
+       "en": "(the) matter",
+       "ref": "79:5"
+      },
+      {
+       "ar": "أَمَرَهُۥ",
+       "en": "He commanded him",
+       "ref": "80:23"
+      },
+      {
+       "ar": "وَٱلْأَمْرُ",
+       "en": "and the Command",
+       "ref": "82:19"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "هدي",
+     "letters": "ه د ي",
+     "meaning": "to guide, to lead",
+     "quranCount": 316,
+     "words": [
+      {
+       "ar": "وَأَهْدِيَكَ",
+       "en": "And I will guide you",
+       "ref": "79:19"
+      },
+      {
+       "ar": "فَهَدَىٰ",
+       "en": "then guided",
+       "ref": "87:3"
+      },
+      {
+       "ar": "وَهَدَيْنَـٰهُ",
+       "en": "And shown him",
+       "ref": "90:10"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "خشي",
+     "letters": "خ ش ي",
+     "meaning": "to fear, to dread",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "فَتَخْشَىٰ",
+       "en": "so you would fear",
+       "ref": "79:19"
+      },
+      {
+       "ar": "يَخْشَىٰٓ",
+       "en": "fears",
+       "ref": "79:26"
+      },
+      {
+       "ar": "يَخْشَىٰهَا",
+       "en": "fears it",
+       "ref": "79:45"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "علو",
+     "letters": "ع ل و",
+     "meaning": "to be high, to rise up",
+     "quranCount": 70,
+     "words": [
+      {
+       "ar": "ٱلْأَعْلَىٰ",
+       "en": "the Most High",
+       "ref": "79:24"
+      },
+      {
+       "ar": "عِلِّيِّينَ",
+       "en": "Illiyin",
+       "ref": "83:18"
+      },
+      {
+       "ar": "عِلِّيُّونَ",
+       "en": "(is) Illiyun",
+       "ref": "83:19"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "جحم",
+     "letters": "ج ح م",
+     "meaning": "blazing fire, Hellfire",
+     "quranCount": 26,
+     "words": [
+      {
+       "ar": "ٱلْجَحِيمُ",
+       "en": "the Hellfire",
+       "ref": "79:36"
+      },
+      {
+       "ar": "ٱلْجَحِيمَ",
+       "en": "the Hellfire",
+       "ref": "79:39"
+      },
+      {
+       "ar": "جَحِيمٍۢ",
+       "en": "Hellfire",
+       "ref": "82:14"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "طعم",
+     "letters": "ط ع م",
+     "meaning": "to taste",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "طَعَامِهِۦٓ",
+       "en": "his food",
+       "ref": "80:24"
+      },
+      {
+       "ar": "طَعَامٌ",
+       "en": "food",
+       "ref": "88:6"
+      },
+      {
+       "ar": "طَعَامِ",
+       "en": "feed",
+       "ref": "89:18"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "صحب",
+     "letters": "ص ح ب",
+     "meaning": "to accompany, to keep company",
+     "quranCount": 97,
+     "words": [
+      {
+       "ar": "وَصَـٰحِبَتِهِۦ",
+       "en": "And his wife",
+       "ref": "80:36"
+      },
+      {
+       "ar": "صَاحِبُكُم",
+       "en": "(is) your companion",
+       "ref": "81:22"
+      },
+      {
+       "ar": "أَصْحَـٰبُ",
+       "en": "(the) companions",
+       "ref": "85:4"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "وجه",
+     "letters": "و ج ه",
+     "meaning": "to face, to direct",
+     "quranCount": 78,
+     "words": [
+      {
+       "ar": "وُجُوهٌۭ",
+       "en": "Faces",
+       "ref": "80:38"
+      },
+      {
+       "ar": "وَوُجُوهٌۭ",
+       "en": "And faces",
+       "ref": "80:40"
+      },
+      {
+       "ar": "وُجُوهِهِمْ",
+       "en": "their faces",
+       "ref": "83:24"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "فعل",
+     "letters": "ف ع ل",
+     "meaning": "to do, to act",
+     "quranCount": 108,
+     "words": [
+      {
+       "ar": "تَفْعَلُونَ",
+       "en": "you do",
+       "ref": "82:12"
+      },
+      {
+       "ar": "يَفْعَلُونَ",
+       "en": "do",
+       "ref": "83:36"
+      },
+      {
+       "ar": "فَعَّالٌۭ",
+       "en": "Doer",
+       "ref": "85:16"
+      }
+     ],
+     "inJuzAmma": 6
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 44
+  },
+  {
+   "day": 7,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "شهد",
+     "letters": "ش ه د",
+     "meaning": "to witness, to attest",
+     "quranCount": 160,
+     "words": [
+      {
+       "ar": "يَشْهَدُهُ",
+       "en": "Witness it",
+       "ref": "83:21"
+      },
+      {
+       "ar": "وَشَاهِدٍۢ",
+       "en": "And (the) witness",
+       "ref": "85:3"
+      },
+      {
+       "ar": "وَمَشْهُودٍۢ",
+       "en": "and what is witnessed",
+       "ref": "85:3"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "قرا",
+     "letters": "ق ر ا",
+     "meaning": "to read, to recite",
+     "quranCount": 88,
+     "words": [
+      {
+       "ar": "قُرِئَ",
+       "en": "is recited",
+       "ref": "84:21"
+      },
+      {
+       "ar": "ٱلْقُرْءَانُ",
+       "en": "the Quran",
+       "ref": "84:21"
+      },
+      {
+       "ar": "قُرْءَانٌۭ",
+       "en": "(is) a Quran",
+       "ref": "85:21"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "صلو",
+     "letters": "ص ل و",
+     "meaning": "to pray",
+     "quranCount": 99,
+     "words": [
+      {
+       "ar": "فَصَلَّىٰ",
+       "en": "and prays",
+       "ref": "87:15"
+      },
+      {
+       "ar": "صَلَّىٰٓ",
+       "en": "he prays",
+       "ref": "96:10"
+      },
+      {
+       "ar": "ٱلصَّلَوٰةَ",
+       "en": "the prayer",
+       "ref": "98:5"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "خير",
+     "letters": "خ ي ر",
+     "meaning": "to be good, to choose good",
+     "quranCount": 196,
+     "words": [
+      {
+       "ar": "خَيْرٌۭ",
+       "en": "(is) better",
+       "ref": "87:17"
+      },
+      {
+       "ar": "خَيْرُ",
+       "en": "(are the) best",
+       "ref": "98:7"
+      },
+      {
+       "ar": "خَيْرًۭا",
+       "en": "good",
+       "ref": "99:7"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "كيف",
+     "letters": "ك ي ف",
+     "meaning": "how",
+     "quranCount": 83,
+     "words": [
+      {
+       "ar": "كَيْفَ",
+       "en": "how",
+       "ref": "88:17"
+      }
+     ],
+     "inJuzAmma": 6
+    },
+    {
+     "root": "سال",
+     "letters": "س ا ل",
+     "meaning": "to ask, to question",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "يَتَسَآءَلُونَ",
+       "en": "are they asking one another",
+       "ref": "78:1"
+      },
+      {
+       "ar": "يَسْـَٔلُونَكَ",
+       "en": "They ask you",
+       "ref": "79:42"
+      },
+      {
+       "ar": "سُئِلَتْ",
+       "en": "is asked",
+       "ref": "81:8"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "حبب",
+     "letters": "ح ب ب",
+     "meaning": "to love",
+     "quranCount": 95,
+     "words": [
+      {
+       "ar": "حَبًّۭا",
+       "en": "grain",
+       "ref": "78:15"
+      },
+      {
+       "ar": "وَتُحِبُّونَ",
+       "en": "And you love",
+       "ref": "89:20"
+      },
+      {
+       "ar": "حُبًّۭا",
+       "en": "(with) love",
+       "ref": "89:20"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "وقي",
+     "letters": "و ق ي",
+     "meaning": "to protect, to shield",
+     "quranCount": 258,
+     "words": [
+      {
+       "ar": "لِلْمُتَّقِينَ",
+       "en": "for the righteous",
+       "ref": "78:31"
+      },
+      {
+       "ar": "وَتَقْوَىٰهَا",
+       "en": "and its righteousness",
+       "ref": "91:8"
+      },
+      {
+       "ar": "وَٱتَّقَىٰ",
+       "en": "and fears",
+       "ref": "92:5"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "بين",
+     "letters": "ب ي ن",
+     "meaning": "to be clear, to clarify",
+     "quranCount": 523,
+     "words": [
+      {
+       "ar": "بَيْنَهُمَا",
+       "en": "(is) between both of them",
+       "ref": "78:37"
+      },
+      {
+       "ar": "ٱلْمُبِينِ",
+       "en": "the clear",
+       "ref": "81:23"
+      },
+      {
+       "ar": "بَيْنِ",
+       "en": "between",
+       "ref": "86:7"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "قرب",
+     "letters": "ق ر ب",
+     "meaning": "to approach, to draw near, to be close",
+     "quranCount": 96,
+     "words": [
+      {
+       "ar": "قَرِيبًۭا",
+       "en": "near",
+       "ref": "78:40"
+      },
+      {
+       "ar": "ٱلْمُقَرَّبُونَ",
+       "en": "those brought near",
+       "ref": "83:21"
+      },
+      {
+       "ar": "مَقْرَبَةٍ",
+       "en": "near relationship",
+       "ref": "90:15"
+      }
+     ],
+     "inJuzAmma": 5
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 48
+  },
+  {
+   "day": 8,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "قلب",
+     "letters": "ق ل ب",
+     "meaning": "to turn, to overturn",
+     "quranCount": 168,
+     "words": [
+      {
+       "ar": "قُلُوبٌۭ",
+       "en": "Hearts",
+       "ref": "79:8"
+      },
+      {
+       "ar": "قُلُوبِهِم",
+       "en": "their hearts",
+       "ref": "83:14"
+      },
+      {
+       "ar": "ٱنقَلَبُوٓا۟",
+       "en": "they returned",
+       "ref": "83:31"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "حدث",
+     "letters": "ح د ث",
+     "meaning": "to happen, to occur",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "حَدِيثُ",
+       "en": "(the) story",
+       "ref": "79:15"
+      },
+      {
+       "ar": "فَحَدِّثْ",
+       "en": "narrate",
+       "ref": "93:11"
+      },
+      {
+       "ar": "تُحَدِّثُ",
+       "en": "it will report",
+       "ref": "99:4"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "كبر",
+     "letters": "ك ب ر",
+     "meaning": "to grow, to become great",
+     "quranCount": 161,
+     "words": [
+      {
+       "ar": "ٱلْكُبْرَىٰ",
+       "en": "the great",
+       "ref": "79:20"
+      },
+      {
+       "ar": "ٱلْكَبِيرُ",
+       "en": "the great",
+       "ref": "85:11"
+      },
+      {
+       "ar": "ٱلْأَكْبَرَ",
+       "en": "greatest",
+       "ref": "88:24"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "سعي",
+     "letters": "س ع ي",
+     "meaning": "to strive, to seek, to endeavor",
+     "quranCount": 30,
+     "words": [
+      {
+       "ar": "يَسْعَىٰ",
+       "en": "striving",
+       "ref": "79:22"
+      },
+      {
+       "ar": "سَعَىٰ",
+       "en": "he strove (for)",
+       "ref": "79:35"
+      },
+      {
+       "ar": "لِّسَعْيِهَا",
+       "en": "With their effort",
+       "ref": "88:9"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "اخر",
+     "letters": "ا خ ر",
+     "meaning": "to delay, to postpone",
+     "quranCount": 250,
+     "words": [
+      {
+       "ar": "ٱلْـَٔاخِرَةِ",
+       "en": "(for) the last",
+       "ref": "79:25"
+      },
+      {
+       "ar": "وَأَخَّرَتْ",
+       "en": "and left behind",
+       "ref": "82:5"
+      },
+      {
+       "ar": "وَٱلْـَٔاخِرَةُ",
+       "en": "While the Hereafter",
+       "ref": "87:17"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "اول",
+     "letters": "ا و ل",
+     "meaning": "to eat first/to come first",
+     "quranCount": 125,
+     "words": [
+      {
+       "ar": "وَٱلْأُولَىٰٓ",
+       "en": "and the first",
+       "ref": "79:25"
+      },
+      {
+       "ar": "ٱلْأَوَّلِينَ",
+       "en": "(of) the former (people)",
+       "ref": "83:13"
+      },
+      {
+       "ar": "ٱلْأُولَىٰ",
+       "en": "[the] former",
+       "ref": "87:18"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "رفع",
+     "letters": "ر ف ع",
+     "meaning": "to lift, to raise",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "رَفَعَ",
+       "en": "He raised",
+       "ref": "79:28"
+      },
+      {
+       "ar": "مَّرْفُوعَةٍۢ",
+       "en": "Exalted",
+       "ref": "80:14"
+      },
+      {
+       "ar": "مَّرْفُوعَةٌۭ",
+       "en": "raised high",
+       "ref": "88:13"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "سوي",
+     "letters": "س و ي",
+     "meaning": "to make equal, to level",
+     "quranCount": 83,
+     "words": [
+      {
+       "ar": "فَسَوَّىٰهَا",
+       "en": "and proportioned it",
+       "ref": "79:28"
+      },
+      {
+       "ar": "فَسَوَّىٰكَ",
+       "en": "then fashioned you",
+       "ref": "82:7"
+      },
+      {
+       "ar": "فَسَوَّىٰ",
+       "en": "then proportioned",
+       "ref": "87:2"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "صحف",
+     "letters": "ص ح ف",
+     "meaning": "to alter",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "صُحُفٍۢ",
+       "en": "sheets",
+       "ref": "80:13"
+      },
+      {
+       "ar": "ٱلصُّحُفُ",
+       "en": "the pages",
+       "ref": "81:10"
+      },
+      {
+       "ar": "ٱلصُّحُفِ",
+       "en": "the Scriptures",
+       "ref": "87:18"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "رسل",
+     "letters": "ر س ل",
+     "meaning": "to send",
+     "quranCount": 513,
+     "words": [
+      {
+       "ar": "رَسُولٍۢ",
+       "en": "(of) a Messenger",
+       "ref": "81:19"
+      },
+      {
+       "ar": "أُرْسِلُوا۟",
+       "en": "they had been sent",
+       "ref": "83:33"
+      },
+      {
+       "ar": "رَسُولُ",
+       "en": "(the) Messenger",
+       "ref": "91:13"
+      }
+     ],
+     "inJuzAmma": 5
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 51
+  },
+  {
+   "day": 9,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "عين",
+     "letters": "ع ي ن",
+     "meaning": "to mark/designate",
+     "quranCount": 65,
+     "words": [
+      {
+       "ar": "عَيْنًۭا",
+       "en": "A spring",
+       "ref": "83:28"
+      },
+      {
+       "ar": "عَيْنٍ",
+       "en": "a spring",
+       "ref": "88:5"
+      },
+      {
+       "ar": "عَيْنٌۭ",
+       "en": "(will be) a spring",
+       "ref": "88:12"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "اهل",
+     "letters": "ا ه ل",
+     "meaning": "people, family, household",
+     "quranCount": 127,
+     "words": [
+      {
+       "ar": "أَهْلِهِمُ",
+       "en": "their people",
+       "ref": "83:31"
+      },
+      {
+       "ar": "أَهْلِهِۦ",
+       "en": "his people",
+       "ref": "84:9"
+      },
+      {
+       "ar": "أَهْلِ",
+       "en": "(the) People",
+       "ref": "98:1"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "صلح",
+     "letters": "ص ل ح",
+     "meaning": "to be at peace",
+     "quranCount": 180,
+     "words": [
+      {
+       "ar": "ٱلصَّـٰلِحَـٰتِ",
+       "en": "righteous deeds",
+       "ref": "84:25"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "كيد",
+     "letters": "ك ي د",
+     "meaning": "to plot, to scheme",
+     "quranCount": 35,
+     "words": [
+      {
+       "ar": "يَكِيدُونَ",
+       "en": "are plotting",
+       "ref": "86:15"
+      },
+      {
+       "ar": "كَيْدًۭا",
+       "en": "a plot",
+       "ref": "86:15"
+      },
+      {
+       "ar": "وَأَكِيدُ",
+       "en": "But I am planning",
+       "ref": "86:16"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "بلد",
+     "letters": "ب ل د",
+     "meaning": "to be strange, to bewilder",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "ٱلْبِلَـٰدِ",
+       "en": "the cities",
+       "ref": "89:8"
+      },
+      {
+       "ar": "ٱلْبَلَدِ",
+       "en": "city",
+       "ref": "90:1"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "يتم",
+     "letters": "ي ت م",
+     "meaning": "to be orphaned",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "ٱلْيَتِيمَ",
+       "en": "the orphan",
+       "ref": "89:17"
+      },
+      {
+       "ar": "يَتِيمًۭا",
+       "en": "An orphan",
+       "ref": "90:15"
+      }
+     ],
+     "inJuzAmma": 5
+    },
+    {
+     "root": "بني",
+     "letters": "ب ن ي",
+     "meaning": "to build, to construct",
+     "quranCount": 184,
+     "words": [
+      {
+       "ar": "وَبَنَيْنَا",
+       "en": "And We constructed",
+       "ref": "78:12"
+      },
+      {
+       "ar": "بَنَىٰهَا",
+       "en": "He constructed it",
+       "ref": "79:27"
+      },
+      {
+       "ar": "وَبَنِيهِ",
+       "en": "and his children",
+       "ref": "80:36"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "شدد",
+     "letters": "ش د د",
+     "meaning": "to strengthen, to tighten",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "شِدَادًۭا",
+       "en": "strong",
+       "ref": "78:12"
+      },
+      {
+       "ar": "أَشَدُّ",
+       "en": "a more difficult",
+       "ref": "79:27"
+      },
+      {
+       "ar": "لَشَدِيدٌ",
+       "en": "(is) surely strong",
+       "ref": "85:12"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "موه",
+     "letters": "م و ه",
+     "meaning": "water",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "مَآءًۭ",
+       "en": "water",
+       "ref": "78:14"
+      },
+      {
+       "ar": "مَآءَهَا",
+       "en": "its water",
+       "ref": "79:31"
+      },
+      {
+       "ar": "ٱلْمَآءَ",
+       "en": "the water",
+       "ref": "80:25"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "جزي",
+     "letters": "ج ز ي",
+     "meaning": "to reward",
+     "quranCount": 118,
+     "words": [
+      {
+       "ar": "جَزَآءًۭ",
+       "en": "A recompense",
+       "ref": "78:26"
+      },
+      {
+       "ar": "تُجْزَىٰٓ",
+       "en": "to be recompensed",
+       "ref": "92:19"
+      },
+      {
+       "ar": "جَزَآؤُهُمْ",
+       "en": "Their reward",
+       "ref": "98:8"
+      }
+     ],
+     "inJuzAmma": 4
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 54
+  },
+  {
+   "day": 10,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "ترب",
+     "letters": "ت ر ب",
+     "meaning": "to dust, to sprinkle dust",
+     "quranCount": 22,
+     "words": [
+      {
+       "ar": "أَتْرَابًۭا",
+       "en": "well-matched",
+       "ref": "78:33"
+      },
+      {
+       "ar": "تُرَٰبًۢا",
+       "en": "dust",
+       "ref": "78:40"
+      },
+      {
+       "ar": "وَٱلتَّرَآئِبِ",
+       "en": "and the ribs",
+       "ref": "86:7"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "عطو",
+     "letters": "ع ط و",
+     "meaning": "to give, to bestow",
+     "quranCount": 14,
+     "words": [
+      {
+       "ar": "عَطَآءً",
+       "en": "a gift",
+       "ref": "78:36"
+      },
+      {
+       "ar": "أَعْطَىٰ",
+       "en": "gives",
+       "ref": "92:5"
+      },
+      {
+       "ar": "يُعْطِيكَ",
+       "en": "will give you",
+       "ref": "93:5"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "صفف",
+     "letters": "ص ف ف",
+     "meaning": "to arrange in rows",
+     "quranCount": 14,
+     "words": [
+      {
+       "ar": "صَفًّۭا ۖ",
+       "en": "(in) rows",
+       "ref": "78:38"
+      },
+      {
+       "ar": "مَصْفُوفَةٌۭ",
+       "en": "lined up",
+       "ref": "88:15"
+      },
+      {
+       "ar": "صَفًّۭا",
+       "en": "rank",
+       "ref": "89:22"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "اذن",
+     "letters": "ا ذ ن",
+     "meaning": "to permit, to allow",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "أَذِنَ",
+       "en": "permits",
+       "ref": "78:38"
+      },
+      {
+       "ar": "وَأَذِنَتْ",
+       "en": "And has listened",
+       "ref": "84:2"
+      },
+      {
+       "ar": "بِإِذْنِ",
+       "en": "by (the) permission",
+       "ref": "97:4"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "حقق",
+     "letters": "ح ق ق",
+     "meaning": "to verify, to confirm, to be true",
+     "quranCount": 287,
+     "words": [
+      {
+       "ar": "ٱلْحَقُّ ۖ",
+       "en": "the True",
+       "ref": "78:39"
+      },
+      {
+       "ar": "وَحُقَّتْ",
+       "en": "and was obligated",
+       "ref": "84:2"
+      },
+      {
+       "ar": "بِٱلْحَقِّ",
+       "en": "to the truth",
+       "ref": "103:3"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "مرا",
+     "letters": "م ر ا",
+     "meaning": "person; woman, wife",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "ٱلْمَرْءُ",
+       "en": "the man",
+       "ref": "78:40"
+      },
+      {
+       "ar": "ٱمْرِئٍۢ",
+       "en": "man",
+       "ref": "80:37"
+      },
+      {
+       "ar": "وَٱمْرَأَتُهُۥ",
+       "en": "And his wife",
+       "ref": "111:4"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "سبح",
+     "letters": "س ب ح",
+     "meaning": "to glorify, to praise",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "وَٱلسَّـٰبِحَـٰتِ",
+       "en": "And those who glide",
+       "ref": "79:3"
+      },
+      {
+       "ar": "سَبْحًۭا",
+       "en": "swimming",
+       "ref": "79:3"
+      },
+      {
+       "ar": "سَبِّحِ",
+       "en": "Glorify",
+       "ref": "87:1"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "ضحو",
+     "letters": "ض ح و",
+     "meaning": "to sacrifice, to offer sacrifice",
+     "quranCount": 7,
+     "words": [
+      {
+       "ar": "ضُحَىٰهَا",
+       "en": "its brightness",
+       "ref": "79:29"
+      },
+      {
+       "ar": "وَضُحَىٰهَا",
+       "en": "and its brightness",
+       "ref": "91:1"
+      },
+      {
+       "ar": "وَٱلضُّحَىٰ",
+       "en": "By the morning brightness",
+       "ref": "93:1"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "حيي",
+     "letters": "ح ي ي",
+     "meaning": "to live",
+     "quranCount": 189,
+     "words": [
+      {
+       "ar": "ٱلْحَيَوٰةَ",
+       "en": "the life",
+       "ref": "79:38"
+      },
+      {
+       "ar": "يَحْيَىٰ",
+       "en": "will live",
+       "ref": "87:13"
+      },
+      {
+       "ar": "لِحَيَاتِى",
+       "en": "for my life",
+       "ref": "89:24"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "نهي",
+     "letters": "ن ه ي",
+     "meaning": "to forbid, to prohibit",
+     "quranCount": 56,
+     "words": [
+      {
+       "ar": "وَنَهَى",
+       "en": "and restrained",
+       "ref": "79:40"
+      },
+      {
+       "ar": "مُنتَهَىٰهَآ",
+       "en": "(is) its finality",
+       "ref": "79:44"
+      },
+      {
+       "ar": "يَنْهَىٰ",
+       "en": "forbids",
+       "ref": "96:9"
+      }
+     ],
+     "inJuzAmma": 4
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 57
+  },
+  {
+   "day": 11,
+   "title": "Now follow Al-Infitar and Al-'Alaq",
+   "roots": [
+    {
+     "root": "ولي",
+     "letters": "و ل ي",
+     "meaning": "to be a guardian, to turn toward",
+     "quranCount": 232,
+     "words": [
+      {
+       "ar": "وَتَوَلَّىٰٓ",
+       "en": "and turned away",
+       "ref": "80:1"
+      },
+      {
+       "ar": "تَوَلَّىٰ",
+       "en": "turns away",
+       "ref": "88:23"
+      },
+      {
+       "ar": "وَتَوَلَّىٰ",
+       "en": "and turned away",
+       "ref": "92:16"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "برر",
+     "letters": "ب ر ر",
+     "meaning": "to justify, to make clear",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "بَرَرَةٍۢ",
+       "en": "dutiful",
+       "ref": "80:16"
+      },
+      {
+       "ar": "ٱلْأَبْرَارَ",
+       "en": "the righteous",
+       "ref": "82:13"
+      },
+      {
+       "ar": "ٱلْأَبْرَارِ",
+       "en": "(of) the righteous",
+       "ref": "83:18"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "قبر",
+     "letters": "ق ب ر",
+     "meaning": "to bury, to entomb",
+     "quranCount": 8,
+     "words": [
+      {
+       "ar": "فَأَقْبَرَهُۥ",
+       "en": "and provides a grave for him",
+       "ref": "80:21"
+      },
+      {
+       "ar": "ٱلْقُبُورُ",
+       "en": "the graves",
+       "ref": "82:4"
+      },
+      {
+       "ar": "ٱلْقُبُورِ",
+       "en": "the graves",
+       "ref": "100:9"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "قسم",
+     "letters": "ق س م",
+     "meaning": "to divide, to apportion",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "أُقْسِمُ",
+       "en": "I swear",
+       "ref": "81:15"
+      },
+      {
+       "ar": "قَسَمٌۭ",
+       "en": "(not) an oath",
+       "ref": "89:5"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "جري",
+     "letters": "ج ر ي",
+     "meaning": "to run, to flow",
+     "quranCount": 64,
+     "words": [
+      {
+       "ar": "ٱلْجَوَارِ",
+       "en": "Those that run",
+       "ref": "81:16"
+      },
+      {
+       "ar": "تَجْرِى",
+       "en": "flow",
+       "ref": "85:11"
+      },
+      {
+       "ar": "جَارِيَةٌۭ",
+       "en": "flowing",
+       "ref": "88:12"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "حفظ",
+     "letters": "ح ف ظ",
+     "meaning": "to guard, to preserve",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "لَحَـٰفِظِينَ",
+       "en": "(are) surely guardians",
+       "ref": "82:10"
+      },
+      {
+       "ar": "حَـٰفِظِينَ",
+       "en": "(as) guardians",
+       "ref": "83:33"
+      },
+      {
+       "ar": "مَّحْفُوظٍۭ",
+       "en": "Guarded",
+       "ref": "85:22"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "سرر",
+     "letters": "س ر ر",
+     "meaning": "to spread out, to arrange",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "مَسْرُورًۭا",
+       "en": "happily",
+       "ref": "84:9"
+      },
+      {
+       "ar": "مَسْرُورًا",
+       "en": "happy",
+       "ref": "84:13"
+      },
+      {
+       "ar": "ٱلسَّرَآئِرُ",
+       "en": "the secrets",
+       "ref": "86:9"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "رجع",
+     "letters": "ر ج ع",
+     "meaning": "to return",
+     "quranCount": 104,
+     "words": [
+      {
+       "ar": "رَجْعِهِۦ",
+       "en": "return him",
+       "ref": "86:8"
+      },
+      {
+       "ar": "ٱلرَّجْعِ",
+       "en": "returns",
+       "ref": "86:11"
+      },
+      {
+       "ar": "ٱرْجِعِىٓ",
+       "en": "Return",
+       "ref": "89:28"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "ولد",
+     "letters": "و ل د",
+     "meaning": "to give birth, to bear",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "وَوَالِدٍۢ",
+       "en": "And the begetter",
+       "ref": "90:3"
+      },
+      {
+       "ar": "وَلَدَ",
+       "en": "he begot",
+       "ref": "90:3"
+      },
+      {
+       "ar": "يَلِدْ",
+       "en": "He begets",
+       "ref": "112:3"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "وصي",
+     "letters": "و ص ي",
+     "meaning": "to entrust, to bequeath",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "وَتَوَاصَوْا۟",
+       "en": "and enjoin (each other)",
+       "ref": "90:17"
+      }
+     ],
+     "inJuzAmma": 4
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 82,
+     "name": "Al-Infitar"
+    },
+    {
+     "number": 96,
+     "name": "Al-'Alaq"
+    },
+    {
+     "number": 112,
+     "name": "Al-Ikhlas"
+    }
+   ],
+   "pctJuzAmma": 59
+  },
+  {
+   "day": 12,
+   "title": "Now follow Al-Qadr and Az-Zalzalah",
+   "roots": [
+    {
+     "root": "صدر",
+     "letters": "ص د ر",
+     "meaning": "to turn away, to emanate",
+     "quranCount": 46,
+     "words": [
+      {
+       "ar": "صَدْرَكَ",
+       "en": "your breast",
+       "ref": "94:1"
+      },
+      {
+       "ar": "يَصْدُرُ",
+       "en": "will proceed",
+       "ref": "99:6"
+      },
+      {
+       "ar": "ٱلصُّدُورِ",
+       "en": "the breasts",
+       "ref": "100:10"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "ثقل",
+     "letters": "ث ق ل",
+     "meaning": "to be heavy, to weigh down",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "أَثْقَالَهَا",
+       "en": "its burdens",
+       "ref": "99:2"
+      },
+      {
+       "ar": "مِثْقَالَ",
+       "en": "(equal to the) weight",
+       "ref": "99:7"
+      },
+      {
+       "ar": "ثَقُلَتْ",
+       "en": "(are) heavy",
+       "ref": "101:6"
+      }
+     ],
+     "inJuzAmma": 4
+    },
+    {
+     "root": "عظم",
+     "letters": "ع ظ م",
+     "meaning": "to be great, to magnify",
+     "quranCount": 128,
+     "words": [
+      {
+       "ar": "ٱلْعَظِيمِ",
+       "en": "the Great",
+       "ref": "78:2"
+      },
+      {
+       "ar": "عِظَـٰمًۭا",
+       "en": "bones",
+       "ref": "79:11"
+      },
+      {
+       "ar": "عَظِيمٍۢ",
+       "en": "Great",
+       "ref": "83:5"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "نزل",
+     "letters": "ن ز ل",
+     "meaning": "to descend, to come down",
+     "quranCount": 293,
+     "words": [
+      {
+       "ar": "وَأَنزَلْنَا",
+       "en": "And We sent down",
+       "ref": "78:14"
+      },
+      {
+       "ar": "أَنزَلْنَـٰهُ",
+       "en": "revealed it",
+       "ref": "97:1"
+      },
+      {
+       "ar": "تَنَزَّلُ",
+       "en": "Descend",
+       "ref": "97:4"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "اوب",
+     "letters": "ا و ب",
+     "meaning": "to return, to turn back",
+     "quranCount": 17,
+     "words": [
+      {
+       "ar": "مَـَٔابًۭا",
+       "en": "a place of return",
+       "ref": "78:22"
+      },
+      {
+       "ar": "مَـَٔابًا",
+       "en": "a return",
+       "ref": "78:39"
+      },
+      {
+       "ar": "إِيَابَهُمْ",
+       "en": "(will be) their return",
+       "ref": "88:25"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "رحم",
+     "letters": "ر ح م",
+     "meaning": "to have mercy, to show compassion",
+     "quranCount": 339,
+     "words": [
+      {
+       "ar": "ٱلرَّحْمَـٰنِ ۖ",
+       "en": "the Most Gracious",
+       "ref": "78:37"
+      },
+      {
+       "ar": "ٱلرَّحْمَـٰنُ",
+       "en": "the Most Gracious",
+       "ref": "78:38"
+      },
+      {
+       "ar": "بِٱلْمَرْحَمَةِ",
+       "en": "to compassion",
+       "ref": "90:17"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "نذر",
+     "letters": "ن ذ ر",
+     "meaning": "to warn, to announce",
+     "quranCount": 130,
+     "words": [
+      {
+       "ar": "أَنذَرْنَـٰكُمْ",
+       "en": "[We] have warned you",
+       "ref": "78:40"
+      },
+      {
+       "ar": "مُنذِرُ",
+       "en": "(are) a warner",
+       "ref": "79:45"
+      },
+      {
+       "ar": "فَأَنذَرْتُكُمْ",
+       "en": "So I warn you",
+       "ref": "92:14"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "قدم",
+     "letters": "ق د م",
+     "meaning": "to precede, to go forward",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "قَدَّمَتْ",
+       "en": "have sent forth",
+       "ref": "78:40"
+      },
+      {
+       "ar": "قَدَّمْتُ",
+       "en": "I had sent forth",
+       "ref": "89:24"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "يدي",
+     "letters": "ي د ي",
+     "meaning": "hand",
+     "quranCount": 120,
+     "words": [
+      {
+       "ar": "يَدَاهُ",
+       "en": "his hands",
+       "ref": "78:40"
+      },
+      {
+       "ar": "بِأَيْدِى",
+       "en": "In (the) hands",
+       "ref": "80:15"
+      },
+      {
+       "ar": "يَدَآ",
+       "en": "(the) hands",
+       "ref": "111:1"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "خسر",
+     "letters": "خ س ر",
+     "meaning": "to lose, to be at loss",
+     "quranCount": 65,
+     "words": [
+      {
+       "ar": "خَاسِرَةٌۭ",
+       "en": "losing",
+       "ref": "79:12"
+      },
+      {
+       "ar": "يُخْسِرُونَ",
+       "en": "they give less",
+       "ref": "83:3"
+      },
+      {
+       "ar": "خُسْرٍ",
+       "en": "loss",
+       "ref": "103:2"
+      }
+     ],
+     "inJuzAmma": 3
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 97,
+     "name": "Al-Qadr"
+    },
+    {
+     "number": 99,
+     "name": "Az-Zalzalah"
+    },
+    {
+     "number": 103,
+     "name": "Al-'Asr"
+    },
+    {
+     "number": 114,
+     "name": "An-Nas"
+    }
+   ],
+   "pctJuzAmma": 61
+  },
+  {
+   "day": 13,
+   "title": "Now follow Al-Bayyinah",
+   "roots": [
+    {
+     "root": "ندي",
+     "letters": "ن د ي",
+     "meaning": "to call out, to summon",
+     "quranCount": 53,
+     "words": [
+      {
+       "ar": "نَادَىٰهُ",
+       "en": "called him",
+       "ref": "79:16"
+      },
+      {
+       "ar": "فَنَادَىٰ",
+       "en": "and called out",
+       "ref": "79:23"
+      },
+      {
+       "ar": "نَادِيَهُۥ",
+       "en": "his associates",
+       "ref": "96:17"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "بعد",
+     "letters": "ب ع د",
+     "meaning": "to be distant, to be far",
+     "quranCount": 235,
+     "words": [
+      {
+       "ar": "بَعْدَ",
+       "en": "after",
+       "ref": "79:30"
+      },
+      {
+       "ar": "بَعْدُ",
+       "en": "after (this)",
+       "ref": "95:7"
+      },
+      {
+       "ar": "بَعْدِ",
+       "en": "after",
+       "ref": "98:4"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "اوي",
+     "letters": "ا و ي",
+     "meaning": "to shelter, to seek refuge",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "ٱلْمَأْوَىٰ",
+       "en": "(is) the refuge",
+       "ref": "79:39"
+      },
+      {
+       "ar": "فَـَٔاوَىٰ",
+       "en": "and give shelter",
+       "ref": "93:6"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "خوف",
+     "letters": "خ و ف",
+     "meaning": "to fear",
+     "quranCount": 124,
+     "words": [
+      {
+       "ar": "خَافَ",
+       "en": "feared",
+       "ref": "79:40"
+      },
+      {
+       "ar": "يَخَافُ",
+       "en": "He fears",
+       "ref": "91:15"
+      },
+      {
+       "ar": "خَوْفٍۭ",
+       "en": "fear",
+       "ref": "106:4"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "قتل",
+     "letters": "ق ت ل",
+     "meaning": "to kill, to slay",
+     "quranCount": 170,
+     "words": [
+      {
+       "ar": "قُتِلَ",
+       "en": "Is destroyed",
+       "ref": "80:17"
+      },
+      {
+       "ar": "قُتِلَتْ",
+       "en": "she was killed",
+       "ref": "81:9"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "صبب",
+     "letters": "ص ب ب",
+     "meaning": "to pour, to spill",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "صَبَبْنَا",
+       "en": "[We] poured",
+       "ref": "80:25"
+      },
+      {
+       "ar": "صَبًّۭا",
+       "en": "(in) abundance",
+       "ref": "80:25"
+      },
+      {
+       "ar": "فَصَبَّ",
+       "en": "So poured",
+       "ref": "89:13"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "شقق",
+     "letters": "ش ق ق",
+     "meaning": "to split, to tear open",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "شَقَقْنَا",
+       "en": "We cleaved",
+       "ref": "80:26"
+      },
+      {
+       "ar": "شَقًّۭا",
+       "en": "splitting",
+       "ref": "80:26"
+      },
+      {
+       "ar": "ٱنشَقَّتْ",
+       "en": "is split asunder",
+       "ref": "84:1"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "ضحك",
+     "letters": "ض ح ك",
+     "meaning": "to laugh",
+     "quranCount": 10,
+     "words": [
+      {
+       "ar": "ضَاحِكَةٌۭ",
+       "en": "Laughing",
+       "ref": "80:39"
+      },
+      {
+       "ar": "يَضْحَكُونَ",
+       "en": "laugh",
+       "ref": "83:29"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "عند",
+     "letters": "ع ن د",
+     "meaning": "with, near, at (of place or time)",
+     "quranCount": 201,
+     "words": [
+      {
+       "ar": "عِندَ",
+       "en": "with",
+       "ref": "81:20"
+      },
+      {
+       "ar": "عِندَهُۥ",
+       "en": "with him",
+       "ref": "92:19"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "وزن",
+     "letters": "و ز ن",
+     "meaning": "to weigh, to balance",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "وَّزَنُوهُمْ",
+       "en": "they weigh (for) them",
+       "ref": "83:3"
+      },
+      {
+       "ar": "مَوَٰزِينُهُۥ",
+       "en": "his scales",
+       "ref": "101:6"
+      }
+     ],
+     "inJuzAmma": 3
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 98,
+     "name": "Al-Bayyinah"
+    }
+   ],
+   "pctJuzAmma": 63
+  },
+  {
+   "day": 14,
+   "title": "Now follow Al-Layl",
+   "roots": [
+    {
+     "root": "تلو",
+     "letters": "ت ل و",
+     "meaning": "to follow, to succeed",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "تُتْلَىٰ",
+       "en": "are recited",
+       "ref": "83:13"
+      },
+      {
+       "ar": "تَلَىٰهَا",
+       "en": "it follows it",
+       "ref": "91:2"
+      },
+      {
+       "ar": "يَتْلُوا۟",
+       "en": "reciting",
+       "ref": "98:2"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "سقي",
+     "letters": "س ق ي",
+     "meaning": "to give drink, to water",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "يُسْقَوْنَ",
+       "en": "They will be given to drink",
+       "ref": "83:25"
+      },
+      {
+       "ar": "تُسْقَىٰ",
+       "en": "They will be given to drink",
+       "ref": "88:5"
+      },
+      {
+       "ar": "وَسُقْيَـٰهَا",
+       "en": "and her drink",
+       "ref": "91:13"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "ضلل",
+     "letters": "ض ل ل",
+     "meaning": "to go astray, to err",
+     "quranCount": 191,
+     "words": [
+      {
+       "ar": "لَضَآلُّونَ",
+       "en": "surely have gone astray",
+       "ref": "83:32"
+      },
+      {
+       "ar": "ضَآلًّۭا",
+       "en": "lost",
+       "ref": "93:7"
+      },
+      {
+       "ar": "تَضْلِيلٍۢ",
+       "en": "astray",
+       "ref": "105:2"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "وري",
+     "letters": "و ر ي",
+     "meaning": "to strike fire, to kindle",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "وَرَآءَ",
+       "en": "behind",
+       "ref": "84:10"
+      },
+      {
+       "ar": "وَرَآئِهِم",
+       "en": "behind them",
+       "ref": "85:20"
+      },
+      {
+       "ar": "فَٱلْمُورِيَـٰتِ",
+       "en": "And the producers of sparks",
+       "ref": "100:2"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "دعو",
+     "letters": "د ع و",
+     "meaning": "to call, to invoke",
+     "quranCount": 212,
+     "words": [
+      {
+       "ar": "يَدْعُوا۟",
+       "en": "he will call",
+       "ref": "84:11"
+      },
+      {
+       "ar": "فَلْيَدْعُ",
+       "en": "Then let him call",
+       "ref": "96:17"
+      },
+      {
+       "ar": "سَنَدْعُ",
+       "en": "We will call",
+       "ref": "96:18"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "غير",
+     "letters": "غ ي ر",
+     "meaning": "to change, to alter",
+     "quranCount": 154,
+     "words": [
+      {
+       "ar": "غَيْرُ",
+       "en": "never",
+       "ref": "84:25"
+      },
+      {
+       "ar": "فَٱلْمُغِيرَٰتِ",
+       "en": "And the chargers",
+       "ref": "100:3"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "بلو",
+     "letters": "ب ل و",
+     "meaning": "to test",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "تُبْلَى",
+       "en": "will be tested",
+       "ref": "86:9"
+      },
+      {
+       "ar": "ٱبْتَلَىٰهُ",
+       "en": "try him",
+       "ref": "89:15"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "شقو",
+     "letters": "ش ق و",
+     "meaning": "to be wretched, to be miserable",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "ٱلْأَشْقَى",
+       "en": "the wretched one",
+       "ref": "87:11"
+      },
+      {
+       "ar": "أَشْقَىٰهَا",
+       "en": "(the) most wicked of them",
+       "ref": "91:12"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "غشو",
+     "letters": "غ ش و",
+     "meaning": "to deceive, to cheat",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "ٱلْغَـٰشِيَةِ",
+       "en": "(of) the Overwhelming",
+       "ref": "88:1"
+      },
+      {
+       "ar": "يَغْشَىٰهَا",
+       "en": "it covers it",
+       "ref": "91:4"
+      },
+      {
+       "ar": "يَغْشَىٰ",
+       "en": "it covers",
+       "ref": "92:1"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "نصب",
+     "letters": "ن ص ب",
+     "meaning": "to set up, to erect",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "نَّاصِبَةٌۭ",
+       "en": "exhausted",
+       "ref": "88:3"
+      },
+      {
+       "ar": "نُصِبَتْ",
+       "en": "they are fixed",
+       "ref": "88:19"
+      },
+      {
+       "ar": "فَٱنصَبْ",
+       "en": "then labor hard",
+       "ref": "94:7"
+      }
+     ],
+     "inJuzAmma": 3
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 92,
+     "name": "Al-Layl"
+    }
+   ],
+   "pctJuzAmma": 65
+  },
+  {
+   "day": 15,
+   "title": "Now follow Al-Ghashiyah and Al-Fajr",
+   "roots": [
+    {
+     "root": "ليس",
+     "letters": "ل ي س",
+     "meaning": "to not be, to be absent",
+     "quranCount": 89,
+     "words": [
+      {
+       "ar": "لَّيْسَ",
+       "en": "Not is",
+       "ref": "88:6"
+      },
+      {
+       "ar": "لَّسْتَ",
+       "en": "You are not",
+       "ref": "88:22"
+      },
+      {
+       "ar": "أَلَيْسَ",
+       "en": "Is not",
+       "ref": "95:8"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "كثر",
+     "letters": "ك ث ر",
+     "meaning": "to be many, to increase",
+     "quranCount": 167,
+     "words": [
+      {
+       "ar": "فَأَكْثَرُوا۟",
+       "en": "And (made) much",
+       "ref": "89:12"
+      },
+      {
+       "ar": "ٱلتَّكَاثُرُ",
+       "en": "the competition to increase",
+       "ref": "102:1"
+      },
+      {
+       "ar": "ٱلْكَوْثَرَ",
+       "en": "Al-Kauthar",
+       "ref": "108:1"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "سكن",
+     "letters": "س ك ن",
+     "meaning": "to dwell, to settle, to reside",
+     "quranCount": 69,
+     "words": [
+      {
+       "ar": "ٱلْمِسْكِينِ",
+       "en": "the poor",
+       "ref": "89:18"
+      },
+      {
+       "ar": "مِسْكِينًۭا",
+       "en": "a needy person",
+       "ref": "90:16"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "اكل",
+     "letters": "ا ك ل",
+     "meaning": "to eat",
+     "quranCount": 109,
+     "words": [
+      {
+       "ar": "وَتَأْكُلُونَ",
+       "en": "And you consume",
+       "ref": "89:19"
+      },
+      {
+       "ar": "أَكْلًۭا",
+       "en": "devouring",
+       "ref": "89:19"
+      },
+      {
+       "ar": "مَّأْكُولٍۭ",
+       "en": "eaten up",
+       "ref": "105:5"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "دكك",
+     "letters": "د ك ك",
+     "meaning": "to crush, to pound",
+     "quranCount": 7,
+     "words": [
+      {
+       "ar": "دُكَّتِ",
+       "en": "is leveled",
+       "ref": "89:21"
+      },
+      {
+       "ar": "دَكًّۭا",
+       "en": "pounded",
+       "ref": "89:21"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "دخل",
+     "letters": "د خ ل",
+     "meaning": "to enter, to go in",
+     "quranCount": 126,
+     "words": [
+      {
+       "ar": "فَٱدْخُلِى",
+       "en": "So enter",
+       "ref": "89:29"
+      },
+      {
+       "ar": "وَٱدْخُلِى",
+       "en": "And enter",
+       "ref": "89:30"
+      },
+      {
+       "ar": "يَدْخُلُونَ",
+       "en": "entering",
+       "ref": "110:2"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "عقب",
+     "letters": "ع ق ب",
+     "meaning": "to follow, to come after",
+     "quranCount": 80,
+     "words": [
+      {
+       "ar": "ٱلْعَقَبَةَ",
+       "en": "the steep path",
+       "ref": "90:11"
+      },
+      {
+       "ar": "ٱلْعَقَبَةُ",
+       "en": "the steep path (is)",
+       "ref": "90:12"
+      },
+      {
+       "ar": "عُقْبَـٰهَا",
+       "en": "its consequences",
+       "ref": "91:15"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "حسن",
+     "letters": "ح س ن",
+     "meaning": "to be good, to be beautiful",
+     "quranCount": 194,
+     "words": [
+      {
+       "ar": "بِٱلْحُسْنَىٰ",
+       "en": "in the best",
+       "ref": "92:6"
+      },
+      {
+       "ar": "أَحْسَنِ",
+       "en": "(the) best",
+       "ref": "95:4"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "عسر",
+     "letters": "ع س ر",
+     "meaning": "to be difficult, to be hard",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "لِلْعُسْرَىٰ",
+       "en": "towards [the] difficulty",
+       "ref": "92:10"
+      },
+      {
+       "ar": "ٱلْعُسْرِ",
+       "en": "the hardship",
+       "ref": "94:5"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "وجد",
+     "letters": "و ج د",
+     "meaning": "to find",
+     "quranCount": 107,
+     "words": [
+      {
+       "ar": "يَجِدْكَ",
+       "en": "He find you",
+       "ref": "93:6"
+      },
+      {
+       "ar": "وَوَجَدَكَ",
+       "en": "And He found you",
+       "ref": "93:7"
+      }
+     ],
+     "inJuzAmma": 3
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 88,
+     "name": "Al-Ghashiyah"
+    },
+    {
+     "number": 89,
+     "name": "Al-Fajr"
+    },
+    {
+     "number": 93,
+     "name": "Ad-Duhaa"
+    },
+    {
+     "number": 102,
+     "name": "At-Takathur"
+    }
+   ],
+   "pctJuzAmma": 67
+  },
+  {
+   "day": 16,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "الف",
+     "letters": "ا ل ف",
+     "meaning": "to familiarize, to make accustomed",
+     "quranCount": 22,
+     "words": [
+      {
+       "ar": "أَلْفِ",
+       "en": "a thousand",
+       "ref": "97:3"
+      },
+      {
+       "ar": "لِإِيلَـٰفِ",
+       "en": "For (the) familiarity",
+       "ref": "106:1"
+      },
+      {
+       "ar": "إِۦلَـٰفِهِمْ",
+       "en": "Their familiarity",
+       "ref": "106:2"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "خلد",
+     "letters": "خ ل د",
+     "meaning": "to remain, to last eternally",
+     "quranCount": 87,
+     "words": [
+      {
+       "ar": "خَـٰلِدِينَ",
+       "en": "abiding eternally",
+       "ref": "98:6"
+      },
+      {
+       "ar": "أَخْلَدَهُۥ",
+       "en": "will make him immortal",
+       "ref": "104:3"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "قرع",
+     "letters": "ق ر ع",
+     "meaning": "to knock/strike",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "ٱلْقَارِعَةُ",
+       "en": "The Striking Calamity",
+       "ref": "101:1"
+      }
+     ],
+     "inJuzAmma": 3
+    },
+    {
+     "root": "وتد",
+     "letters": "و ت د",
+     "meaning": "to peg; to secure",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "أَوْتَادًۭا",
+       "en": "(as) pegs",
+       "ref": "78:7"
+      },
+      {
+       "ar": "ٱلْأَوْتَادِ",
+       "en": "stakes",
+       "ref": "89:10"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "زوج",
+     "letters": "ز و ج",
+     "meaning": "to pair, to match",
+     "quranCount": 81,
+     "words": [
+      {
+       "ar": "أَزْوَٰجًۭا",
+       "en": "(in) pairs",
+       "ref": "78:8"
+      },
+      {
+       "ar": "زُوِّجَتْ",
+       "en": "are paired",
+       "ref": "81:7"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عيش",
+     "letters": "ع ي ش",
+     "meaning": "to live",
+     "quranCount": 8,
+     "words": [
+      {
+       "ar": "مَعَاشًۭا",
+       "en": "(for) livelihood",
+       "ref": "78:11"
+      },
+      {
+       "ar": "عِيشَةٍۢ",
+       "en": "a life",
+       "ref": "101:7"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عصر",
+     "letters": "ع ص ر",
+     "meaning": "to squeeze, to press",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "ٱلْمُعْصِرَٰتِ",
+       "en": "the rain clouds",
+       "ref": "78:14"
+      },
+      {
+       "ar": "وَٱلْعَصْرِ",
+       "en": "By the time",
+       "ref": "103:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نبت",
+     "letters": "ن ب ت",
+     "meaning": "to grow, to sprout",
+     "quranCount": 26,
+     "words": [
+      {
+       "ar": "وَنَبَاتًۭا",
+       "en": "and vegetation",
+       "ref": "78:15"
+      },
+      {
+       "ar": "فَأَنۢبَتْنَا",
+       "en": "Then We caused to grow",
+       "ref": "80:27"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فصل",
+     "letters": "ف ص ل",
+     "meaning": "to separate, to divide, to distinguish",
+     "quranCount": 43,
+     "words": [
+      {
+       "ar": "ٱلْفَصْلِ",
+       "en": "(of) the Judgment",
+       "ref": "78:17"
+      },
+      {
+       "ar": "فَصْلٌۭ",
+       "en": "decisive",
+       "ref": "86:13"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "صور",
+     "letters": "ص و ر",
+     "meaning": "to form, to shape",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "ٱلصُّورِ",
+       "en": "the trumpet",
+       "ref": "78:18"
+      },
+      {
+       "ar": "صُورَةٍۢ",
+       "en": "form",
+       "ref": "82:8"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 68
+  },
+  {
+   "day": 17,
+   "title": "Now follow An-Nasr",
+   "roots": [
+    {
+     "root": "فوج",
+     "letters": "ف و ج",
+     "meaning": "group, crowd",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "أَفْوَاجًۭا",
+       "en": "(in) crowds",
+       "ref": "78:18"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فتح",
+     "letters": "ف ت ح",
+     "meaning": "to open, to conquer",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "وَفُتِحَتِ",
+       "en": "And is opened",
+       "ref": "78:19"
+      },
+      {
+       "ar": "وَٱلْفَتْحُ",
+       "en": "and the Victory",
+       "ref": "110:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سير",
+     "letters": "س ي ر",
+     "meaning": "to travel, to journey",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "وَسُيِّرَتِ",
+       "en": "And are moved",
+       "ref": "78:20"
+      },
+      {
+       "ar": "سُيِّرَتْ",
+       "en": "are moved away",
+       "ref": "81:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "رصد",
+     "letters": "ر ص د",
+     "meaning": "to observe, to watch",
+     "quranCount": 6,
+     "words": [
+      {
+       "ar": "مِرْصَادًۭا",
+       "en": "lying in wait",
+       "ref": "78:21"
+      },
+      {
+       "ar": "لَبِٱلْمِرْصَادِ",
+       "en": "(is) surely Ever Watchful",
+       "ref": "89:14"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "لبث",
+     "letters": "ل ب ث",
+     "meaning": "to remain",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "لَّـٰبِثِينَ",
+       "en": "(They will) be remaining",
+       "ref": "78:23"
+      },
+      {
+       "ar": "يَلْبَثُوٓا۟",
+       "en": "they had remained",
+       "ref": "79:46"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ذوق",
+     "letters": "ذ و ق",
+     "meaning": "to taste",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "يَذُوقُونَ",
+       "en": "they will taste",
+       "ref": "78:24"
+      },
+      {
+       "ar": "فَذُوقُوا۟",
+       "en": "So taste",
+       "ref": "78:30"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "شرب",
+     "letters": "ش ر ب",
+     "meaning": "to drink",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "شَرَابًا",
+       "en": "any drink",
+       "ref": "78:24"
+      },
+      {
+       "ar": "يَشْرَبُ",
+       "en": "will drink",
+       "ref": "83:28"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "غسق",
+     "letters": "غ س ق",
+     "meaning": "to become dark (night)",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "وَغَسَّاقًۭا",
+       "en": "and purulence",
+       "ref": "78:25"
+      },
+      {
+       "ar": "غَاسِقٍ",
+       "en": "(of) darkness",
+       "ref": "113:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فوز",
+     "letters": "ف و ز",
+     "meaning": "to win, to succeed",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "مَفَازًا",
+       "en": "(is) success",
+       "ref": "78:31"
+      },
+      {
+       "ar": "ٱلْفَوْزُ",
+       "en": "(is) the success",
+       "ref": "85:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حدق",
+     "letters": "ح د ق",
+     "meaning": "to stare, to gaze",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "حَدَآئِقَ",
+       "en": "Gardens",
+       "ref": "78:32"
+      },
+      {
+       "ar": "وَحَدَآئِقَ",
+       "en": "And gardens",
+       "ref": "80:30"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 110,
+     "name": "An-Nasr"
+    }
+   ],
+   "pctJuzAmma": 70
+  },
+  {
+   "day": 18,
+   "title": "Now follow An-Naba",
+   "roots": [
+    {
+     "root": "عنب",
+     "letters": "ع ن ب",
+     "meaning": "grapes, vine",
+     "quranCount": 11,
+     "words": [
+      {
+       "ar": "وَأَعْنَـٰبًۭا",
+       "en": "and grapevines",
+       "ref": "78:32"
+      },
+      {
+       "ar": "وَعِنَبًۭا",
+       "en": "And grapes",
+       "ref": "80:28"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سمع",
+     "letters": "س م ع",
+     "meaning": "to hear",
+     "quranCount": 185,
+     "words": [
+      {
+       "ar": "يَسْمَعُونَ",
+       "en": "they will hear",
+       "ref": "78:35"
+      },
+      {
+       "ar": "تَسْمَعُ",
+       "en": "they will hear",
+       "ref": "88:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "لغو",
+     "letters": "ل غ و",
+     "meaning": "to speak vainly, to talk idly",
+     "quranCount": 11,
+     "words": [
+      {
+       "ar": "لَغْوًۭا",
+       "en": "any vain talk",
+       "ref": "78:35"
+      },
+      {
+       "ar": "لَـٰغِيَةًۭ",
+       "en": "vain talk",
+       "ref": "88:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "روح",
+     "letters": "ر و ح",
+     "meaning": "to go, to depart, to travel",
+     "quranCount": 57,
+     "words": [
+      {
+       "ar": "ٱلرُّوحُ",
+       "en": "the Spirit",
+       "ref": "78:38"
+      },
+      {
+       "ar": "وَٱلرُّوحُ",
+       "en": "and the Spirit",
+       "ref": "97:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "اخذ",
+     "letters": "ا خ ذ",
+     "meaning": "to take",
+     "quranCount": 273,
+     "words": [
+      {
+       "ar": "ٱتَّخَذَ",
+       "en": "let him take",
+       "ref": "78:39"
+      },
+      {
+       "ar": "فَأَخَذَهُ",
+       "en": "So seized him",
+       "ref": "79:25"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نشط",
+     "letters": "ن ش ط",
+     "meaning": "to be active, to be brisk",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "وَٱلنَّـٰشِطَـٰتِ",
+       "en": "And those who draw out",
+       "ref": "79:2"
+      },
+      {
+       "ar": "نَشْطًۭا",
+       "en": "gently",
+       "ref": "79:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سبق",
+     "letters": "س ب ق",
+     "meaning": "to precede, to come before",
+     "quranCount": 37,
+     "words": [
+      {
+       "ar": "فَٱلسَّـٰبِقَـٰتِ",
+       "en": "And those who race each other",
+       "ref": "79:4"
+      },
+      {
+       "ar": "سَبْقًۭا",
+       "en": "(in) a race",
+       "ref": "79:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "دبر",
+     "letters": "د ب ر",
+     "meaning": "to plan, to scheme",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "فَٱلْمُدَبِّرَٰتِ",
+       "en": "And those who arrange",
+       "ref": "79:5"
+      },
+      {
+       "ar": "أَدْبَرَ",
+       "en": "he turned his back",
+       "ref": "79:22"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "رجف",
+     "letters": "ر ج ف",
+     "meaning": "to shake, to tremble",
+     "quranCount": 8,
+     "words": [
+      {
+       "ar": "تَرْجُفُ",
+       "en": "will quake",
+       "ref": "79:6"
+      },
+      {
+       "ar": "ٱلرَّاجِفَةُ",
+       "en": "the quaking one",
+       "ref": "79:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بصر",
+     "letters": "ب ص ر",
+     "meaning": "to see, to look",
+     "quranCount": 148,
+     "words": [
+      {
+       "ar": "أَبْصَـٰرُهَا",
+       "en": "Their eyes",
+       "ref": "79:9"
+      },
+      {
+       "ar": "بَصِيرًۭا",
+       "en": "All-Seer",
+       "ref": "84:15"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 78,
+     "name": "An-Naba"
+    }
+   ],
+   "pctJuzAmma": 71
+  },
+  {
+   "day": 19,
+   "title": "Now follow An-Nazi'at and Al-A'la",
+   "roots": [
+    {
+     "root": "خشع",
+     "letters": "خ ش ع",
+     "meaning": "to be humble, to be submissive",
+     "quranCount": 17,
+     "words": [
+      {
+       "ar": "خَـٰشِعَةٌۭ",
+       "en": "humbled",
+       "ref": "79:9"
+      },
+      {
+       "ar": "خَـٰشِعَةٌ",
+       "en": "(will be) humbled",
+       "ref": "88:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ردد",
+     "letters": "ر د د",
+     "meaning": "to repeat, to send back",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "لَمَرْدُودُونَ",
+       "en": "indeed be returned",
+       "ref": "79:10"
+      },
+      {
+       "ar": "رَدَدْنَـٰهُ",
+       "en": "We returned him",
+       "ref": "95:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ودي",
+     "letters": "و د ي",
+     "meaning": "valley",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "بِٱلْوَادِ",
+       "en": "in the valley",
+       "ref": "79:16"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ذهب",
+     "letters": "ذ ه ب",
+     "meaning": "to go, to depart",
+     "quranCount": 56,
+     "words": [
+      {
+       "ar": "ٱذْهَبْ",
+       "en": "Go",
+       "ref": "79:17"
+      },
+      {
+       "ar": "تَذْهَبُونَ",
+       "en": "are you going",
+       "ref": "81:26"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حشر",
+     "letters": "ح ش ر",
+     "meaning": "to gather, to assemble",
+     "quranCount": 43,
+     "words": [
+      {
+       "ar": "فَحَشَرَ",
+       "en": "And he gathered",
+       "ref": "79:23"
+      },
+      {
+       "ar": "حُشِرَتْ",
+       "en": "are gathered",
+       "ref": "81:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "رعي",
+     "letters": "ر ع ي",
+     "meaning": "to tend, to herd, to shepherd",
+     "quranCount": 10,
+     "words": [
+      {
+       "ar": "وَمَرْعَىٰهَا",
+       "en": "and its pasture",
+       "ref": "79:31"
+      },
+      {
+       "ar": "ٱلْمَرْعَىٰ",
+       "en": "the pasture",
+       "ref": "87:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "رسو",
+     "letters": "ر س و",
+     "meaning": "to anchor, to rest",
+     "quranCount": 14,
+     "words": [
+      {
+       "ar": "أَرْسَىٰهَا",
+       "en": "He made them firm",
+       "ref": "79:32"
+      },
+      {
+       "ar": "مُرْسَىٰهَا",
+       "en": "(is) its arrival",
+       "ref": "79:42"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "متع",
+     "letters": "م ت ع",
+     "meaning": "to enjoy, to take pleasure",
+     "quranCount": 70,
+     "words": [
+      {
+       "ar": "مَتَـٰعًۭا",
+       "en": "(As) a provision",
+       "ref": "79:33"
+      },
+      {
+       "ar": "مَّتَـٰعًۭا",
+       "en": "(As) a provision",
+       "ref": "80:32"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "اثر",
+     "letters": "ا ث ر",
+     "meaning": "to follow, to pursue",
+     "quranCount": 21,
+     "words": [
+      {
+       "ar": "وَءَاثَرَ",
+       "en": "And preferred",
+       "ref": "79:38"
+      },
+      {
+       "ar": "تُؤْثِرُونَ",
+       "en": "You prefer",
+       "ref": "87:16"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "دنو",
+     "letters": "د ن و",
+     "meaning": "to draw near, to approach",
+     "quranCount": 133,
+     "words": [
+      {
+       "ar": "ٱلدُّنْيَا",
+       "en": "(of) the world",
+       "ref": "79:38"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 79,
+     "name": "An-Nazi'at"
+    },
+    {
+     "number": 87,
+     "name": "Al-A'la"
+    }
+   ],
+   "pctJuzAmma": 72
+  },
+  {
+   "day": 20,
+   "title": "Now follow 'Abasa and Al-Qari'ah",
+   "roots": [
+    {
+     "root": "هوي",
+     "letters": "ه و ي",
+     "meaning": "to desire, to love",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "ٱلْهَوَىٰ",
+       "en": "the vain desires",
+       "ref": "79:40"
+      },
+      {
+       "ar": "هَاوِيَةٌۭ",
+       "en": "(will be the) Pit",
+       "ref": "101:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نفع",
+     "letters": "ن ف ع",
+     "meaning": "to benefit",
+     "quranCount": 50,
+     "words": [
+      {
+       "ar": "فَتَنفَعَهُ",
+       "en": "so would benefit him",
+       "ref": "80:4"
+      },
+      {
+       "ar": "نَّفَعَتِ",
+       "en": "benefits",
+       "ref": "87:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "لهو",
+     "letters": "ل ه و",
+     "meaning": "to play, to amuse oneself",
+     "quranCount": 16,
+     "words": [
+      {
+       "ar": "تَلَهَّىٰ",
+       "en": "(are) distracted",
+       "ref": "80:10"
+      },
+      {
+       "ar": "أَلْهَىٰكُمُ",
+       "en": "Diverts you",
+       "ref": "102:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "طهر",
+     "letters": "ط ه ر",
+     "meaning": "to purify",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "مُّطَهَّرَةٍۭ",
+       "en": "purified",
+       "ref": "80:14"
+      },
+      {
+       "ar": "مُّطَهَّرَةًۭ",
+       "en": "purified",
+       "ref": "98:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سفر",
+     "letters": "س ف ر",
+     "meaning": "to travel, to journey",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "سَفَرَةٍۢ",
+       "en": "(of) scribes",
+       "ref": "80:15"
+      },
+      {
+       "ar": "مُّسْفِرَةٌۭ",
+       "en": "(will be) bright",
+       "ref": "80:38"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "موت",
+     "letters": "م و ت",
+     "meaning": "to die",
+     "quranCount": 165,
+     "words": [
+      {
+       "ar": "أَمَاتَهُۥ",
+       "en": "He causes him to die",
+       "ref": "80:21"
+      },
+      {
+       "ar": "يَمُوتُ",
+       "en": "he will die",
+       "ref": "87:13"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نشر",
+     "letters": "ن ش ر",
+     "meaning": "to spread, to scatter",
+     "quranCount": 21,
+     "words": [
+      {
+       "ar": "أَنشَرَهُۥ",
+       "en": "He will resurrect him",
+       "ref": "80:22"
+      },
+      {
+       "ar": "نُشِرَتْ",
+       "en": "are laid open",
+       "ref": "81:10"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "زيت",
+     "letters": "ز ي ت",
+     "meaning": "olive, olive oil",
+     "quranCount": 7,
+     "words": [
+      {
+       "ar": "وَزَيْتُونًۭا",
+       "en": "And olive",
+       "ref": "80:29"
+      },
+      {
+       "ar": "وَٱلزَّيْتُونِ",
+       "en": "and the olive",
+       "ref": "95:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فكه",
+     "letters": "ف ك ه",
+     "meaning": "to joke, to be playful",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "وَفَـٰكِهَةًۭ",
+       "en": "And fruits",
+       "ref": "80:31"
+      },
+      {
+       "ar": "فَكِهِينَ",
+       "en": "jesting",
+       "ref": "83:31"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "امم",
+     "letters": "ا م م",
+     "meaning": "mother; nation, community",
+     "quranCount": 118,
+     "words": [
+      {
+       "ar": "وَأُمِّهِۦ",
+       "en": "And his mother",
+       "ref": "80:35"
+      },
+      {
+       "ar": "فَأُمُّهُۥ",
+       "en": "His abode",
+       "ref": "101:9"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 80,
+     "name": "'Abasa"
+    },
+    {
+     "number": 101,
+     "name": "Al-Qari'ah"
+    }
+   ],
+   "pctJuzAmma": 74
+  },
+  {
+   "day": 21,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "ابو",
+     "letters": "ا ب و",
+     "meaning": "father",
+     "quranCount": 117,
+     "words": [
+      {
+       "ar": "وَأَبِيهِ",
+       "en": "and his father",
+       "ref": "80:35"
+      },
+      {
+       "ar": "أَبِى",
+       "en": "(of) Abu",
+       "ref": "111:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بشر",
+     "letters": "ب ش ر",
+     "meaning": "to give glad tidings",
+     "quranCount": 123,
+     "words": [
+      {
+       "ar": "مُّسْتَبْشِرَةٌۭ",
+       "en": "rejoicing at good news",
+       "ref": "80:39"
+      },
+      {
+       "ar": "فَبَشِّرْهُم",
+       "en": "so give them tidings",
+       "ref": "84:24"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "شمس",
+     "letters": "ش م س",
+     "meaning": "sun",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "ٱلشَّمْسُ",
+       "en": "the sun",
+       "ref": "81:1"
+      },
+      {
+       "ar": "وَٱلشَّمْسِ",
+       "en": "By the sun",
+       "ref": "91:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نجم",
+     "letters": "ن ج م",
+     "meaning": "to appear as a star",
+     "quranCount": 13,
+     "words": [
+      {
+       "ar": "ٱلنُّجُومُ",
+       "en": "the stars",
+       "ref": "81:2"
+      },
+      {
+       "ar": "ٱلنَّجْمُ",
+       "en": "(It is) the star",
+       "ref": "86:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عشر",
+     "letters": "ع ش ر",
+     "meaning": "to number ten, to count",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "ٱلْعِشَارُ",
+       "en": "the full-term she-camels",
+       "ref": "81:4"
+      },
+      {
+       "ar": "عَشْرٍۢ",
+       "en": "ten",
+       "ref": "89:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بحر",
+     "letters": "ب ح ر",
+     "meaning": "to spread out/to explain",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "ٱلْبِحَارُ",
+       "en": "the seas",
+       "ref": "81:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ذنب",
+     "letters": "ذ ن ب",
+     "meaning": "to commit a sin",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "ذَنۢبٍۢ",
+       "en": "sin",
+       "ref": "81:9"
+      },
+      {
+       "ar": "بِذَنۢبِهِمْ",
+       "en": "for their sin",
+       "ref": "91:14"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سعر",
+     "letters": "س ع ر",
+     "meaning": "to set a price, to value",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "سُعِّرَتْ",
+       "en": "is set ablaze",
+       "ref": "81:12"
+      },
+      {
+       "ar": "سَعِيرًا",
+       "en": "(in) a Blaze",
+       "ref": "84:12"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "خنس",
+     "letters": "خ ن س",
+     "meaning": "to hide, to shrink back",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "بِٱلْخُنَّسِ",
+       "en": "by the retreating planets",
+       "ref": "81:15"
+      },
+      {
+       "ar": "ٱلْخَنَّاسِ",
+       "en": "the one who withdraws",
+       "ref": "114:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "صبح",
+     "letters": "ص ب ح",
+     "meaning": "to become morning, to dawn",
+     "quranCount": 45,
+     "words": [
+      {
+       "ar": "وَٱلصُّبْحِ",
+       "en": "And the dawn",
+       "ref": "81:18"
+      },
+      {
+       "ar": "صُبْحًۭا",
+       "en": "(at) dawn",
+       "ref": "100:3"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 75
+  },
+  {
+   "day": 22,
+   "title": "Now follow At-Takwir and Al-Mutaffifin",
+   "roots": [
+    {
+     "root": "قوي",
+     "letters": "ق و ي",
+     "meaning": "strength, power",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "قُوَّةٍ",
+       "en": "power",
+       "ref": "81:20"
+      },
+      {
+       "ar": "قُوَّةٍۢ",
+       "en": "power",
+       "ref": "86:10"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عرش",
+     "letters": "ع ر ش",
+     "meaning": "to establish, to set up",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "ٱلْعَرْشِ",
+       "en": "the Throne",
+       "ref": "81:20"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "طوع",
+     "letters": "ط و ع",
+     "meaning": "to obey, to submit willingly",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "مُّطَاعٍۢ",
+       "en": "One to be obeyed",
+       "ref": "81:21"
+      },
+      {
+       "ar": "تُطِعْهُ",
+       "en": "obey him",
+       "ref": "96:19"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "غيب",
+     "letters": "غ ي ب",
+     "meaning": "to hide, to conceal",
+     "quranCount": 60,
+     "words": [
+      {
+       "ar": "ٱلْغَيْبِ",
+       "en": "the unseen",
+       "ref": "81:24"
+      },
+      {
+       "ar": "بِغَآئِبِينَ",
+       "en": "(will be) absent",
+       "ref": "82:16"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بعثر",
+     "letters": "ب ع ث ر",
+     "meaning": "to scatter, to disperse",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "بُعْثِرَتْ",
+       "en": "are overturned",
+       "ref": "82:4"
+      },
+      {
+       "ar": "بُعْثِرَ",
+       "en": "will be scattered",
+       "ref": "100:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ركب",
+     "letters": "ر ك ب",
+     "meaning": "to ride, to mount",
+     "quranCount": 15,
+     "words": [
+      {
+       "ar": "رَكَّبَكَ",
+       "en": "He assembled you",
+       "ref": "82:8"
+      },
+      {
+       "ar": "لَتَرْكَبُنَّ",
+       "en": "You will surely embark",
+       "ref": "84:19"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "كيل",
+     "letters": "ك ي ل",
+     "meaning": "to measure, to weigh out",
+     "quranCount": 16,
+     "words": [
+      {
+       "ar": "ٱكْتَالُوا۟",
+       "en": "they take a measure",
+       "ref": "83:2"
+      },
+      {
+       "ar": "كَالُوهُمْ",
+       "en": "they give by measure (to) them",
+       "ref": "83:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ظنن",
+     "letters": "ظ ن ن",
+     "meaning": "to think, to suppose",
+     "quranCount": 69,
+     "words": [
+      {
+       "ar": "يَظُنُّ",
+       "en": "think",
+       "ref": "83:4"
+      },
+      {
+       "ar": "ظَنَّ",
+       "en": "(had) thought",
+       "ref": "84:14"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بعث",
+     "letters": "ب ع ث",
+     "meaning": "to send, to resurrect",
+     "quranCount": 67,
+     "words": [
+      {
+       "ar": "مَّبْعُوثُونَ",
+       "en": "(will be) resurrected",
+       "ref": "83:4"
+      },
+      {
+       "ar": "ٱنۢبَعَثَ",
+       "en": "(was) sent forth",
+       "ref": "91:12"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سجن",
+     "letters": "س ج ن",
+     "meaning": "to imprison, to confine",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "سِجِّينٍۢ",
+       "en": "Sijjin",
+       "ref": "83:7"
+      },
+      {
+       "ar": "سِجِّينٌۭ",
+       "en": "(is) Sijjin",
+       "ref": "83:8"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 81,
+     "name": "At-Takwir"
+    },
+    {
+     "number": 83,
+     "name": "Al-Mutaffifin"
+    }
+   ],
+   "pctJuzAmma": 76
+  },
+  {
+   "day": 23,
+   "title": "Now follow Al-Inshiqaq",
+   "roots": [
+    {
+     "root": "رقم",
+     "letters": "ر ق م",
+     "meaning": "to write, to mark",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "مَّرْقُومٌۭ",
+       "en": "written",
+       "ref": "83:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عدو",
+     "letters": "ع د و",
+     "meaning": "to be hostile, to oppose",
+     "quranCount": 106,
+     "words": [
+      {
+       "ar": "مُعْتَدٍ",
+       "en": "transgressor",
+       "ref": "83:12"
+      },
+      {
+       "ar": "وَٱلْعَـٰدِيَـٰتِ",
+       "en": "By the racers",
+       "ref": "100:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سطر",
+     "letters": "س ط ر",
+     "meaning": "to write, to compose",
+     "quranCount": 16,
+     "words": [
+      {
+       "ar": "أَسَـٰطِيرُ",
+       "en": "Stories",
+       "ref": "83:13"
+      },
+      {
+       "ar": "بِمُصَيْطِرٍ",
+       "en": "a controller",
+       "ref": "88:22"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "كسب",
+     "letters": "ك س ب",
+     "meaning": "to earn, to gain",
+     "quranCount": 67,
+     "words": [
+      {
+       "ar": "يَكْسِبُونَ",
+       "en": "earn",
+       "ref": "83:14"
+      },
+      {
+       "ar": "كَسَبَ",
+       "en": "he earned",
+       "ref": "111:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ارك",
+     "letters": "ا ر ك",
+     "meaning": "to ride",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "ٱلْأَرَآئِكِ",
+       "en": "thrones",
+       "ref": "83:23"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ختم",
+     "letters": "خ ت م",
+     "meaning": "to seal, to close",
+     "quranCount": 8,
+     "words": [
+      {
+       "ar": "مَّخْتُومٍ",
+       "en": "sealed",
+       "ref": "83:25"
+      },
+      {
+       "ar": "خِتَـٰمُهُۥ",
+       "en": "Its seal",
+       "ref": "83:26"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "مدد",
+     "letters": "م د د",
+     "meaning": "to extend, to stretch",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "مُدَّتْ",
+       "en": "is spread",
+       "ref": "84:3"
+      },
+      {
+       "ar": "مُّمَدَّدَةٍۭ",
+       "en": "extended",
+       "ref": "104:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "لقي",
+     "letters": "ل ق ي",
+     "meaning": "to meet, to encounter",
+     "quranCount": 146,
+     "words": [
+      {
+       "ar": "وَأَلْقَتْ",
+       "en": "And has cast out",
+       "ref": "84:4"
+      },
+      {
+       "ar": "فَمُلَـٰقِيهِ",
+       "en": "and you (will) meet Him",
+       "ref": "84:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "كدح",
+     "letters": "ك د ح",
+     "meaning": "to toil, to strive",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "كَادِحٌ",
+       "en": "(are) laboring",
+       "ref": "84:6"
+      },
+      {
+       "ar": "كَدْحًۭا",
+       "en": "(with) exertion",
+       "ref": "84:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "يمن",
+     "letters": "ي م ن",
+     "meaning": "to be blessed",
+     "quranCount": 71,
+     "words": [
+      {
+       "ar": "بِيَمِينِهِۦ",
+       "en": "in his right (hand)",
+       "ref": "84:7"
+      },
+      {
+       "ar": "ٱلْمَيْمَنَةِ",
+       "en": "(of) the right (hand)",
+       "ref": "90:18"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 84,
+     "name": "Al-Inshiqaq"
+    }
+   ],
+   "pctJuzAmma": 77
+  },
+  {
+   "day": 24,
+   "title": "Now follow Ash-Shams and At-Tin",
+   "roots": [
+    {
+     "root": "ظهر",
+     "letters": "ظ ه ر",
+     "meaning": "to appear, to become manifest",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "ظَهْرِهِۦ",
+       "en": "his back",
+       "ref": "84:10"
+      },
+      {
+       "ar": "ظَهْرَكَ",
+       "en": "your back",
+       "ref": "94:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "وسق",
+     "letters": "و س ق",
+     "meaning": "to load, to gather",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "وَسَقَ",
+       "en": "it envelops",
+       "ref": "84:17"
+      },
+      {
+       "ar": "ٱتَّسَقَ",
+       "en": "it becomes full",
+       "ref": "84:18"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "قمر",
+     "letters": "ق م ر",
+     "meaning": "moon",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "وَٱلْقَمَرِ",
+       "en": "And the moon",
+       "ref": "84:18"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "طبق",
+     "letters": "ط ب ق",
+     "meaning": "to accord/conform",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "طَبَقًا",
+       "en": "(to) stage",
+       "ref": "84:19"
+      },
+      {
+       "ar": "طَبَقٍۢ",
+       "en": "stage",
+       "ref": "84:19"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سجد",
+     "letters": "س ج د",
+     "meaning": "to prostrate",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "يَسْجُدُونَ ۩",
+       "en": "they prostrate",
+       "ref": "84:21"
+      },
+      {
+       "ar": "وَٱسْجُدْ",
+       "en": "But prostrate",
+       "ref": "96:19"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "اجر",
+     "letters": "ا ج ر",
+     "meaning": "to reward, to hire",
+     "quranCount": 108,
+     "words": [
+      {
+       "ar": "أَجْرٌ",
+       "en": "(is) a reward",
+       "ref": "84:25"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "منن",
+     "letters": "م ن ن",
+     "meaning": "to show favor, to bestow grace",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "مَمْنُونٍۭ",
+       "en": "ending",
+       "ref": "84:25"
+      },
+      {
+       "ar": "مَمْنُونٍۢ",
+       "en": "ending",
+       "ref": "95:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "وقد",
+     "letters": "و ق د",
+     "meaning": "to kindle, to light",
+     "quranCount": 11,
+     "words": [
+      {
+       "ar": "ٱلْوَقُودِ",
+       "en": "(of) the fuel",
+       "ref": "85:5"
+      },
+      {
+       "ar": "ٱلْمُوقَدَةُ",
+       "en": "kindled",
+       "ref": "104:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حمد",
+     "letters": "ح م د",
+     "meaning": "to praise, to commend",
+     "quranCount": 68,
+     "words": [
+      {
+       "ar": "ٱلْحَمِيدِ",
+       "en": "the Praiseworthy",
+       "ref": "85:8"
+      },
+      {
+       "ar": "بِحَمْدِ",
+       "en": "with (the) praises",
+       "ref": "110:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "توب",
+     "letters": "ت و ب",
+     "meaning": "to repent, to turn back",
+     "quranCount": 87,
+     "words": [
+      {
+       "ar": "يَتُوبُوا۟",
+       "en": "they repented",
+       "ref": "85:10"
+      },
+      {
+       "ar": "تَوَّابًۢا",
+       "en": "Oft-Returning",
+       "ref": "110:3"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 91,
+     "name": "Ash-Shams"
+    },
+    {
+     "number": 95,
+     "name": "At-Tin"
+    }
+   ],
+   "pctJuzAmma": 79
+  },
+  {
+   "day": 25,
+   "title": "Now follow Al-Buruj and At-Tariq",
+   "roots": [
+    {
+     "root": "تحت",
+     "letters": "ت ح ت",
+     "meaning": "under, beneath",
+     "quranCount": 51,
+     "words": [
+      {
+       "ar": "تَحْتِهَا",
+       "en": "underneath it",
+       "ref": "85:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عود",
+     "letters": "ع و د",
+     "meaning": "to return, to come back",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "وَيُعِيدُ",
+       "en": "and repeats",
+       "ref": "85:13"
+      },
+      {
+       "ar": "بِعَادٍ",
+       "en": "with Aad",
+       "ref": "89:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "غفر",
+     "letters": "غ ف ر",
+     "meaning": "to forgive, to pardon",
+     "quranCount": 234,
+     "words": [
+      {
+       "ar": "ٱلْغَفُورُ",
+       "en": "(is) the Oft-Forgiving",
+       "ref": "85:14"
+      },
+      {
+       "ar": "وَٱسْتَغْفِرْهُ ۚ",
+       "en": "and ask His forgiveness",
+       "ref": "110:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "مجد",
+     "letters": "م ج د",
+     "meaning": "to glory, to be glorious",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "ٱلْمَجِيدُ",
+       "en": "the Glorious",
+       "ref": "85:15"
+      },
+      {
+       "ar": "مَّجِيدٌۭ",
+       "en": "Glorious",
+       "ref": "85:21"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "رود",
+     "letters": "ر و د",
+     "meaning": "to tend, to pasture",
+     "quranCount": 148,
+     "words": [
+      {
+       "ar": "يُرِيدُ",
+       "en": "He intends",
+       "ref": "85:16"
+      },
+      {
+       "ar": "رُوَيْدًۢا",
+       "en": "little",
+       "ref": "86:17"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "طرق",
+     "letters": "ط ر ق",
+     "meaning": "to knock/strike",
+     "quranCount": 11,
+     "words": [
+      {
+       "ar": "وَٱلطَّارِقِ",
+       "en": "and the night comer",
+       "ref": "86:1"
+      },
+      {
+       "ar": "ٱلطَّارِقُ",
+       "en": "the night comer (is)",
+       "ref": "86:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نصر",
+     "letters": "ن ص ر",
+     "meaning": "to help",
+     "quranCount": 158,
+     "words": [
+      {
+       "ar": "نَاصِرٍۢ",
+       "en": "any helper",
+       "ref": "86:10"
+      },
+      {
+       "ar": "نَصْرُ",
+       "en": "(the) Help",
+       "ref": "110:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "مهل",
+     "letters": "م ه ل",
+     "meaning": "to delay, to postpone",
+     "quranCount": 6,
+     "words": [
+      {
+       "ar": "فَمَهِّلِ",
+       "en": "So give respite",
+       "ref": "86:17"
+      },
+      {
+       "ar": "أَمْهِلْهُمْ",
+       "en": "Give respite to them ",
+       "ref": "86:17"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "جنب",
+     "letters": "ج ن ب",
+     "meaning": "to keep away, to shun",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "وَيَتَجَنَّبُهَا",
+       "en": "And will avoid it",
+       "ref": "87:11"
+      },
+      {
+       "ar": "وَسَيُجَنَّبُهَا",
+       "en": "But will be removed from it",
+       "ref": "92:17"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فلح",
+     "letters": "ف ل ح",
+     "meaning": "to succeed, to prosper",
+     "quranCount": 40,
+     "words": [
+      {
+       "ar": "أَفْلَحَ",
+       "en": "has succeeded",
+       "ref": "87:14"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 85,
+     "name": "Al-Buruj"
+    },
+    {
+     "number": 86,
+     "name": "At-Tariq"
+    }
+   ],
+   "pctJuzAmma": 80
+  },
+  {
+   "day": 26,
+   "title": "Now follow Al-Balad",
+   "roots": [
+    {
+     "root": "حمي",
+     "letters": "ح م ي",
+     "meaning": "to have a fever, to burn",
+     "quranCount": 6,
+     "words": [
+      {
+       "ar": "حَامِيَةًۭ",
+       "en": "intensely hot",
+       "ref": "88:4"
+      },
+      {
+       "ar": "حَامِيَةٌۢ",
+       "en": "intensely hot",
+       "ref": "101:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "جوع",
+     "letters": "ج و ع",
+     "meaning": "to hunger, to be hungry",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "جُوعٍۢ",
+       "en": "hunger",
+       "ref": "88:7"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "وضع",
+     "letters": "و ض ع",
+     "meaning": "to place, to set down, to put",
+     "quranCount": 26,
+     "words": [
+      {
+       "ar": "مَّوْضُوعَةٌۭ",
+       "en": "put in place",
+       "ref": "88:14"
+      },
+      {
+       "ar": "وَوَضَعْنَا",
+       "en": "And We removed",
+       "ref": "94:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "بثث",
+     "letters": "ب ث ث",
+     "meaning": "to scatter, to spread out",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "مَبْثُوثَةٌ",
+       "en": "spread out",
+       "ref": "88:16"
+      },
+      {
+       "ar": "ٱلْمَبْثُوثِ",
+       "en": "scattered",
+       "ref": "101:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ابل",
+     "letters": "ا ب ل",
+     "meaning": "to turn towards",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "ٱلْإِبِلِ",
+       "en": "the camels",
+       "ref": "88:17"
+      },
+      {
+       "ar": "أَبَابِيلَ",
+       "en": "(in) flocks",
+       "ref": "105:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حجر",
+     "letters": "ح ج ر",
+     "meaning": "to prevent, to forbid",
+     "quranCount": 21,
+     "words": [
+      {
+       "ar": "حِجْرٍ",
+       "en": "who understand",
+       "ref": "89:5"
+      },
+      {
+       "ar": "بِحِجَارَةٍۢ",
+       "en": "with stones",
+       "ref": "105:4"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عمد",
+     "letters": "ع م د",
+     "meaning": "to intend deliberately, to aim",
+     "quranCount": 7,
+     "words": [
+      {
+       "ar": "ٱلْعِمَادِ",
+       "en": "lofty pillars",
+       "ref": "89:7"
+      },
+      {
+       "ar": "عَمَدٍۢ",
+       "en": "columns",
+       "ref": "104:9"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حضض",
+     "letters": "ح ض ض",
+     "meaning": "to urge, to incite",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "تَحَـٰٓضُّونَ",
+       "en": "you feel the urge",
+       "ref": "89:18"
+      },
+      {
+       "ar": "يَحُضُّ",
+       "en": "feel the urge",
+       "ref": "107:3"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "وثق",
+     "letters": "و ث ق",
+     "meaning": "to be firm, to be secure",
+     "quranCount": 34,
+     "words": [
+      {
+       "ar": "يُوثِقُ",
+       "en": "will bind",
+       "ref": "89:26"
+      },
+      {
+       "ar": "وَثَاقَهُۥٓ",
+       "en": "(as) His binding",
+       "ref": "89:26"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "فكك",
+     "letters": "ف ك ك",
+     "meaning": "to disintegrate/loosen",
+     "quranCount": 2,
+     "words": [
+      {
+       "ar": "فَكُّ",
+       "en": "(It is) freeing",
+       "ref": "90:13"
+      },
+      {
+       "ar": "مُنفَكِّينَ",
+       "en": "to be abandoned",
+       "ref": "98:1"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 90,
+     "name": "Al-Balad"
+    }
+   ],
+   "pctJuzAmma": 81
+  },
+  {
+   "day": 27,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "صبر",
+     "letters": "ص ب ر",
+     "meaning": "to be patient, to endure",
+     "quranCount": 103,
+     "words": [
+      {
+       "ar": "بِٱلصَّبْرِ",
+       "en": "to patience",
+       "ref": "90:17"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "وصد",
+     "letters": "و ص د",
+     "meaning": "to close; to block",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "مُّؤْصَدَةٌۢ",
+       "en": "closed in",
+       "ref": "90:20"
+      },
+      {
+       "ar": "مُّؤْصَدَةٌۭ",
+       "en": "closed over",
+       "ref": "104:8"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "جلو",
+     "letters": "ج ل و",
+     "meaning": "to polish, to make clear",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "جَلَّىٰهَا",
+       "en": "it displays it",
+       "ref": "91:3"
+      },
+      {
+       "ar": "تَجَلَّىٰ",
+       "en": "it shines in brightness",
+       "ref": "92:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "شتت",
+     "letters": "ش ت ت",
+     "meaning": "to disperse, to scatter",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "لَشَتَّىٰ",
+       "en": "(are) surely diverse",
+       "ref": "92:4"
+      },
+      {
+       "ar": "أَشْتَاتًۭا",
+       "en": "(in) scattered groups",
+       "ref": "99:6"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "سفل",
+     "letters": "س ف ل",
+     "meaning": "to be low, descend",
+     "quranCount": 10,
+     "words": [
+      {
+       "ar": "أَسْفَلَ",
+       "en": "(to the) lowest",
+       "ref": "95:5"
+      },
+      {
+       "ar": "سَـٰفِلِينَ",
+       "en": "(of the) low",
+       "ref": "95:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حكم",
+     "letters": "ح ك م",
+     "meaning": "to judge, to rule, to govern",
+     "quranCount": 210,
+     "words": [
+      {
+       "ar": "بِأَحْكَمِ",
+       "en": "(the) Most Just",
+       "ref": "95:8"
+      },
+      {
+       "ar": "ٱلْحَـٰكِمِينَ",
+       "en": "(of) the Judges",
+       "ref": "95:8"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نصي",
+     "letters": "ن ص ي",
+     "meaning": "forelock",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "بِٱلنَّاصِيَةِ",
+       "en": "by the forelock",
+       "ref": "96:15"
+      },
+      {
+       "ar": "نَاصِيَةٍۢ",
+       "en": "A forelock",
+       "ref": "96:16"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "طلع",
+     "letters": "ط ل ع",
+     "meaning": "to come out, to rise",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "مَطْلَعِ",
+       "en": "(the) emergence",
+       "ref": "97:5"
+      },
+      {
+       "ar": "تَطَّلِعُ",
+       "en": "mounts up",
+       "ref": "104:7"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "شرك",
+     "letters": "ش ر ك",
+     "meaning": "to associate, to share",
+     "quranCount": 168,
+     "words": [
+      {
+       "ar": "وَٱلْمُشْرِكِينَ",
+       "en": "and the polytheists",
+       "ref": "98:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "برا",
+     "letters": "ب ر ا",
+     "meaning": "to clear, to acquit",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "ٱلْبَرِيَّةِ",
+       "en": "(of) the creatures",
+       "ref": "98:6"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 83
+  },
+  {
+   "day": 28,
+   "title": "Now follow Al-Humazah",
+   "roots": [
+    {
+     "root": "زلزل",
+     "letters": "ز ل ز ل",
+     "meaning": "to shake, to quake",
+     "quranCount": 6,
+     "words": [
+      {
+       "ar": "زُلْزِلَتِ",
+       "en": "is shaken",
+       "ref": "99:1"
+      },
+      {
+       "ar": "زِلْزَالَهَا",
+       "en": "(with) its earthquake",
+       "ref": "99:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "خبر",
+     "letters": "خ ب ر",
+     "meaning": "to know, to inform",
+     "quranCount": 52,
+     "words": [
+      {
+       "ar": "أَخْبَارَهَا",
+       "en": "its news",
+       "ref": "99:4"
+      },
+      {
+       "ar": "لَّخَبِيرٌۢ",
+       "en": "(is) surely All-Aware",
+       "ref": "100:11"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "ذرر",
+     "letters": "ذ ر ر",
+     "meaning": "to scatter",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "ذَرَّةٍ",
+       "en": "(of) an atom",
+       "ref": "99:7"
+      },
+      {
+       "ar": "ذَرَّةٍۢ",
+       "en": "(of) an atom",
+       "ref": "99:8"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "جمع",
+     "letters": "ج م ع",
+     "meaning": "to gather, to collect",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "جَمْعًا",
+       "en": "collectively",
+       "ref": "100:5"
+      },
+      {
+       "ar": "جَمَعَ",
+       "en": "collects",
+       "ref": "104:2"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "يقن",
+     "letters": "ي ق ن",
+     "meaning": "to be certain",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "ٱلْيَقِينِ",
+       "en": "(of) certainty",
+       "ref": "102:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حطم",
+     "letters": "ح ط م",
+     "meaning": "to break, to smash",
+     "quranCount": 6,
+     "words": [
+      {
+       "ar": "ٱلْحُطَمَةِ",
+       "en": "the Crusher",
+       "ref": "104:4"
+      },
+      {
+       "ar": "ٱلْحُطَمَةُ",
+       "en": "the Crusher (is)",
+       "ref": "104:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "تبب",
+     "letters": "ت ب ب",
+     "meaning": "to ruin, to destroy",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "تَبَّتْ",
+       "en": "Perish",
+       "ref": "111:1"
+      },
+      {
+       "ar": "وَتَبَّ",
+       "en": "and perish he",
+       "ref": "111:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "لهب",
+     "letters": "ل ه ب",
+     "meaning": "to blaze, to flame",
+     "quranCount": 3,
+     "words": [
+      {
+       "ar": "لَهَبٍۢ",
+       "en": "Lahab",
+       "ref": "111:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "عوذ",
+     "letters": "ع و ذ",
+     "meaning": "to seek refuge, to shelter",
+     "quranCount": 17,
+     "words": [
+      {
+       "ar": "أَعُوذُ",
+       "en": "I seek refuge",
+       "ref": "113:1"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "حسد",
+     "letters": "ح س د",
+     "meaning": "to envy, to begrudge",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "حَاسِدٍ",
+       "en": "(of) an envier",
+       "ref": "113:5"
+      },
+      {
+       "ar": "حَسَدَ",
+       "en": "he envies",
+       "ref": "113:5"
+      }
+     ],
+     "inJuzAmma": 2
+    }
+   ],
+   "newlyFollowed": [
+    {
+     "number": 104,
+     "name": "Al-Humazah"
+    }
+   ],
+   "pctJuzAmma": 84
+  },
+  {
+   "day": 29,
+   "title": "Ten more roots of Juz 'Amma",
+   "roots": [
+    {
+     "root": "وسوس",
+     "letters": "و س و س",
+     "meaning": "to whisper, to suggest",
+     "quranCount": 5,
+     "words": [
+      {
+       "ar": "ٱلْوَسْوَاسِ",
+       "en": "(of) the whisperer",
+       "ref": "114:4"
+      },
+      {
+       "ar": "يُوَسْوِسُ",
+       "en": "whispers",
+       "ref": "114:5"
+      }
+     ],
+     "inJuzAmma": 2
+    },
+    {
+     "root": "نبا",
+     "letters": "ن ب ا",
+     "meaning": "to inform, to report news",
+     "quranCount": 160,
+     "words": [
+      {
+       "ar": "ٱلنَّبَإِ",
+       "en": "the News",
+       "ref": "78:2"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "خلف",
+     "letters": "خ ل ف",
+     "meaning": "to come after, to succeed",
+     "quranCount": 127,
+     "words": [
+      {
+       "ar": "مُخْتَلِفُونَ",
+       "en": "(in) disagreement",
+       "ref": "78:3"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "مهد",
+     "letters": "م ه د",
+     "meaning": "to make smooth, to prepare",
+     "quranCount": 16,
+     "words": [
+      {
+       "ar": "مِهَـٰدًۭا",
+       "en": "a resting place",
+       "ref": "78:6"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "نوم",
+     "letters": "ن و م",
+     "meaning": "to sleep",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "نَوْمَكُمْ",
+       "en": "your sleep",
+       "ref": "78:9"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "سبت",
+     "letters": "س ب ت",
+     "meaning": "to rest, to cease from work",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "سُبَاتًۭا",
+       "en": "(for) rest",
+       "ref": "78:9"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "لبس",
+     "letters": "ل ب س",
+     "meaning": "to wear, to clothe",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "لِبَاسًۭا",
+       "en": "(as) covering",
+       "ref": "78:10"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "فوق",
+     "letters": "ف و ق",
+     "meaning": "to be above, to surpass",
+     "quranCount": 43,
+     "words": [
+      {
+       "ar": "فَوْقَكُمْ",
+       "en": "over you",
+       "ref": "78:12"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "سبع",
+     "letters": "س ب ع",
+     "meaning": "seven",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "سَبْعًۭا",
+       "en": "seven",
+       "ref": "78:12"
+      }
+     ],
+     "inJuzAmma": 1
+    },
+    {
+     "root": "سرج",
+     "letters": "س ر ج",
+     "meaning": "to saddle",
+     "quranCount": 4,
+     "words": [
+      {
+       "ar": "سِرَاجًۭا",
+       "en": "a lamp",
+       "ref": "78:13"
+      }
+     ],
+     "inJuzAmma": 1
+    }
+   ],
+   "newlyFollowed": [],
+   "pctJuzAmma": 85
+  },
+  {
+   "day": 30,
+   "title": "Review: all of Juz 'Amma",
+   "roots": [],
+   "newlyFollowed": [],
+   "pctJuzAmma": 85
+  }
+ ]
+}

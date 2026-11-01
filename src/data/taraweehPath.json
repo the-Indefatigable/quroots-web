@@ -1,0 +1,7632 @@
+{
+ "generated": "2026-11-01",
+ "perNight": 10,
+ "roots": 300,
+ "nights": [
+  {
+   "night": 1,
+   "juz": 1,
+   "start": {
+    "surah": 1,
+    "ayah": 1,
+    "surahName": "Al-Fatihah"
+   },
+   "end": {
+    "surah": 2,
+    "ayah": 141,
+    "surahName": "Al-Baqarah"
+   },
+   "roots": [
+    {
+     "root": "قول",
+     "letters": "ق و ل",
+     "meaning": "to say",
+     "quranCount": 1722,
+     "words": [
+      {
+       "ar": "يَقُولُ",
+       "en": "say",
+       "ref": "2:8"
+      },
+      {
+       "ar": "قِيلَ",
+       "en": "it is said",
+       "ref": "2:11"
+      },
+      {
+       "ar": "قَالُوٓا۟",
+       "en": "they say",
+       "ref": "2:11"
+      }
+     ],
+     "inJuz": 90
+    },
+    {
+     "root": "اله",
+     "letters": "ا ل ه",
+     "meaning": "Allah, God (the root of Allah and ilāh)",
+     "quranCount": 2851,
+     "words": [
+      {
+       "ar": "ٱللَّهِ",
+       "en": "(of) Allah",
+       "ref": "1:1"
+      },
+      {
+       "ar": "لِلَّهِ",
+       "en": "(be) to Allah",
+       "ref": "1:2"
+      },
+      {
+       "ar": "ٱللَّهُ",
+       "en": "Allah",
+       "ref": "2:7"
+      }
+     ],
+     "inJuz": 89
+    },
+    {
+     "root": "علم",
+     "letters": "ع ل م",
+     "meaning": "to know",
+     "quranCount": 854,
+     "words": [
+      {
+       "ar": "ٱلْعَـٰلَمِينَ",
+       "en": "of the universe",
+       "ref": "1:2"
+      },
+      {
+       "ar": "يَعْلَمُونَ",
+       "en": "they know",
+       "ref": "2:13"
+      },
+      {
+       "ar": "تَعْلَمُونَ",
+       "en": "[you] know",
+       "ref": "2:22"
+      }
+     ],
+     "inJuz": 43
+    },
+    {
+     "root": "امن",
+     "letters": "ا م ن",
+     "meaning": "to be safe / feel secure",
+     "quranCount": 879,
+     "words": [
+      {
+       "ar": "يُؤْمِنُونَ",
+       "en": "believe",
+       "ref": "2:3"
+      },
+      {
+       "ar": "ءَامَنَّا",
+       "en": "We believed",
+       "ref": "2:8"
+      },
+      {
+       "ar": "بِمُؤْمِنِينَ",
+       "en": "(are) believers (at all)",
+       "ref": "2:8"
+      }
+     ],
+     "inJuz": 42
+    },
+    {
+     "root": "كون",
+     "letters": "ك و ن",
+     "meaning": "to be, to exist",
+     "quranCount": 1390,
+     "words": [
+      {
+       "ar": "كَانُوا۟",
+       "en": "they used to",
+       "ref": "2:10"
+      },
+      {
+       "ar": "كُنتُمْ",
+       "en": "you are",
+       "ref": "2:23"
+      },
+      {
+       "ar": "وَكُنتُمْ",
+       "en": "While you were",
+       "ref": "2:28"
+      }
+     ],
+     "inJuz": 41
+    },
+    {
+     "root": "كفر",
+     "letters": "ك ف ر",
+     "meaning": "to disbelieve, to reject faith",
+     "quranCount": 525,
+     "words": [
+      {
+       "ar": "كَفَرُوا۟",
+       "en": "disbelieve[d]",
+       "ref": "2:6"
+      },
+      {
+       "ar": "بِٱلْكَـٰفِرِينَ",
+       "en": "the disbelievers",
+       "ref": "2:19"
+      },
+      {
+       "ar": "لِلْكَـٰفِرِينَ",
+       "en": "for the disbelievers",
+       "ref": "2:24"
+      }
+     ],
+     "inJuz": 29
+    },
+    {
+     "root": "ربب",
+     "letters": "ر ب ب",
+     "meaning": "Lord; to nurture and sustain",
+     "quranCount": 980,
+     "words": [
+      {
+       "ar": "رَبِّ",
+       "en": "the Lord",
+       "ref": "1:2"
+      },
+      {
+       "ar": "رَّبِّهِمْ ۖ",
+       "en": "their Lord",
+       "ref": "2:5"
+      },
+      {
+       "ar": "رَبَّكُمُ",
+       "en": "your Lord",
+       "ref": "2:21"
+      }
+     ],
+     "inJuz": 26
+    },
+    {
+     "root": "اتي",
+     "letters": "ا ت ي",
+     "meaning": "to come",
+     "quranCount": 549,
+     "words": [
+      {
+       "ar": "فَأْتُوا۟",
+       "en": "then produce",
+       "ref": "2:23"
+      },
+      {
+       "ar": "وَأُتُوا۟",
+       "en": "And they will be given",
+       "ref": "2:25"
+      },
+      {
+       "ar": "يَأْتِيَنَّكُم",
+       "en": "comes to you",
+       "ref": "2:38"
+      }
+     ],
+     "inJuz": 19
+    },
+    {
+     "root": "نفس",
+     "letters": "ن ف س",
+     "meaning": "to dispute, to contend",
+     "quranCount": 298,
+     "words": [
+      {
+       "ar": "أَنفُسَهُمْ",
+       "en": "themselves",
+       "ref": "2:9"
+      },
+      {
+       "ar": "أَنفُسَكُمْ",
+       "en": "yourselves",
+       "ref": "2:44"
+      },
+      {
+       "ar": "نَفْسٌ",
+       "en": "any soul",
+       "ref": "2:48"
+      }
+     ],
+     "inJuz": 18
+    },
+    {
+     "root": "كتب",
+     "letters": "ك ت ب",
+     "meaning": "to write",
+     "quranCount": 319,
+     "words": [
+      {
+       "ar": "ٱلْكِتَـٰبُ",
+       "en": "(is) the book",
+       "ref": "2:2"
+      },
+      {
+       "ar": "ٱلْكِتَـٰبَ ۚ",
+       "en": "the Book",
+       "ref": "2:44"
+      },
+      {
+       "ar": "ٱلْكِتَـٰبَ",
+       "en": "the Book",
+       "ref": "2:53"
+      }
+     ],
+     "inJuz": 17
+    }
+   ],
+   "pctJuz": 26,
+   "pctQuran": 21
+  },
+  {
+   "night": 2,
+   "juz": 2,
+   "start": {
+    "surah": 2,
+    "ayah": 142,
+    "surahName": "Al-Baqarah"
+   },
+   "end": {
+    "surah": 2,
+    "ayah": 252,
+    "surahName": "Al-Baqarah"
+   },
+   "roots": [
+    {
+     "root": "انس",
+     "letters": "ا ن س",
+     "meaning": "to be companionable, to feel at ease",
+     "quranCount": 338,
+     "words": [
+      {
+       "ar": "ٱلنَّاسِ",
+       "en": "the people",
+       "ref": "2:142"
+      },
+      {
+       "ar": "بِٱلنَّاسِ",
+       "en": "(is) to [the] mankind",
+       "ref": "2:143"
+      },
+      {
+       "ar": "لِلنَّاسِ",
+       "en": "for the people",
+       "ref": "2:150"
+      }
+     ],
+     "inJuz": 25
+    },
+    {
+     "root": "قتل",
+     "letters": "ق ت ل",
+     "meaning": "to kill, to slay",
+     "quranCount": 170,
+     "words": [
+      {
+       "ar": "يُقْتَلُ",
+       "en": "are slain",
+       "ref": "2:154"
+      },
+      {
+       "ar": "ٱلْقَتْلَى ۖ",
+       "en": "(the matter of) the murdered",
+       "ref": "2:178"
+      },
+      {
+       "ar": "وَقَـٰتِلُوا۟",
+       "en": "And fight",
+       "ref": "2:190"
+      }
+     ],
+     "inJuz": 23
+    },
+    {
+     "root": "بين",
+     "letters": "ب ي ن",
+     "meaning": "to be clear, to clarify",
+     "quranCount": 523,
+     "words": [
+      {
+       "ar": "ٱلْبَيِّنَـٰتِ",
+       "en": "the clear proofs",
+       "ref": "2:159"
+      },
+      {
+       "ar": "بَيَّنَّـٰهُ",
+       "en": "We made clear",
+       "ref": "2:159"
+      },
+      {
+       "ar": "وَبَيَّنُوا۟",
+       "en": "and openly declar[ed]",
+       "ref": "2:160"
+      }
+     ],
+     "inJuz": 23
+    },
+    {
+     "root": "وقي",
+     "letters": "و ق ي",
+     "meaning": "to protect, to shield",
+     "quranCount": 258,
+     "words": [
+      {
+       "ar": "ٱلْمُتَّقُونَ",
+       "en": "(are) the righteous",
+       "ref": "2:177"
+      },
+      {
+       "ar": "تَتَّقُونَ",
+       "en": "(become) righteous",
+       "ref": "2:179"
+      },
+      {
+       "ar": "ٱلْمُتَّقِينَ",
+       "en": "the righteous ones",
+       "ref": "2:180"
+      }
+     ],
+     "inJuz": 23
+    },
+    {
+     "root": "ايي",
+     "letters": "ا ي ي",
+     "meaning": "which; O (in calling out)",
+     "quranCount": 597,
+     "words": [
+      {
+       "ar": "ءَايَةٍۢ",
+       "en": "(the) signs",
+       "ref": "2:145"
+      },
+      {
+       "ar": "ءَايَـٰتِنَا",
+       "en": "Our verses",
+       "ref": "2:151"
+      },
+      {
+       "ar": "يَـٰٓأَيُّهَا",
+       "en": "O you",
+       "ref": "2:153"
+      }
+     ],
+     "inJuz": 18
+    },
+    {
+     "root": "عرف",
+     "letters": "ع ر ف",
+     "meaning": "to know, to recognize",
+     "quranCount": 71,
+     "words": [
+      {
+       "ar": "يَعْرِفُونَهُۥ",
+       "en": "they recognize it",
+       "ref": "2:146"
+      },
+      {
+       "ar": "يَعْرِفُونَ",
+       "en": "they recognize",
+       "ref": "2:146"
+      },
+      {
+       "ar": "بِٱلْمَعْرُوفِ",
+       "en": "with suitable",
+       "ref": "2:178"
+      }
+     ],
+     "inJuz": 17
+    },
+    {
+     "root": "هدي",
+     "letters": "ه د ي",
+     "meaning": "to guide, to lead",
+     "quranCount": 316,
+     "words": [
+      {
+       "ar": "يَهْدِى",
+       "en": "He guides",
+       "ref": "2:142"
+      },
+      {
+       "ar": "هَدَى",
+       "en": "guided",
+       "ref": "2:143"
+      },
+      {
+       "ar": "تَهْتَدُونَ",
+       "en": "(be) guided",
+       "ref": "2:150"
+      }
+     ],
+     "inJuz": 16
+    },
+    {
+     "root": "شيا",
+     "letters": "ش ي ا",
+     "meaning": "to make appear, to show",
+     "quranCount": 519,
+     "words": [
+      {
+       "ar": "يَشَآءُ",
+       "en": "He wills",
+       "ref": "2:142"
+      },
+      {
+       "ar": "شَىْءٍۢ",
+       "en": "thing",
+       "ref": "2:148"
+      },
+      {
+       "ar": "بِشَىْءٍۢ",
+       "en": "with something",
+       "ref": "2:155"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "رحم",
+     "letters": "ر ح م",
+     "meaning": "to have mercy, to show compassion",
+     "quranCount": 339,
+     "words": [
+      {
+       "ar": "رَّحِيمٌۭ",
+       "en": "Most Merciful",
+       "ref": "2:143"
+      },
+      {
+       "ar": "وَرَحْمَةٌۭ ۖ",
+       "en": "and Mercy",
+       "ref": "2:157"
+      },
+      {
+       "ar": "ٱلرَّحِيمُ",
+       "en": "the Most Merciful",
+       "ref": "2:160"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "خير",
+     "letters": "خ ي ر",
+     "meaning": "to be good, to choose good",
+     "quranCount": 196,
+     "words": [
+      {
+       "ar": "ٱلْخَيْرَٰتِ ۚ",
+       "en": "(to) the good",
+       "ref": "2:148"
+      },
+      {
+       "ar": "خَيْرًۭا",
+       "en": "good",
+       "ref": "2:158"
+      },
+      {
+       "ar": "خَيْرًا",
+       "en": "good",
+       "ref": "2:180"
+      }
+     ],
+     "inJuz": 14
+    }
+   ],
+   "pctJuz": 32,
+   "pctQuran": 27
+  },
+  {
+   "night": 3,
+   "juz": 3,
+   "start": {
+    "surah": 2,
+    "ayah": 253,
+    "surahName": "Al-Baqarah"
+   },
+   "end": {
+    "surah": 3,
+    "ayah": 92,
+    "surahName": "Ali 'Imran"
+   },
+   "roots": [
+    {
+     "root": "نفق",
+     "letters": "ن ف ق",
+     "meaning": "to spend",
+     "quranCount": 111,
+     "words": [
+      {
+       "ar": "أَنفِقُوا۟",
+       "en": "Spend",
+       "ref": "2:254"
+      },
+      {
+       "ar": "يُنفِقُونَ",
+       "en": "spend",
+       "ref": "2:261"
+      },
+      {
+       "ar": "أَنفَقُوا۟",
+       "en": "they spend",
+       "ref": "2:262"
+      }
+     ],
+     "inJuz": 18
+    },
+    {
+     "root": "قوم",
+     "letters": "ق و م",
+     "meaning": "to rise, to stand up",
+     "quranCount": 660,
+     "words": [
+      {
+       "ar": "ٱلْقَيُّومُ ۚ",
+       "en": "the Sustainer of all that exists",
+       "ref": "2:255"
+      },
+      {
+       "ar": "ٱلْقَوْمَ",
+       "en": "the people",
+       "ref": "2:258"
+      },
+      {
+       "ar": "يَقُومُونَ",
+       "en": "they can stand",
+       "ref": "2:275"
+      }
+     ],
+     "inJuz": 17
+    },
+    {
+     "root": "شهد",
+     "letters": "ش ه د",
+     "meaning": "to witness, to attest",
+     "quranCount": 160,
+     "words": [
+      {
+       "ar": "وَٱسْتَشْهِدُوا۟",
+       "en": "And call for evidence",
+       "ref": "2:282"
+      },
+      {
+       "ar": "شَهِيدَيْنِ",
+       "en": "two witnesses",
+       "ref": "2:282"
+      },
+      {
+       "ar": "ٱلشُّهَدَآءِ",
+       "en": "[the] witnesses",
+       "ref": "2:282"
+      }
+     ],
+     "inJuz": 16
+    },
+    {
+     "root": "عند",
+     "letters": "ع ن د",
+     "meaning": "with, near, at (of place or time)",
+     "quranCount": 201,
+     "words": [
+      {
+       "ar": "عِندَهُۥٓ",
+       "en": "with Him",
+       "ref": "2:255"
+      },
+      {
+       "ar": "عِندَ",
+       "en": "(is) with",
+       "ref": "2:262"
+      },
+      {
+       "ar": "عِندِ",
+       "en": "from",
+       "ref": "3:7"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "كلل",
+     "letters": "ك ل ل",
+     "meaning": "all, every",
+     "quranCount": 377,
+     "words": [
+      {
+       "ar": "كُلِّ",
+       "en": "every",
+       "ref": "2:259"
+      },
+      {
+       "ar": "كُلَّ",
+       "en": "every",
+       "ref": "2:276"
+      },
+      {
+       "ar": "كُلُّ",
+       "en": "every",
+       "ref": "2:281"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "بعد",
+     "letters": "ب ع د",
+     "meaning": "to be distant, to be far",
+     "quranCount": 235,
+     "words": [
+      {
+       "ar": "بَعْدِهِم",
+       "en": "after them",
+       "ref": "2:253"
+      },
+      {
+       "ar": "بَعْدِ",
+       "en": "after",
+       "ref": "2:253"
+      },
+      {
+       "ar": "بَعْدَ",
+       "en": "after",
+       "ref": "2:259"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "ولي",
+     "letters": "و ل ي",
+     "meaning": "to be a guardian, to turn toward",
+     "quranCount": 232,
+     "words": [
+      {
+       "ar": "وَلِىُّ",
+       "en": "(is the) Protecting Guardian",
+       "ref": "2:257"
+      },
+      {
+       "ar": "أَوْلِيَآؤُهُمُ",
+       "en": "their guardians",
+       "ref": "2:257"
+      },
+      {
+       "ar": "وَلِيُّهُۥ",
+       "en": "his guardian",
+       "ref": "2:282"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "حكم",
+     "letters": "ح ك م",
+     "meaning": "to judge, to rule, to govern",
+     "quranCount": 210,
+     "words": [
+      {
+       "ar": "حَكِيمٌۭ",
+       "en": "All-Wise",
+       "ref": "2:260"
+      },
+      {
+       "ar": "ٱلْحِكْمَةَ",
+       "en": "[the] wisdom",
+       "ref": "2:269"
+      },
+      {
+       "ar": "ٱلْحَكِيمُ",
+       "en": "the All-Wise",
+       "ref": "3:6"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "يوم",
+     "letters": "ي و م",
+     "meaning": "day",
+     "quranCount": 475,
+     "words": [
+      {
+       "ar": "يَوْمٌۭ",
+       "en": "a Day",
+       "ref": "2:254"
+      },
+      {
+       "ar": "يَوْمًا",
+       "en": "(for) a day",
+       "ref": "2:259"
+      },
+      {
+       "ar": "يَوْمٍۢ ۖ",
+       "en": "(of) a day",
+       "ref": "2:259"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "ظلم",
+     "letters": "ظ ل م",
+     "meaning": "to wrong, to oppress",
+     "quranCount": 315,
+     "words": [
+      {
+       "ar": "ٱلظَّـٰلِمُونَ",
+       "en": "(are) the wrongdoers",
+       "ref": "2:254"
+      },
+      {
+       "ar": "ٱلظُّلُمَـٰتِ",
+       "en": "[the] darkness",
+       "ref": "2:257"
+      },
+      {
+       "ar": "ٱلظُّلُمَـٰتِ ۗ",
+       "en": "[the] darkness",
+       "ref": "2:257"
+      }
+     ],
+     "inJuz": 12
+    }
+   ],
+   "pctJuz": 43,
+   "pctQuran": 33
+  },
+  {
+   "night": 4,
+   "juz": 4,
+   "start": {
+    "surah": 3,
+    "ayah": 93,
+    "surahName": "Ali 'Imran"
+   },
+   "end": {
+    "surah": 4,
+    "ayah": 23,
+    "surahName": "An-Nisa"
+   },
+   "roots": [
+    {
+     "root": "رسل",
+     "letters": "ر س ل",
+     "meaning": "to send",
+     "quranCount": 513,
+     "words": [
+      {
+       "ar": "رَسُولُهُۥ ۗ",
+       "en": "(is) His Messenger",
+       "ref": "3:101"
+      },
+      {
+       "ar": "وَٱلرَّسُولَ",
+       "en": "and the Messenger",
+       "ref": "3:132"
+      },
+      {
+       "ar": "رَسُولٌۭ",
+       "en": "a Messenger",
+       "ref": "3:144"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "موت",
+     "letters": "م و ت",
+     "meaning": "to die",
+     "quranCount": 165,
+     "words": [
+      {
+       "ar": "تَمُوتُنَّ",
+       "en": "die",
+       "ref": "3:102"
+      },
+      {
+       "ar": "مُوتُوا۟",
+       "en": "Die",
+       "ref": "3:119"
+      },
+      {
+       "ar": "ٱلْمَوْتَ",
+       "en": "(for) death",
+       "ref": "3:143"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "قلب",
+     "letters": "ق ل ب",
+     "meaning": "to turn, to overturn",
+     "quranCount": 168,
+     "words": [
+      {
+       "ar": "قُلُوبِكُمْ",
+       "en": "your hearts",
+       "ref": "3:103"
+      },
+      {
+       "ar": "قُلُوبُكُم",
+       "en": "your hearts",
+       "ref": "3:126"
+      },
+      {
+       "ar": "فَيَنقَلِبُوا۟",
+       "en": "so (that) they turn back",
+       "ref": "3:127"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "عذب",
+     "letters": "ع ذ ب",
+     "meaning": "to torment, to punish",
+     "quranCount": 373,
+     "words": [
+      {
+       "ar": "عَذَابٌ",
+       "en": "(is) a punishment",
+       "ref": "3:105"
+      },
+      {
+       "ar": "ٱلْعَذَابَ",
+       "en": "the punishment",
+       "ref": "3:106"
+      },
+      {
+       "ar": "يُعَذِّبَهُمْ",
+       "en": "punishes them",
+       "ref": "3:128"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "عمل",
+     "letters": "ع م ل",
+     "meaning": "to work, to do, to act",
+     "quranCount": 360,
+     "words": [
+      {
+       "ar": "تَعْمَلُونَ",
+       "en": "you do",
+       "ref": "3:98"
+      },
+      {
+       "ar": "يَعْمَلُونَ",
+       "en": "they do",
+       "ref": "3:120"
+      },
+      {
+       "ar": "ٱلْعَـٰمِلِينَ",
+       "en": "(for) the (righteous) workers",
+       "ref": "3:136"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "امر",
+     "letters": "ا م ر",
+     "meaning": "to command",
+     "quranCount": 248,
+     "words": [
+      {
+       "ar": "وَيَأْمُرُونَ",
+       "en": "[and] enjoining",
+       "ref": "3:104"
+      },
+      {
+       "ar": "ٱلْأُمُورُ",
+       "en": "the matters",
+       "ref": "3:109"
+      },
+      {
+       "ar": "تَأْمُرُونَ",
+       "en": "enjoining",
+       "ref": "3:110"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "غفر",
+     "letters": "غ ف ر",
+     "meaning": "to forgive, to pardon",
+     "quranCount": 234,
+     "words": [
+      {
+       "ar": "يَغْفِرُ",
+       "en": "He forgives",
+       "ref": "3:129"
+      },
+      {
+       "ar": "غَفُورٌۭ",
+       "en": "(is) Oft-Forgiving",
+       "ref": "3:129"
+      },
+      {
+       "ar": "مَغْفِرَةٍۢ",
+       "en": "forgiveness",
+       "ref": "3:133"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "اخو",
+     "letters": "ا خ و",
+     "meaning": "to be a brother",
+     "quranCount": 96,
+     "words": [
+      {
+       "ar": "إِخْوَٰنًۭا",
+       "en": "brothers",
+       "ref": "3:103"
+      },
+      {
+       "ar": "لِإِخْوَٰنِهِمْ",
+       "en": "about their brothers",
+       "ref": "3:156"
+      },
+      {
+       "ar": "إِخْوَةٌۭ",
+       "en": "brothers and sisters",
+       "ref": "4:11"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "نور",
+     "letters": "ن و ر",
+     "meaning": "light; fire",
+     "quranCount": 194,
+     "words": [
+      {
+       "ar": "ٱلنَّارِ",
+       "en": "the Fire",
+       "ref": "3:103"
+      },
+      {
+       "ar": "ٱلنَّارِ ۚ",
+       "en": "(of) the Fire",
+       "ref": "3:116"
+      },
+      {
+       "ar": "ٱلنَّارَ",
+       "en": "the Fire",
+       "ref": "3:131"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "ولد",
+     "letters": "و ل د",
+     "meaning": "to give birth, to bear",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "أَوْلَـٰدُهُم",
+       "en": "their children",
+       "ref": "3:116"
+      },
+      {
+       "ar": "ٱلْوَٰلِدَانِ",
+       "en": "(by) the parents",
+       "ref": "4:7"
+      },
+      {
+       "ar": "أَوْلَـٰدِكُمْ ۖ",
+       "en": "your children ",
+       "ref": "4:11"
+      }
+     ],
+     "inJuz": 10
+    }
+   ],
+   "pctJuz": 44,
+   "pctQuran": 38
+  },
+  {
+   "night": 5,
+   "juz": 5,
+   "start": {
+    "surah": 4,
+    "ayah": 24,
+    "surahName": "An-Nisa"
+   },
+   "end": {
+    "surah": 4,
+    "ayah": 147,
+    "surahName": "An-Nisa"
+   },
+   "roots": [
+    {
+     "root": "سبل",
+     "letters": "س ب ل",
+     "meaning": "way, path, road",
+     "quranCount": 176,
+     "words": [
+      {
+       "ar": "سَبِيلًا ۗ",
+       "en": "a way",
+       "ref": "4:34"
+      },
+      {
+       "ar": "ٱلسَّبِيلِ",
+       "en": "traveler",
+       "ref": "4:36"
+      },
+      {
+       "ar": "سَبِيلٍ",
+       "en": "(through) a way",
+       "ref": "4:43"
+      }
+     ],
+     "inJuz": 22
+    },
+    {
+     "root": "وجد",
+     "letters": "و ج د",
+     "meaning": "to find",
+     "quranCount": 107,
+     "words": [
+      {
+       "ar": "تَجِدُوا۟",
+       "en": "you find",
+       "ref": "4:43"
+      },
+      {
+       "ar": "تَجِدَ",
+       "en": "will you find",
+       "ref": "4:52"
+      },
+      {
+       "ar": "لَوَجَدُوا۟",
+       "en": "surely they would have found",
+       "ref": "4:64"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "اخذ",
+     "letters": "ا خ ذ",
+     "meaning": "to take",
+     "quranCount": 273,
+     "words": [
+      {
+       "ar": "مُتَّخِذَٰتِ",
+       "en": "those who take",
+       "ref": "4:25"
+      },
+      {
+       "ar": "خُذُوا۟",
+       "en": "Take",
+       "ref": "4:71"
+      },
+      {
+       "ar": "تَتَّخِذُوا۟",
+       "en": "take",
+       "ref": "4:89"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "ضلل",
+     "letters": "ض ل ل",
+     "meaning": "to go astray, to err",
+     "quranCount": 191,
+     "words": [
+      {
+       "ar": "ٱلضَّلَـٰلَةَ",
+       "en": "[the] error",
+       "ref": "4:44"
+      },
+      {
+       "ar": "تَضِلُّوا۟",
+       "en": "you stray",
+       "ref": "4:44"
+      },
+      {
+       "ar": "يُضِلَّهُمْ",
+       "en": "mislead them",
+       "ref": "4:60"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "رود",
+     "letters": "ر و د",
+     "meaning": "to tend, to pasture",
+     "quranCount": 148,
+     "words": [
+      {
+       "ar": "يُرِيدُ",
+       "en": "Wishes",
+       "ref": "4:26"
+      },
+      {
+       "ar": "وَيُرِيدُ",
+       "en": "but wish",
+       "ref": "4:27"
+      },
+      {
+       "ar": "يُرِيدَآ",
+       "en": "they both wish",
+       "ref": "4:35"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "حسن",
+     "letters": "ح س ن",
+     "meaning": "to be good, to be beautiful",
+     "quranCount": 194,
+     "words": [
+      {
+       "ar": "إِحْسَـٰنًۭا",
+       "en": "(do) good",
+       "ref": "4:36"
+      },
+      {
+       "ar": "حَسَنَةًۭ",
+       "en": "a good",
+       "ref": "4:40"
+      },
+      {
+       "ar": "وَأَحْسَنُ",
+       "en": "and more suitable",
+       "ref": "4:59"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "طوع",
+     "letters": "ط و ع",
+     "meaning": "to obey, to submit willingly",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "يَسْتَطِعْ",
+       "en": "able to",
+       "ref": "4:25"
+      },
+      {
+       "ar": "أَطَعْنَكُمْ",
+       "en": "they obey you",
+       "ref": "4:34"
+      },
+      {
+       "ar": "وَأَطَعْنَا",
+       "en": "and we obey[ed]",
+       "ref": "4:46"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "عظم",
+     "letters": "ع ظ م",
+     "meaning": "to be great, to magnify",
+     "quranCount": 128,
+     "words": [
+      {
+       "ar": "عَظِيمًۭا",
+       "en": "great",
+       "ref": "4:27"
+      },
+      {
+       "ar": "عَظِيمًا",
+       "en": "tremendous",
+       "ref": "4:48"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "فضل",
+     "letters": "ف ض ل",
+     "meaning": "to exceed, to surpass",
+     "quranCount": 104,
+     "words": [
+      {
+       "ar": "فَضَّلَ",
+       "en": "(has) bestowed",
+       "ref": "4:32"
+      },
+      {
+       "ar": "فَضْلِهِۦٓ ۗ",
+       "en": "His bounty",
+       "ref": "4:32"
+      },
+      {
+       "ar": "فَضْلِهِۦ ۗ",
+       "en": "His Bounty ",
+       "ref": "4:37"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "صلح",
+     "letters": "ص ل ح",
+     "meaning": "to be at peace",
+     "quranCount": 180,
+     "words": [
+      {
+       "ar": "فَٱلصَّـٰلِحَـٰتُ",
+       "en": "So the righteous women",
+       "ref": "4:34"
+      },
+      {
+       "ar": "إِصْلَـٰحًۭا",
+       "en": "reconciliation",
+       "ref": "4:35"
+      },
+      {
+       "ar": "ٱلصَّـٰلِحَـٰتِ",
+       "en": "the good deeds",
+       "ref": "4:57"
+      }
+     ],
+     "inJuz": 12
+    }
+   ],
+   "pctJuz": 51,
+   "pctQuran": 41
+  },
+  {
+   "night": 6,
+   "juz": 6,
+   "start": {
+    "surah": 4,
+    "ayah": 148,
+    "surahName": "An-Nisa"
+   },
+   "end": {
+    "surah": 5,
+    "ayah": 81,
+    "surahName": "Al-Ma'idah"
+   },
+   "roots": [
+    {
+     "root": "نزل",
+     "letters": "ن ز ل",
+     "meaning": "to descend, to come down",
+     "quranCount": 293,
+     "words": [
+      {
+       "ar": "تُنَزِّلَ",
+       "en": "you bring down",
+       "ref": "4:153"
+      },
+      {
+       "ar": "أُنزِلَ",
+       "en": "(is) revealed",
+       "ref": "4:162"
+      },
+      {
+       "ar": "أَنزَلَ",
+       "en": "He (has) revealed",
+       "ref": "4:166"
+      }
+     ],
+     "inJuz": 23
+    },
+    {
+     "root": "بني",
+     "letters": "ب ن ي",
+     "meaning": "to build, to construct",
+     "quranCount": 184,
+     "words": [
+      {
+       "ar": "ٱبْنَ",
+       "en": "son",
+       "ref": "4:157"
+      },
+      {
+       "ar": "ٱبْنُ",
+       "en": "son",
+       "ref": "4:171"
+      },
+      {
+       "ar": "بَنِىٓ",
+       "en": "(from the) Children",
+       "ref": "5:12"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "ارض",
+     "letters": "ا ر ض",
+     "meaning": "earth, land",
+     "quranCount": 461,
+     "words": [
+      {
+       "ar": "وَٱلْأَرْضِ ۚ",
+       "en": "and the earth",
+       "ref": "4:170"
+      },
+      {
+       "ar": "ٱلْأَرْضِ ۗ",
+       "en": "the earth",
+       "ref": "4:171"
+      },
+      {
+       "ar": "ٱلْأَرْضِ",
+       "en": "the earth",
+       "ref": "5:17"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "جيا",
+     "letters": "ج ي ا",
+     "meaning": "to live, to be alive",
+     "quranCount": 278,
+     "words": [
+      {
+       "ar": "جَآءَتْهُمُ",
+       "en": "came to them",
+       "ref": "4:153"
+      },
+      {
+       "ar": "جَآءَكُمُ",
+       "en": "has come to you",
+       "ref": "4:170"
+      },
+      {
+       "ar": "جَآءَكُم",
+       "en": "has come to you",
+       "ref": "4:174"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "كثر",
+     "letters": "ك ث ر",
+     "meaning": "to be many, to increase",
+     "quranCount": 167,
+     "words": [
+      {
+       "ar": "كَثِيرًۭا",
+       "en": "many",
+       "ref": "4:160"
+      },
+      {
+       "ar": "كَثِيرٍۢ ۚ",
+       "en": "much",
+       "ref": "5:15"
+      },
+      {
+       "ar": "أَكْثَرَكُمْ",
+       "en": "most of you",
+       "ref": "5:59"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "يدي",
+     "letters": "ي د ي",
+     "meaning": "hand",
+     "quranCount": 120,
+     "words": [
+      {
+       "ar": "وَأَيْدِيَكُمْ",
+       "en": "and your hands",
+       "ref": "5:6"
+      },
+      {
+       "ar": "وَأَيْدِيكُم",
+       "en": "and your hands",
+       "ref": "5:6"
+      },
+      {
+       "ar": "أَيْدِيَهُمْ",
+       "en": "their hands",
+       "ref": "5:11"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "قبل",
+     "letters": "ق ب ل",
+     "meaning": "to accept, to receive",
+     "quranCount": 294,
+     "words": [
+      {
+       "ar": "قَبْلَ",
+       "en": "before",
+       "ref": "4:159"
+      },
+      {
+       "ar": "قَبْلِكَ ۚ",
+       "en": "before you",
+       "ref": "4:162"
+      },
+      {
+       "ar": "قَبْلُ",
+       "en": "before",
+       "ref": "4:164"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "دخل",
+     "letters": "د خ ل",
+     "meaning": "to enter, to go in",
+     "quranCount": 126,
+     "words": [
+      {
+       "ar": "ٱدْخُلُوا۟",
+       "en": "Enter",
+       "ref": "4:154"
+      },
+      {
+       "ar": "فَسَيُدْخِلُهُمْ",
+       "en": "then He will admit them",
+       "ref": "4:175"
+      },
+      {
+       "ar": "وَلَأُدْخِلَنَّكُمْ",
+       "en": "and I will surely admit you",
+       "ref": "5:12"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "اهل",
+     "letters": "ا ه ل",
+     "meaning": "people, family, household",
+     "quranCount": 127,
+     "words": [
+      {
+       "ar": "أَهْلُ",
+       "en": "(the) People",
+       "ref": "4:153"
+      },
+      {
+       "ar": "أَهْلِ",
+       "en": "(the) People",
+       "ref": "4:159"
+      },
+      {
+       "ar": "يَـٰٓأَهْلَ",
+       "en": "O People",
+       "ref": "4:171"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "مسح",
+     "letters": "م س ح",
+     "meaning": "to wipe, to stroke",
+     "quranCount": 15,
+     "words": [
+      {
+       "ar": "ٱلْمَسِيحَ",
+       "en": "the Messiah",
+       "ref": "4:157"
+      },
+      {
+       "ar": "ٱلْمَسِيحُ",
+       "en": "the Messiah",
+       "ref": "4:171"
+      },
+      {
+       "ar": "وَٱمْسَحُوا۟",
+       "en": "and wipe",
+       "ref": "5:6"
+      }
+     ],
+     "inJuz": 10
+    }
+   ],
+   "pctJuz": 54,
+   "pctQuran": 45
+  },
+  {
+   "night": 7,
+   "juz": 7,
+   "start": {
+    "surah": 5,
+    "ayah": 82,
+    "surahName": "Al-Ma'idah"
+   },
+   "end": {
+    "surah": 6,
+    "ayah": 110,
+    "surahName": "Al-An'am"
+   },
+   "roots": [
+    {
+     "root": "شرك",
+     "letters": "ش ر ك",
+     "meaning": "to associate, to share",
+     "quranCount": 168,
+     "words": [
+      {
+       "ar": "أَشْرَكُوا۟ ۖ",
+       "en": "(are) polytheists",
+       "ref": "5:82"
+      },
+      {
+       "ar": "ٱلْمُشْرِكِينَ",
+       "en": "the polytheists",
+       "ref": "6:14"
+      },
+      {
+       "ar": "تُشْرِكُونَ",
+       "en": "you associate (with Him)",
+       "ref": "6:19"
+      }
+     ],
+     "inJuz": 18
+    },
+    {
+     "root": "كذب",
+     "letters": "ك ذ ب",
+     "meaning": "to lie, to deny",
+     "quranCount": 282,
+     "words": [
+      {
+       "ar": "وَكَذَّبُوا۟",
+       "en": "and denied",
+       "ref": "5:86"
+      },
+      {
+       "ar": "ٱلْكَذِبَ ۖ",
+       "en": "the lie",
+       "ref": "5:103"
+      },
+      {
+       "ar": "كَذَّبُوا۟",
+       "en": "they denied",
+       "ref": "6:5"
+      }
+     ],
+     "inJuz": 18
+    },
+    {
+     "root": "سمو",
+     "letters": "س م و",
+     "meaning": "name; to be high",
+     "quranCount": 381,
+     "words": [
+      {
+       "ar": "ٱلسَّمَـٰوَٰتِ",
+       "en": "the heavens",
+       "ref": "5:97"
+      },
+      {
+       "ar": "ٱلسَّمَآءِ ۖ",
+       "en": "the heaven",
+       "ref": "5:112"
+      },
+      {
+       "ar": "ٱلسَّمَآءِ",
+       "en": "the heaven",
+       "ref": "5:114"
+      }
+     ],
+     "inJuz": 17
+    },
+    {
+     "root": "راي",
+     "letters": "ر ا ي",
+     "meaning": "to see, to view, to think",
+     "quranCount": 328,
+     "words": [
+      {
+       "ar": "تَرَىٰٓ",
+       "en": "you see",
+       "ref": "5:83"
+      },
+      {
+       "ar": "يَرَوْا۟",
+       "en": "they see",
+       "ref": "6:6"
+      },
+      {
+       "ar": "أَرَءَيْتَكُمْ",
+       "en": "Have you seen",
+       "ref": "6:40"
+      }
+     ],
+     "inJuz": 16
+    },
+    {
+     "root": "حقق",
+     "letters": "ح ق ق",
+     "meaning": "to verify, to confirm, to be true",
+     "quranCount": 287,
+     "words": [
+      {
+       "ar": "ٱلْحَقِّ ۖ",
+       "en": "the truth",
+       "ref": "5:83"
+      },
+      {
+       "ar": "ٱلْحَقِّ",
+       "en": "the truth",
+       "ref": "5:84"
+      },
+      {
+       "ar": "ٱسْتَحَقَّآ",
+       "en": "(were) guilty",
+       "ref": "5:107"
+      }
+     ],
+     "inJuz": 16
+    },
+    {
+     "root": "جعل",
+     "letters": "ج ع ل",
+     "meaning": "to make, to place, to set",
+     "quranCount": 346,
+     "words": [
+      {
+       "ar": "۞ جَعَلَ",
+       "en": "Has (been) made",
+       "ref": "5:97"
+      },
+      {
+       "ar": "جَعَلَ",
+       "en": "has (been) made",
+       "ref": "5:103"
+      },
+      {
+       "ar": "وَجَعَلَ",
+       "en": "and made",
+       "ref": "6:1"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "غير",
+     "letters": "غ ي ر",
+     "meaning": "to change, to alter",
+     "quranCount": 154,
+     "words": [
+      {
+       "ar": "غَيْرِكُمْ",
+       "en": "other than you",
+       "ref": "5:106"
+      },
+      {
+       "ar": "أَغَيْرَ",
+       "en": "Is it other than",
+       "ref": "6:14"
+      },
+      {
+       "ar": "غَيْرُ",
+       "en": "other than",
+       "ref": "6:46"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "دعو",
+     "letters": "د ع و",
+     "meaning": "to call, to invoke",
+     "quranCount": 212,
+     "words": [
+      {
+       "ar": "تَدْعُونَ",
+       "en": "you call",
+       "ref": "6:40"
+      },
+      {
+       "ar": "يَدْعُونَ",
+       "en": "call",
+       "ref": "6:52"
+      },
+      {
+       "ar": "تَدْعُونَهُۥ",
+       "en": "you call Him",
+       "ref": "6:63"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "ذكر",
+     "letters": "ذ ك ر",
+     "meaning": "to remember, to mention",
+     "quranCount": 292,
+     "words": [
+      {
+       "ar": "ذِكْرِ",
+       "en": "(the) remembrance",
+       "ref": "5:91"
+      },
+      {
+       "ar": "ٱذْكُرْ",
+       "en": "Remember",
+       "ref": "5:110"
+      },
+      {
+       "ar": "ذُكِّرُوا۟",
+       "en": "they were reminded",
+       "ref": "6:44"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "ليس",
+     "letters": "ل ي س",
+     "meaning": "to not be, to be absent",
+     "quranCount": 89,
+     "words": [
+      {
+       "ar": "لَيْسَ",
+       "en": "Not",
+       "ref": "5:93"
+      },
+      {
+       "ar": "أَلَيْسَ",
+       "en": "Is not",
+       "ref": "6:30"
+      },
+      {
+       "ar": "لَّسْتُ",
+       "en": "I am not",
+       "ref": "6:66"
+      }
+     ],
+     "inJuz": 8
+    }
+   ],
+   "pctJuz": 55,
+   "pctQuran": 50
+  },
+  {
+   "night": 8,
+   "juz": 8,
+   "start": {
+    "surah": 6,
+    "ayah": 111,
+    "surahName": "Al-An'am"
+   },
+   "end": {
+    "surah": 7,
+    "ayah": 87,
+    "surahName": "Al-A'raf"
+   },
+   "roots": [
+    {
+     "root": "حرم",
+     "letters": "ح ر م",
+     "meaning": "to forbid, to prohibit",
+     "quranCount": 83,
+     "words": [
+      {
+       "ar": "حَرَّمَ",
+       "en": "He (has) forbidden",
+       "ref": "6:119"
+      },
+      {
+       "ar": "حُرِّمَتْ",
+       "en": "forbidden",
+       "ref": "6:138"
+      },
+      {
+       "ar": "وَمُحَرَّمٌ",
+       "en": "and forbidden",
+       "ref": "6:139"
+      }
+     ],
+     "inJuz": 16
+    },
+    {
+     "root": "جنن",
+     "letters": "ج ن ن",
+     "meaning": "to be mad, to go insane",
+     "quranCount": 201,
+     "words": [
+      {
+       "ar": "وَٱلْجِنِّ",
+       "en": "and the jinn",
+       "ref": "6:112"
+      },
+      {
+       "ar": "ٱلْجِنِّ",
+       "en": "(of) [the] jinn",
+       "ref": "6:128"
+      },
+      {
+       "ar": "جَنَّـٰتٍۢ",
+       "en": "gardens",
+       "ref": "6:141"
+      }
+     ],
+     "inJuz": 15
+    },
+    {
+     "root": "بعض",
+     "letters": "ب ع ض",
+     "meaning": "some, part of",
+     "quranCount": 158,
+     "words": [
+      {
+       "ar": "بَعْضُهُمْ",
+       "en": "some of them",
+       "ref": "6:112"
+      },
+      {
+       "ar": "بَعْضٍۢ",
+       "en": "others",
+       "ref": "6:112"
+      },
+      {
+       "ar": "بَعْضُنَا",
+       "en": "some of us",
+       "ref": "6:128"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "خرج",
+     "letters": "خ ر ج",
+     "meaning": "to exit, to come out",
+     "quranCount": 182,
+     "words": [
+      {
+       "ar": "بِخَارِجٍۢ",
+       "en": "he comes out",
+       "ref": "6:122"
+      },
+      {
+       "ar": "فَتُخْرِجُوهُ",
+       "en": "then produce it",
+       "ref": "6:148"
+      },
+      {
+       "ar": "فَٱخْرُجْ",
+       "en": "So get out",
+       "ref": "7:13"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "تبع",
+     "letters": "ت ب ع",
+     "meaning": "to follow",
+     "quranCount": 172,
+     "words": [
+      {
+       "ar": "يَتَّبِعُونَ",
+       "en": "they follow",
+       "ref": "6:116"
+      },
+      {
+       "ar": "تَتَّبِعُوا۟",
+       "en": "follow",
+       "ref": "6:142"
+      },
+      {
+       "ar": "تَتَّبِعُونَ",
+       "en": "you follow",
+       "ref": "6:148"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "نظر",
+     "letters": "ن ظ ر",
+     "meaning": "to look, to consider",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "يَنظُرُونَ",
+       "en": "they waiting",
+       "ref": "6:158"
+      },
+      {
+       "ar": "ٱنتَظِرُوٓا۟",
+       "en": "Wait",
+       "ref": "6:158"
+      },
+      {
+       "ar": "مُنتَظِرُونَ",
+       "en": "(are) those who wait",
+       "ref": "6:158"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "اكل",
+     "letters": "ا ك ل",
+     "meaning": "to eat",
+     "quranCount": 109,
+     "words": [
+      {
+       "ar": "فَكُلُوا۟",
+       "en": "So eat",
+       "ref": "6:118"
+      },
+      {
+       "ar": "تَأْكُلُوا۟",
+       "en": "you eat",
+       "ref": "6:119"
+      },
+      {
+       "ar": "أُكُلُهُۥ",
+       "en": "(are) its taste",
+       "ref": "6:141"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "صحب",
+     "letters": "ص ح ب",
+     "meaning": "to accompany, to keep company",
+     "quranCount": 97,
+     "words": [
+      {
+       "ar": "أَصْحَـٰبُ",
+       "en": "(are the) companions",
+       "ref": "7:36"
+      },
+      {
+       "ar": "أَصْحَـٰبَ",
+       "en": "(to the) companions",
+       "ref": "7:44"
+      },
+      {
+       "ar": "أَصْحَـٰبِ",
+       "en": "(the) companions",
+       "ref": "7:47"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "شطن",
+     "letters": "ش ط ن",
+     "meaning": "to tie up, to moor",
+     "quranCount": 88,
+     "words": [
+      {
+       "ar": "شَيَـٰطِينَ",
+       "en": "devils",
+       "ref": "6:112"
+      },
+      {
+       "ar": "ٱلشَّيَـٰطِينَ",
+       "en": "the devils",
+       "ref": "6:121"
+      },
+      {
+       "ar": "ٱلشَّيْطَـٰنِ ۚ",
+       "en": "(of) Shaitaan",
+       "ref": "6:142"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "فري",
+     "letters": "ف ر ي",
+     "meaning": "to split, to tear open",
+     "quranCount": 60,
+     "words": [
+      {
+       "ar": "يَفْتَرُونَ",
+       "en": "they invent",
+       "ref": "6:112"
+      },
+      {
+       "ar": "ٱفْتِرَآءً",
+       "en": "(as) an invention",
+       "ref": "6:138"
+      },
+      {
+       "ar": "ٱفْتَرَىٰ",
+       "en": "invents",
+       "ref": "6:144"
+      }
+     ],
+     "inJuz": 8
+    }
+   ],
+   "pctJuz": 58,
+   "pctQuran": 53
+  },
+  {
+   "night": 9,
+   "juz": 9,
+   "start": {
+    "surah": 7,
+    "ayah": 88,
+    "surahName": "Al-A'raf"
+   },
+   "end": {
+    "surah": 8,
+    "ayah": 40,
+    "surahName": "Al-Anfal"
+   },
+   "roots": [
+    {
+     "root": "سمع",
+     "letters": "س م ع",
+     "meaning": "to hear",
+     "quranCount": 185,
+     "words": [
+      {
+       "ar": "يَسْمَعُونَ",
+       "en": "hear",
+       "ref": "7:100"
+      },
+      {
+       "ar": "يَسْمَعُوا۟ ۖ",
+       "en": "do they not",
+       "ref": "7:198"
+      },
+      {
+       "ar": "سَمِيعٌ",
+       "en": "(is) All-Hearing",
+       "ref": "7:200"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "لقي",
+     "letters": "ل ق ي",
+     "meaning": "to meet, to encounter",
+     "quranCount": 146,
+     "words": [
+      {
+       "ar": "فَأَلْقَىٰ",
+       "en": "So he threw",
+       "ref": "7:107"
+      },
+      {
+       "ar": "تُلْقِىَ",
+       "en": "you throw",
+       "ref": "7:115"
+      },
+      {
+       "ar": "ٱلْمُلْقِينَ",
+       "en": "the ones to throw",
+       "ref": "7:115"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "سوا",
+     "letters": "س و ا",
+     "meaning": "to make equal, to level",
+     "quranCount": 167,
+     "words": [
+      {
+       "ar": "ٱلسَّيِّئَةِ",
+       "en": "(of) the bad",
+       "ref": "7:95"
+      },
+      {
+       "ar": "سَيِّئَةٌۭ",
+       "en": "bad",
+       "ref": "7:131"
+      },
+      {
+       "ar": "سُوٓءَ",
+       "en": "(with) worst",
+       "ref": "7:141"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "قري",
+     "letters": "ق ر ي",
+     "meaning": "town, city",
+     "quranCount": 57,
+     "words": [
+      {
+       "ar": "قَرْيَتِنَآ",
+       "en": "our city",
+       "ref": "7:88"
+      },
+      {
+       "ar": "قَرْيَةٍۢ",
+       "en": "a city",
+       "ref": "7:94"
+      },
+      {
+       "ar": "ٱلْقُرَىٰٓ",
+       "en": "(of) the cities",
+       "ref": "7:96"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "مكر",
+     "letters": "م ك ر",
+     "meaning": "to scheme, to plot, to deceive",
+     "quranCount": 43,
+     "words": [
+      {
+       "ar": "مَكْرَ",
+       "en": "(from the) plan",
+       "ref": "7:99"
+      },
+      {
+       "ar": "لَمَكْرٌۭ",
+       "en": "(is) surely a plot",
+       "ref": "7:123"
+      },
+      {
+       "ar": "مَّكَرْتُمُوهُ",
+       "en": "you have plotted it",
+       "ref": "7:123"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "امم",
+     "letters": "ا م م",
+     "meaning": "mother; nation, community",
+     "quranCount": 118,
+     "words": [
+      {
+       "ar": "أُمَّ",
+       "en": "(of) my mother",
+       "ref": "7:150"
+      },
+      {
+       "ar": "ٱلْأُمِّىَّ",
+       "en": "the unlettered",
+       "ref": "7:157"
+      },
+      {
+       "ar": "ٱلْأُمِّىِّ",
+       "en": "the unlettered",
+       "ref": "7:158"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "نصر",
+     "letters": "ن ص ر",
+     "meaning": "to help",
+     "quranCount": 158,
+     "words": [
+      {
+       "ar": "وَنَصَرُوهُ",
+       "en": "and help him",
+       "ref": "7:157"
+      },
+      {
+       "ar": "نَصْرًۭا",
+       "en": "any help",
+       "ref": "7:192"
+      },
+      {
+       "ar": "يَنصُرُونَ",
+       "en": "can they help",
+       "ref": "7:192"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "سحر",
+     "letters": "س ح ر",
+     "meaning": "to enchant, to bewitch",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "لَسَـٰحِرٌ",
+       "en": "(is) surely a magician ",
+       "ref": "7:109"
+      },
+      {
+       "ar": "سَـٰحِرٍ",
+       "en": "magician",
+       "ref": "7:112"
+      },
+      {
+       "ar": "ٱلسَّحَرَةُ",
+       "en": "the magicians",
+       "ref": "7:113"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "مثل",
+     "letters": "م ث ل",
+     "meaning": "to be like, to resemble",
+     "quranCount": 169,
+     "words": [
+      {
+       "ar": "مِّثْلُهُۥ",
+       "en": "similar to it",
+       "ref": "7:169"
+      },
+      {
+       "ar": "فَمَثَلُهُۥ",
+       "en": "So his example",
+       "ref": "7:176"
+      },
+      {
+       "ar": "كَمَثَلِ",
+       "en": "(is) like (the) example",
+       "ref": "7:176"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "عود",
+     "letters": "ع و د",
+     "meaning": "to return, to come back",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "لَتَعُودُنَّ",
+       "en": "you must return",
+       "ref": "7:88"
+      },
+      {
+       "ar": "عُدْنَا",
+       "en": "we returned",
+       "ref": "7:89"
+      },
+      {
+       "ar": "نَّعُودَ",
+       "en": "we return",
+       "ref": "7:89"
+      }
+     ],
+     "inJuz": 6
+    }
+   ],
+   "pctJuz": 60,
+   "pctQuran": 55
+  },
+  {
+   "night": 10,
+   "juz": 10,
+   "start": {
+    "surah": 8,
+    "ayah": 41,
+    "surahName": "Al-Anfal"
+   },
+   "end": {
+    "surah": 9,
+    "ayah": 92,
+    "surahName": "At-Tawbah"
+   },
+   "roots": [
+    {
+     "root": "جهد",
+     "letters": "ج ه د",
+     "meaning": "to strive, to exert effort",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "وَجَـٰهَدُوا۟",
+       "en": "and strove hard",
+       "ref": "8:72"
+      },
+      {
+       "ar": "جَـٰهَدُوا۟",
+       "en": "strive",
+       "ref": "9:16"
+      },
+      {
+       "ar": "وَجَـٰهَدَ",
+       "en": "and strives",
+       "ref": "9:19"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "اخر",
+     "letters": "ا خ ر",
+     "meaning": "to delay, to postpone",
+     "quranCount": 250,
+     "words": [
+      {
+       "ar": "وَءَاخَرِينَ",
+       "en": "and others",
+       "ref": "8:60"
+      },
+      {
+       "ar": "ٱلْـَٔاخِرَةَ ۗ",
+       "en": "(for you) the Hereafter",
+       "ref": "8:67"
+      },
+      {
+       "ar": "ٱلْـَٔاخِرِ",
+       "en": "the Last",
+       "ref": "9:18"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "اذن",
+     "letters": "ا ذ ن",
+     "meaning": "to permit, to allow",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "بِإِذْنِ",
+       "en": "with (the) permission",
+       "ref": "8:66"
+      },
+      {
+       "ar": "وَأَذَٰنٌۭ",
+       "en": "And an announcement",
+       "ref": "9:3"
+      },
+      {
+       "ar": "أَذِنتَ",
+       "en": "you grant leave",
+       "ref": "9:43"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "مول",
+     "letters": "م و ل",
+     "meaning": "wealth, property",
+     "quranCount": 86,
+     "words": [
+      {
+       "ar": "بِأَمْوَٰلِهِمْ",
+       "en": "with their wealth",
+       "ref": "8:72"
+      },
+      {
+       "ar": "وَأَمْوَٰلٌ",
+       "en": "and wealth",
+       "ref": "9:24"
+      },
+      {
+       "ar": "أَمْوَٰلَ",
+       "en": "(the) wealth",
+       "ref": "9:34"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "رضو",
+     "letters": "ر ض و",
+     "meaning": "to be pleased, to be satisfied",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "يُرْضُونَكُم",
+       "en": "They satisfy you",
+       "ref": "9:8"
+      },
+      {
+       "ar": "وَرِضْوَٰنٍۢ",
+       "en": "and Pleasure",
+       "ref": "9:21"
+      },
+      {
+       "ar": "تَرْضَوْنَهَآ",
+       "en": "you delight (in) it",
+       "ref": "9:24"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "دين",
+     "letters": "د ي ن",
+     "meaning": "to judge, to account, to owe",
+     "quranCount": 101,
+     "words": [
+      {
+       "ar": "دِينُهُمْ ۗ",
+       "en": "their religion",
+       "ref": "8:49"
+      },
+      {
+       "ar": "ٱلدِّينِ",
+       "en": "the religion",
+       "ref": "8:72"
+      },
+      {
+       "ar": "ٱلدِّينِ ۗ",
+       "en": "[the] religion",
+       "ref": "9:11"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "عهد",
+     "letters": "ع ه د",
+     "meaning": "to covenant, to pledge",
+     "quranCount": 46,
+     "words": [
+      {
+       "ar": "عَـٰهَدتَّ",
+       "en": "you made a covenant",
+       "ref": "8:56"
+      },
+      {
+       "ar": "عَهْدَهُمْ",
+       "en": "their covenant",
+       "ref": "8:56"
+      },
+      {
+       "ar": "عَـٰهَدتُّم",
+       "en": "you made a covenant",
+       "ref": "9:1"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "دنو",
+     "letters": "د ن و",
+     "meaning": "to draw near, to approach",
+     "quranCount": 133,
+     "words": [
+      {
+       "ar": "ٱلدُّنْيَا",
+       "en": "the nearer",
+       "ref": "8:42"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "نبا",
+     "letters": "ن ب ا",
+     "meaning": "to inform, to report news",
+     "quranCount": 160,
+     "words": [
+      {
+       "ar": "ٱلنَّبِىُّ",
+       "en": "Prophet",
+       "ref": "8:64"
+      },
+      {
+       "ar": "لِنَبِىٍّ",
+       "en": "for a Prophet",
+       "ref": "8:67"
+      },
+      {
+       "ar": "ٱلنَّبِىَّ",
+       "en": "the Prophet",
+       "ref": "9:61"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "قعد",
+     "letters": "ق ع د",
+     "meaning": "to sit",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "وَٱقْعُدُوا۟",
+       "en": "and sit (in wait)",
+       "ref": "9:5"
+      },
+      {
+       "ar": "ٱقْعُدُوا۟",
+       "en": "Sit",
+       "ref": "9:46"
+      },
+      {
+       "ar": "ٱلْقَـٰعِدِينَ",
+       "en": "those who sit",
+       "ref": "9:46"
+      }
+     ],
+     "inJuz": 8
+    }
+   ],
+   "pctJuz": 63,
+   "pctQuran": 57
+  },
+  {
+   "night": 11,
+   "juz": 11,
+   "start": {
+    "surah": 9,
+    "ayah": 93,
+    "surahName": "At-Tawbah"
+   },
+   "end": {
+    "surah": 11,
+    "ayah": 5,
+    "surahName": "Hud"
+   },
+   "roots": [
+    {
+     "root": "توب",
+     "letters": "ت و ب",
+     "meaning": "to repent, to turn back",
+     "quranCount": 87,
+     "words": [
+      {
+       "ar": "يَتُوبَ",
+       "en": "will turn (in mercy)",
+       "ref": "9:102"
+      },
+      {
+       "ar": "ٱلتَّوْبَةَ",
+       "en": "the repentance",
+       "ref": "9:104"
+      },
+      {
+       "ar": "ٱلتَّوَّابُ",
+       "en": "(is) the Acceptor of repentance",
+       "ref": "9:104"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "خلف",
+     "letters": "خ ل ف",
+     "meaning": "to come after, to succeed",
+     "quranCount": 127,
+     "words": [
+      {
+       "ar": "ٱلْخَوَالِفِ",
+       "en": "those who stay behind",
+       "ref": "9:93"
+      },
+      {
+       "ar": "خُلِّفُوا۟",
+       "en": "were left behind",
+       "ref": "9:118"
+      },
+      {
+       "ar": "يَتَخَلَّفُوا۟",
+       "en": "they remain behind",
+       "ref": "9:120"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "عبد",
+     "letters": "ع ب د",
+     "meaning": "to worship, to serve",
+     "quranCount": 275,
+     "words": [
+      {
+       "ar": "عِبَادِهِۦ",
+       "en": "His slaves",
+       "ref": "9:104"
+      },
+      {
+       "ar": "ٱلْعَـٰبِدُونَ",
+       "en": "those who worship",
+       "ref": "9:112"
+      },
+      {
+       "ar": "فَٱعْبُدُوهُ ۚ",
+       "en": "so worship Him",
+       "ref": "10:3"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "حيي",
+     "letters": "ح ي ي",
+     "meaning": "to live",
+     "quranCount": 189,
+     "words": [
+      {
+       "ar": "يُحْىِۦ",
+       "en": "He gives life",
+       "ref": "9:116"
+      },
+      {
+       "ar": "بِٱلْحَيَوٰةِ",
+       "en": "with the life",
+       "ref": "10:7"
+      },
+      {
+       "ar": "وَتَحِيَّتُهُمْ",
+       "en": "And their greeting",
+       "ref": "10:10"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "ضرر",
+     "letters": "ض ر ر",
+     "meaning": "to harm",
+     "quranCount": 74,
+     "words": [
+      {
+       "ar": "ضِرَارًۭا",
+       "en": "(for causing) harm",
+       "ref": "9:107"
+      },
+      {
+       "ar": "ٱلضُّرُّ",
+       "en": "the affliction",
+       "ref": "10:12"
+      },
+      {
+       "ar": "ضُرَّهُۥ",
+       "en": "his affliction",
+       "ref": "10:12"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "رجع",
+     "letters": "ر ج ع",
+     "meaning": "to return",
+     "quranCount": 104,
+     "words": [
+      {
+       "ar": "رَجَعْتُمْ",
+       "en": "you (have) returned",
+       "ref": "9:94"
+      },
+      {
+       "ar": "رَجَعُوٓا۟",
+       "en": "they return",
+       "ref": "9:122"
+      },
+      {
+       "ar": "مَرْجِعُكُمْ",
+       "en": "(will be) your return",
+       "ref": "10:4"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "صدق",
+     "letters": "ص د ق",
+     "meaning": "to be truthful",
+     "quranCount": 155,
+     "words": [
+      {
+       "ar": "صَدَقَةًۭ",
+       "en": "a charity",
+       "ref": "9:103"
+      },
+      {
+       "ar": "ٱلصَّدَقَـٰتِ",
+       "en": "the charities",
+       "ref": "9:104"
+      },
+      {
+       "ar": "ٱلصَّـٰدِقِينَ",
+       "en": "those who are truthful",
+       "ref": "9:119"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "نهر",
+     "letters": "ن ه ر",
+     "meaning": "to rebuke, to scold",
+     "quranCount": 113,
+     "words": [
+      {
+       "ar": "ٱلْأَنْهَـٰرُ",
+       "en": "the rivers",
+       "ref": "9:100"
+      },
+      {
+       "ar": "وَٱلنَّهَارِ",
+       "en": "and the day",
+       "ref": "10:6"
+      },
+      {
+       "ar": "نَهَارًۭا",
+       "en": "(by) day",
+       "ref": "10:24"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "وعد",
+     "letters": "و ع د",
+     "meaning": "to promise",
+     "quranCount": 151,
+     "words": [
+      {
+       "ar": "وَعْدًا",
+       "en": "A promise",
+       "ref": "9:111"
+      },
+      {
+       "ar": "مَّوْعِدَةٍۢ",
+       "en": "(of) a promise",
+       "ref": "9:114"
+      },
+      {
+       "ar": "وَعَدَهَآ",
+       "en": "he had promised it",
+       "ref": "9:114"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "بشر",
+     "letters": "ب ش ر",
+     "meaning": "to give glad tidings",
+     "quranCount": 123,
+     "words": [
+      {
+       "ar": "فَٱسْتَبْشِرُوا۟",
+       "en": "So rejoice",
+       "ref": "9:111"
+      },
+      {
+       "ar": "وَبَشِّرِ",
+       "en": "And give glad tidings",
+       "ref": "9:112"
+      },
+      {
+       "ar": "يَسْتَبْشِرُونَ",
+       "en": "rejoice",
+       "ref": "9:124"
+      }
+     ],
+     "inJuz": 7
+    }
+   ],
+   "pctJuz": 67,
+   "pctQuran": 60
+  },
+  {
+   "night": 12,
+   "juz": 12,
+   "start": {
+    "surah": 11,
+    "ayah": 6,
+    "surahName": "Hud"
+   },
+   "end": {
+    "surah": 12,
+    "ayah": 52,
+    "surahName": "Yusuf"
+   },
+   "roots": [
+    {
+     "root": "ابو",
+     "letters": "ا ب و",
+     "meaning": "father",
+     "quranCount": 117,
+     "words": [
+      {
+       "ar": "ءَابَآؤُنَا",
+       "en": "our forefathers worshipped",
+       "ref": "11:62"
+      },
+      {
+       "ar": "ءَابَآؤُنَآ",
+       "en": "our forefathers",
+       "ref": "11:87"
+      },
+      {
+       "ar": "ءَابَآؤُهُم",
+       "en": "their forefathers",
+       "ref": "11:109"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "كيد",
+     "letters": "ك ي د",
+     "meaning": "to plot, to scheme",
+     "quranCount": 35,
+     "words": [
+      {
+       "ar": "فَكِيدُونِى",
+       "en": "So plot against me",
+       "ref": "11:55"
+      },
+      {
+       "ar": "فَيَكِيدُوا۟",
+       "en": "lest they plan",
+       "ref": "12:5"
+      },
+      {
+       "ar": "كَيْدًا ۖ",
+       "en": "a plot",
+       "ref": "12:5"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "سجن",
+     "letters": "س ج ن",
+     "meaning": "to imprison, to confine",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "يُسْجَنَ",
+       "en": "he be imprisoned",
+       "ref": "12:25"
+      },
+      {
+       "ar": "لَيُسْجَنَنَّ",
+       "en": "surely, he will be imprisoned",
+       "ref": "12:32"
+      },
+      {
+       "ar": "ٱلسِّجْنُ",
+       "en": "the prison",
+       "ref": "12:33"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "سبع",
+     "letters": "س ب ع",
+     "meaning": "seven",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "سَبْعَ",
+       "en": "seven",
+       "ref": "12:43"
+      },
+      {
+       "ar": "سَبْعٌ",
+       "en": "seven",
+       "ref": "12:43"
+      },
+      {
+       "ar": "وَسَبْعَ",
+       "en": "and seven",
+       "ref": "12:43"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "نجو",
+     "letters": "ن ج و",
+     "meaning": "to escape, to be saved",
+     "quranCount": 84,
+     "words": [
+      {
+       "ar": "نَجَّيْنَا",
+       "en": "We saved",
+       "ref": "11:58"
+      },
+      {
+       "ar": "وَنَجَّيْنَـٰهُم",
+       "en": "and We saved them",
+       "ref": "11:58"
+      },
+      {
+       "ar": "أَنجَيْنَا",
+       "en": "We saved",
+       "ref": "11:116"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "اول",
+     "letters": "ا و ل",
+     "meaning": "to eat first/to come first",
+     "quranCount": 125,
+     "words": [
+      {
+       "ar": "تَأْوِيلِ",
+       "en": "(the) interpretation",
+       "ref": "12:6"
+      },
+      {
+       "ar": "ءَالِ",
+       "en": "(the) family",
+       "ref": "12:6"
+      },
+      {
+       "ar": "بِتَأْوِيلِهِۦٓ ۖ",
+       "en": "of its interpretation",
+       "ref": "12:36"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "ذهب",
+     "letters": "ذ ه ب",
+     "meaning": "to go, to depart",
+     "quranCount": 56,
+     "words": [
+      {
+       "ar": "ذَهَبَ",
+       "en": "Have gone",
+       "ref": "11:10"
+      },
+      {
+       "ar": "يُذْهِبْنَ",
+       "en": "remove",
+       "ref": "11:114"
+      },
+      {
+       "ar": "تَذْهَبُوا۟",
+       "en": "you should take him",
+       "ref": "12:13"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "وحي",
+     "letters": "و ح ي",
+     "meaning": "to reveal",
+     "quranCount": 78,
+     "words": [
+      {
+       "ar": "يُوحَىٰٓ",
+       "en": "is revealed",
+       "ref": "11:12"
+      },
+      {
+       "ar": "وَأُوحِىَ",
+       "en": "And it was revealed",
+       "ref": "11:36"
+      },
+      {
+       "ar": "وَوَحْيِنَا",
+       "en": "and Our inspiration",
+       "ref": "11:37"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "دون",
+     "letters": "د و ن",
+     "meaning": "besides, other than; below",
+     "quranCount": 144,
+     "words": [
+      {
+       "ar": "دُونِ",
+       "en": "besides Allah",
+       "ref": "11:13"
+      },
+      {
+       "ar": "دُونِهِۦ ۖ",
+       "en": "Other than Him",
+       "ref": "11:55"
+      },
+      {
+       "ar": "دُونِهِۦٓ",
+       "en": "besides Him",
+       "ref": "12:40"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "جرم",
+     "letters": "ج ر م",
+     "meaning": "to commit sin, to wrong",
+     "quranCount": 66,
+     "words": [
+      {
+       "ar": "جَرَمَ",
+       "en": "doubt",
+       "ref": "11:22"
+      },
+      {
+       "ar": "إِجْرَامِى",
+       "en": "(is) my crime",
+       "ref": "11:35"
+      },
+      {
+       "ar": "تُجْرِمُونَ",
+       "en": "crimes you commit",
+       "ref": "11:35"
+      }
+     ],
+     "inJuz": 6
+    }
+   ],
+   "pctJuz": 62,
+   "pctQuran": 62
+  },
+  {
+   "night": 13,
+   "juz": 13,
+   "start": {
+    "surah": 12,
+    "ayah": 53,
+    "surahName": "Yusuf"
+   },
+   "end": {
+    "surah": 14,
+    "ayah": 52,
+    "surahName": "Ibrahim"
+   },
+   "roots": [
+    {
+     "root": "عقب",
+     "letters": "ع ق ب",
+     "meaning": "to follow, to come after",
+     "quranCount": 80,
+     "words": [
+      {
+       "ar": "عَـٰقِبَةُ",
+       "en": "(the) end",
+       "ref": "12:109"
+      },
+      {
+       "ar": "ٱلْعِقَابِ",
+       "en": "(in) the penalty",
+       "ref": "13:6"
+      },
+      {
+       "ar": "مُعَقِّبَـٰتٌۭ",
+       "en": "(are) successive (Angels)",
+       "ref": "13:11"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "وكل",
+     "letters": "و ك ل",
+     "meaning": "to entrust, to delegate",
+     "quranCount": 70,
+     "words": [
+      {
+       "ar": "وَكِيلٌۭ",
+       "en": "(is) a Guardian",
+       "ref": "12:66"
+      },
+      {
+       "ar": "تَوَكَّلْتُ ۖ",
+       "en": "I put my trust",
+       "ref": "12:67"
+      },
+      {
+       "ar": "فَلْيَتَوَكَّلِ",
+       "en": "let put (their) trust",
+       "ref": "12:67"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "جمع",
+     "letters": "ج م ع",
+     "meaning": "to gather, to collect",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "جَمِيعًا ۚ",
+       "en": "all",
+       "ref": "12:83"
+      },
+      {
+       "ar": "أَجْمَعِينَ",
+       "en": "all together",
+       "ref": "12:93"
+      },
+      {
+       "ar": "أَجْمَعُوٓا۟",
+       "en": "they put together",
+       "ref": "12:102"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "خلق",
+     "letters": "خ ل ق",
+     "meaning": "to create",
+     "quranCount": 261,
+     "words": [
+      {
+       "ar": "خَلْقٍۢ",
+       "en": "a creation",
+       "ref": "13:5"
+      },
+      {
+       "ar": "خَلَقُوا۟",
+       "en": "who created",
+       "ref": "13:16"
+      },
+      {
+       "ar": "كَخَلْقِهِۦ",
+       "en": "like His creation",
+       "ref": "13:16"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "حسب",
+     "letters": "ح س ب",
+     "meaning": "to reckon, to account, to esteem",
+     "quranCount": 109,
+     "words": [
+      {
+       "ar": "ٱلْحِسَابِ",
+       "en": "reckoning",
+       "ref": "13:18"
+      },
+      {
+       "ar": "ٱلْحِسَابُ",
+       "en": "(is) the reckoning",
+       "ref": "13:40"
+      },
+      {
+       "ar": "تَحْسَبَنَّ",
+       "en": "think",
+       "ref": "14:42"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "ملك",
+     "letters": "م ل ك",
+     "meaning": "to possess, to own",
+     "quranCount": 206,
+     "words": [
+      {
+       "ar": "ٱلْمَلِكُ",
+       "en": "the king",
+       "ref": "12:54"
+      },
+      {
+       "ar": "ٱلْمَلِكِ",
+       "en": "(of) the king",
+       "ref": "12:72"
+      },
+      {
+       "ar": "ٱلْمُلْكِ",
+       "en": "the sovereignty",
+       "ref": "12:101"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "كيل",
+     "letters": "ك ي ل",
+     "meaning": "to measure, to weigh out",
+     "quranCount": 16,
+     "words": [
+      {
+       "ar": "ٱلْكَيْلَ",
+       "en": "[the] measure",
+       "ref": "12:59"
+      },
+      {
+       "ar": "كَيْلَ",
+       "en": "measure",
+       "ref": "12:60"
+      },
+      {
+       "ar": "ٱلْكَيْلُ",
+       "en": "the measure",
+       "ref": "12:63"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "ردد",
+     "letters": "ر د د",
+     "meaning": "to repeat, to send back",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "رُدَّتْ",
+       "en": "returned",
+       "ref": "12:65"
+      },
+      {
+       "ar": "فَٱرْتَدَّ",
+       "en": "then returned (his) sight",
+       "ref": "12:96"
+      },
+      {
+       "ar": "يُرَدُّ",
+       "en": "(can) be repelled",
+       "ref": "12:110"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "صبر",
+     "letters": "ص ب ر",
+     "meaning": "to be patient, to endure",
+     "quranCount": 103,
+     "words": [
+      {
+       "ar": "فَصَبْرٌۭ",
+       "en": "so patience",
+       "ref": "12:83"
+      },
+      {
+       "ar": "وَيَصْبِرْ",
+       "en": "and (is) patient",
+       "ref": "12:90"
+      },
+      {
+       "ar": "صَبَرُوا۟",
+       "en": "(are) patient",
+       "ref": "13:22"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "دور",
+     "letters": "د و ر",
+     "meaning": "to turn, to go round",
+     "quranCount": 55,
+     "words": [
+      {
+       "ar": "وَلَدَارُ",
+       "en": "And surely the home",
+       "ref": "12:109"
+      },
+      {
+       "ar": "ٱلدَّارِ",
+       "en": "(of) the Home ",
+       "ref": "13:22"
+      },
+      {
+       "ar": "دَارِهِمْ",
+       "en": "their homes",
+       "ref": "13:31"
+      }
+     ],
+     "inJuz": 7
+    }
+   ],
+   "pctJuz": 66,
+   "pctQuran": 64
+  },
+  {
+   "night": 14,
+   "juz": 14,
+   "start": {
+    "surah": 15,
+    "ayah": 1,
+    "surahName": "Al-Hijr"
+   },
+   "end": {
+    "surah": 16,
+    "ayah": 128,
+    "surahName": "An-Nahl"
+   },
+   "roots": [
+    {
+     "root": "نعم",
+     "letters": "ن ع م",
+     "meaning": "to bless, to favor",
+     "quranCount": 140,
+     "words": [
+      {
+       "ar": "وَٱلْأَنْعَـٰمَ",
+       "en": "And the cattle",
+       "ref": "16:5"
+      },
+      {
+       "ar": "نِعْمَةَ",
+       "en": "the Favors of Allah",
+       "ref": "16:18"
+      },
+      {
+       "ar": "وَلَنِعْمَ",
+       "en": "And surely excellent",
+       "ref": "16:30"
+      }
+     ],
+     "inJuz": 13
+    },
+    {
+     "root": "رزق",
+     "letters": "ر ز ق",
+     "meaning": "to provide sustenance, to grant",
+     "quranCount": 123,
+     "words": [
+      {
+       "ar": "بِرَٰزِقِينَ",
+       "en": "providers",
+       "ref": "15:20"
+      },
+      {
+       "ar": "رَزَقْنَـٰهُمْ ۗ",
+       "en": "We have provided them",
+       "ref": "16:56"
+      },
+      {
+       "ar": "وَرِزْقًا",
+       "en": "and a provision",
+       "ref": "16:67"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "سلم",
+     "letters": "س ل م",
+     "meaning": "to submit, to be safe",
+     "quranCount": 140,
+     "words": [
+      {
+       "ar": "مُسْلِمِينَ",
+       "en": "Muslims",
+       "ref": "15:2"
+      },
+      {
+       "ar": "بِسَلَـٰمٍ",
+       "en": "in peace",
+       "ref": "15:46"
+      },
+      {
+       "ar": "سَلَـٰمًۭا",
+       "en": "Peace",
+       "ref": "15:52"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "سجد",
+     "letters": "س ج د",
+     "meaning": "to prostrate",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "سَـٰجِدِينَ",
+       "en": "prostrating",
+       "ref": "15:29"
+      },
+      {
+       "ar": "فَسَجَدَ",
+       "en": "So prostrated",
+       "ref": "15:30"
+      },
+      {
+       "ar": "ٱلسَّـٰجِدِينَ",
+       "en": "those who prostrated",
+       "ref": "15:31"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "قدر",
+     "letters": "ق د ر",
+     "meaning": "to measure, to decree",
+     "quranCount": 132,
+     "words": [
+      {
+       "ar": "بِقَدَرٍۢ",
+       "en": "in a measure",
+       "ref": "15:21"
+      },
+      {
+       "ar": "قَدَّرْنَآ ۙ",
+       "en": "We have decreed",
+       "ref": "15:60"
+      },
+      {
+       "ar": "قَدِيرٌۭ",
+       "en": "All-Powerful",
+       "ref": "16:70"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "بعث",
+     "letters": "ب ع ث",
+     "meaning": "to send, to resurrect",
+     "quranCount": 67,
+     "words": [
+      {
+       "ar": "يُبْعَثُونَ",
+       "en": "they are raised",
+       "ref": "15:36"
+      },
+      {
+       "ar": "بَعَثْنَا",
+       "en": "We sent",
+       "ref": "16:36"
+      },
+      {
+       "ar": "يَبْعَثُ",
+       "en": "Allah will not resurrect",
+       "ref": "16:38"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "كبر",
+     "letters": "ك ب ر",
+     "meaning": "to grow, to become great",
+     "quranCount": 161,
+     "words": [
+      {
+       "ar": "ٱلْكِبَرُ",
+       "en": "old age",
+       "ref": "15:54"
+      },
+      {
+       "ar": "مُّسْتَكْبِرُونَ",
+       "en": "(are) arrogant",
+       "ref": "16:22"
+      },
+      {
+       "ar": "ٱلْمُسْتَكْبِرِينَ",
+       "en": "the arrogant ones",
+       "ref": "16:23"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "يمن",
+     "letters": "ي م ن",
+     "meaning": "to be blessed",
+     "quranCount": 71,
+     "words": [
+      {
+       "ar": "أَيْمَـٰنِهِمْ ۙ",
+       "en": "(of) their oaths",
+       "ref": "16:38"
+      },
+      {
+       "ar": "ٱلْيَمِينِ",
+       "en": "the right",
+       "ref": "16:48"
+      },
+      {
+       "ar": "أَيْمَـٰنُهُمْ",
+       "en": "their right hands",
+       "ref": "16:71"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "قرا",
+     "letters": "ق ر ا",
+     "meaning": "to read, to recite",
+     "quranCount": 88,
+     "words": [
+      {
+       "ar": "وَقُرْءَانٍۢ",
+       "en": "and Quran",
+       "ref": "15:1"
+      },
+      {
+       "ar": "وَٱلْقُرْءَانَ",
+       "en": "and the Quran",
+       "ref": "15:87"
+      },
+      {
+       "ar": "ٱلْقُرْءَانَ",
+       "en": "the Quran",
+       "ref": "15:91"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "متع",
+     "letters": "م ت ع",
+     "meaning": "to enjoy, to take pleasure",
+     "quranCount": 70,
+     "words": [
+      {
+       "ar": "وَيَتَمَتَّعُوا۟",
+       "en": "and enjoy",
+       "ref": "15:3"
+      },
+      {
+       "ar": "مَتَّعْنَا",
+       "en": "We have bestowed",
+       "ref": "15:88"
+      },
+      {
+       "ar": "فَتَمَتَّعُوا۟ ۖ",
+       "en": "Then enjoy yourselves",
+       "ref": "16:55"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 68,
+   "pctQuran": 66
+  },
+  {
+   "night": 15,
+   "juz": 15,
+   "start": {
+    "surah": 17,
+    "ayah": 1,
+    "surahName": "Al-Isra"
+   },
+   "end": {
+    "surah": 18,
+    "ayah": 74,
+    "surahName": "Al-Kahf"
+   },
+   "roots": [
+    {
+     "root": "احد",
+     "letters": "ا ح د",
+     "meaning": "one, single",
+     "quranCount": 85,
+     "words": [
+      {
+       "ar": "أَحَدُهُمَآ",
+       "en": "one of them",
+       "ref": "17:23"
+      },
+      {
+       "ar": "أَحَدَكُم",
+       "en": "one of you",
+       "ref": "18:19"
+      },
+      {
+       "ar": "أَحَدًا",
+       "en": "anyone",
+       "ref": "18:19"
+      }
+     ],
+     "inJuz": 10
+    },
+    {
+     "root": "بصر",
+     "letters": "ب ص ر",
+     "meaning": "to see, to look",
+     "quranCount": 148,
+     "words": [
+      {
+       "ar": "ٱلْبَصِيرُ",
+       "en": "the All-Seer",
+       "ref": "17:1"
+      },
+      {
+       "ar": "مُبْصِرَةًۭ",
+       "en": "visible",
+       "ref": "17:12"
+      },
+      {
+       "ar": "بَصِيرًۭا",
+       "en": "All-Seer",
+       "ref": "17:17"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "لبث",
+     "letters": "ل ب ث",
+     "meaning": "to remain",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "لَّبِثْتُمْ",
+       "en": "you had remained",
+       "ref": "17:52"
+      },
+      {
+       "ar": "يَلْبَثُونَ",
+       "en": "they (would) have stayed",
+       "ref": "17:76"
+      },
+      {
+       "ar": "لَبِثُوٓا۟",
+       "en": "(they had) remained",
+       "ref": "18:12"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "سبح",
+     "letters": "س ب ح",
+     "meaning": "to glorify, to praise",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "سُبْحَـٰنَ",
+       "en": "Exalted",
+       "ref": "17:1"
+      },
+      {
+       "ar": "سُبْحَـٰنَهُۥ",
+       "en": "Glorified is He",
+       "ref": "17:43"
+      },
+      {
+       "ar": "تُسَبِّحُ",
+       "en": "Glorify",
+       "ref": "17:44"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "بغي",
+     "letters": "ب غ ي",
+     "meaning": "to seek, to desire wrongfully",
+     "quranCount": 96,
+     "words": [
+      {
+       "ar": "لِّتَبْتَغُوا۟",
+       "en": "that you may seek",
+       "ref": "17:12"
+      },
+      {
+       "ar": "ٱبْتِغَآءَ",
+       "en": "seeking",
+       "ref": "17:28"
+      },
+      {
+       "ar": "لَّٱبْتَغَوْا۟",
+       "en": "surely they (would) have sought",
+       "ref": "17:42"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "زيد",
+     "letters": "ز ي د",
+     "meaning": "to increase",
+     "quranCount": 61,
+     "words": [
+      {
+       "ar": "يَزِيدُهُمْ",
+       "en": "it increases them",
+       "ref": "17:41"
+      },
+      {
+       "ar": "يَزِيدُ",
+       "en": "it increases",
+       "ref": "17:82"
+      },
+      {
+       "ar": "زِدْنَـٰهُمْ",
+       "en": "We (will) increase (for) them",
+       "ref": "17:97"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "قلل",
+     "letters": "ق ل ل",
+     "meaning": "to be little, to become few",
+     "quranCount": 76,
+     "words": [
+      {
+       "ar": "قَلِيلًۭا",
+       "en": "a little (while)",
+       "ref": "17:52"
+      },
+      {
+       "ar": "قَلِيلًا",
+       "en": "a little",
+       "ref": "17:74"
+      },
+      {
+       "ar": "قَلِيلٌۭ ۗ",
+       "en": "a few",
+       "ref": "18:22"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "قرب",
+     "letters": "ق ر ب",
+     "meaning": "to approach, to draw near, to be close",
+     "quranCount": 96,
+     "words": [
+      {
+       "ar": "ٱلْقُرْبَىٰ",
+       "en": "the relatives",
+       "ref": "17:26"
+      },
+      {
+       "ar": "تَقْرَبُوا۟",
+       "en": "go near",
+       "ref": "17:32"
+      },
+      {
+       "ar": "قَرِيبًۭا",
+       "en": "soon",
+       "ref": "17:51"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "سال",
+     "letters": "س ا ل",
+     "meaning": "to ask, to question",
+     "quranCount": 129,
+     "words": [
+      {
+       "ar": "مَسْـُٔولًۭا",
+       "en": "questioned",
+       "ref": "17:34"
+      },
+      {
+       "ar": "وَيَسْـَٔلُونَكَ",
+       "en": "And they ask you",
+       "ref": "17:85"
+      },
+      {
+       "ar": "فَسْـَٔلْ",
+       "en": "so ask",
+       "ref": "17:101"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ظنن",
+     "letters": "ظ ن ن",
+     "meaning": "to think, to suppose",
+     "quranCount": 69,
+     "words": [
+      {
+       "ar": "وَتَظُنُّونَ",
+       "en": "and you will think",
+       "ref": "17:52"
+      },
+      {
+       "ar": "لَأَظُنُّكَ",
+       "en": "[I] think you ",
+       "ref": "17:101"
+      },
+      {
+       "ar": "أَظُنُّ",
+       "en": "I think",
+       "ref": "18:35"
+      }
+     ],
+     "inJuz": 6
+    }
+   ],
+   "pctJuz": 66,
+   "pctQuran": 68
+  },
+  {
+   "night": 16,
+   "juz": 16,
+   "start": {
+    "surah": 18,
+    "ayah": 75,
+    "surahName": "Al-Kahf"
+   },
+   "end": {
+    "surah": 20,
+    "ayah": 135,
+    "surahName": "Taha"
+   },
+   "roots": [
+    {
+     "root": "خوف",
+     "letters": "خ و ف",
+     "meaning": "to fear",
+     "quranCount": 124,
+     "words": [
+      {
+       "ar": "خِفْتُ",
+       "en": "[I] fear",
+       "ref": "19:5"
+      },
+      {
+       "ar": "أَخَافُ",
+       "en": "[I] fear",
+       "ref": "19:45"
+      },
+      {
+       "ar": "تَخَفْ ۖ",
+       "en": "fear",
+       "ref": "20:21"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "قضي",
+     "letters": "ق ض ي",
+     "meaning": "to judge, to decide",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "مَّقْضِيًّۭا",
+       "en": "decreed.'",
+       "ref": "19:21"
+      },
+      {
+       "ar": "قَضَىٰٓ",
+       "en": "He decrees",
+       "ref": "19:35"
+      },
+      {
+       "ar": "قُضِىَ",
+       "en": "has been decided",
+       "ref": "19:39"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "نسي",
+     "letters": "ن س ي",
+     "meaning": "to forget",
+     "quranCount": 45,
+     "words": [
+      {
+       "ar": "نَسْيًۭا",
+       "en": "(in) oblivion",
+       "ref": "19:23"
+      },
+      {
+       "ar": "مَّنسِيًّۭا",
+       "en": "forgotten",
+       "ref": "19:23"
+      },
+      {
+       "ar": "نَسِيًّۭا",
+       "en": "forgetful",
+       "ref": "19:64"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "قرن",
+     "letters": "ق ر ن",
+     "meaning": "to pair, to couple",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "ٱلْقَرْنَيْنِ ۖ",
+       "en": "Dhul-qarnain",
+       "ref": "18:83"
+      },
+      {
+       "ar": "ٱلْقَرْنَيْنِ",
+       "en": "O Dhul-qarnain",
+       "ref": "18:86"
+      },
+      {
+       "ar": "قَرْنٍ",
+       "en": "a generation ",
+       "ref": "19:74"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "سوي",
+     "letters": "س و ي",
+     "meaning": "to make equal, to level",
+     "quranCount": 83,
+     "words": [
+      {
+       "ar": "سَاوَىٰ",
+       "en": "he (had) leveled",
+       "ref": "18:96"
+      },
+      {
+       "ar": "سَوِيًّۭا",
+       "en": "sound",
+       "ref": "19:10"
+      },
+      {
+       "ar": "ٱسْتَوَىٰ",
+       "en": "is established",
+       "ref": "20:5"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "مدد",
+     "letters": "م د د",
+     "meaning": "to extend, to stretch",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "مِدَادًۭا",
+       "en": "ink",
+       "ref": "18:109"
+      },
+      {
+       "ar": "مَدَدًۭا",
+       "en": "(as) a supplement",
+       "ref": "18:109"
+      },
+      {
+       "ar": "فَلْيَمْدُدْ",
+       "en": "then surely will extend",
+       "ref": "19:75"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "حمل",
+     "letters": "ح م ل",
+     "meaning": "to carry, to bear",
+     "quranCount": 64,
+     "words": [
+      {
+       "ar": "۞ فَحَمَلَتْهُ",
+       "en": "So she conceived him",
+       "ref": "19:22"
+      },
+      {
+       "ar": "تَحْمِلُهُۥ ۖ",
+       "en": "carrying him",
+       "ref": "19:27"
+      },
+      {
+       "ar": "حَمَلْنَا",
+       "en": "We carried",
+       "ref": "19:58"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "علو",
+     "letters": "ع ل و",
+     "meaning": "to be high, to rise up",
+     "quranCount": 70,
+     "words": [
+      {
+       "ar": "عَلِيًّۭا",
+       "en": "high",
+       "ref": "19:50"
+      },
+      {
+       "ar": "عَلِيًّا",
+       "en": "high",
+       "ref": "19:57"
+      },
+      {
+       "ar": "ٱلْعُلَى",
+       "en": "[the] high",
+       "ref": "20:4"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "بلغ",
+     "letters": "ب ل غ",
+     "meaning": "to reach, to convey",
+     "quranCount": 77,
+     "words": [
+      {
+       "ar": "بَلَغْتَ",
+       "en": "you have reached",
+       "ref": "18:76"
+      },
+      {
+       "ar": "يَبْلُغَآ",
+       "en": "they reach",
+       "ref": "18:82"
+      },
+      {
+       "ar": "بَلَغَ",
+       "en": "he reached",
+       "ref": "18:86"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "غلم",
+     "letters": "غ ل م",
+     "meaning": "to be young, to serve",
+     "quranCount": 13,
+     "words": [
+      {
+       "ar": "ٱلْغُلَـٰمُ",
+       "en": "the boy",
+       "ref": "18:80"
+      },
+      {
+       "ar": "لِغُلَـٰمَيْنِ",
+       "en": "for two orphan boys",
+       "ref": "18:82"
+      },
+      {
+       "ar": "بِغُلَـٰمٍ",
+       "en": "of a boy",
+       "ref": "19:7"
+      }
+     ],
+     "inJuz": 6
+    }
+   ],
+   "pctJuz": 68,
+   "pctQuran": 69
+  },
+  {
+   "night": 17,
+   "juz": 17,
+   "start": {
+    "surah": 21,
+    "ayah": 1,
+    "surahName": "Al-Anbya"
+   },
+   "end": {
+    "surah": 22,
+    "ayah": 78,
+    "surahName": "Al-Hajj"
+   },
+   "roots": [
+    {
+     "root": "فعل",
+     "letters": "ف ع ل",
+     "meaning": "to do, to act",
+     "quranCount": 108,
+     "words": [
+      {
+       "ar": "فَـٰعِلِينَ",
+       "en": "doers",
+       "ref": "21:17"
+      },
+      {
+       "ar": "يَفْعَلُ",
+       "en": "He does",
+       "ref": "21:23"
+      },
+      {
+       "ar": "فَعَلَ",
+       "en": "(has) done",
+       "ref": "21:59"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "باس",
+     "letters": "ب ا س",
+     "meaning": "to afflict, to harm",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "بَأْسَنَآ",
+       "en": "Our torment",
+       "ref": "21:12"
+      },
+      {
+       "ar": "بَأْسِكُمْ ۖ",
+       "en": "your battle",
+       "ref": "21:80"
+      },
+      {
+       "ar": "لَبِئْسَ",
+       "en": "Surely, an evil",
+       "ref": "22:13"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "خلد",
+     "letters": "خ ل د",
+     "meaning": "to remain, to last eternally",
+     "quranCount": 87,
+     "words": [
+      {
+       "ar": "خَـٰلِدِينَ",
+       "en": "immortals",
+       "ref": "21:8"
+      },
+      {
+       "ar": "ٱلْخُلْدَ ۖ",
+       "en": "[the] immortality",
+       "ref": "21:34"
+      },
+      {
+       "ar": "ٱلْخَـٰلِدُونَ",
+       "en": "live forever",
+       "ref": "21:34"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ليل",
+     "letters": "ل ي ل",
+     "meaning": "night",
+     "quranCount": 92,
+     "words": [
+      {
+       "ar": "ٱلَّيْلَ",
+       "en": "[the] night",
+       "ref": "21:20"
+      },
+      {
+       "ar": "بِٱلَّيْلِ",
+       "en": "in the night",
+       "ref": "21:42"
+      },
+      {
+       "ar": "ٱلَّيْلِ",
+       "en": "the night",
+       "ref": "22:61"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "سخر",
+     "letters": "س خ ر",
+     "meaning": "to mock, to ridicule",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "سَخِرُوا۟",
+       "en": "mocked",
+       "ref": "21:41"
+      },
+      {
+       "ar": "وَسَخَّرْنَا",
+       "en": "And We subjected",
+       "ref": "21:79"
+      },
+      {
+       "ar": "سَخَّرْنَـٰهَا",
+       "en": "We have subjected them",
+       "ref": "22:36"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "نفع",
+     "letters": "ن ف ع",
+     "meaning": "to benefit",
+     "quranCount": 50,
+     "words": [
+      {
+       "ar": "يَنفَعُكُمْ",
+       "en": "benefit you",
+       "ref": "21:66"
+      },
+      {
+       "ar": "يَنفَعُهُۥ ۚ",
+       "en": "benefits him",
+       "ref": "22:12"
+      },
+      {
+       "ar": "نَّفْعِهِۦ ۚ",
+       "en": "his benefit",
+       "ref": "22:13"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "صلو",
+     "letters": "ص ل و",
+     "meaning": "to pray",
+     "quranCount": 99,
+     "words": [
+      {
+       "ar": "ٱلصَّلَوٰةِ",
+       "en": "(of) the prayer",
+       "ref": "21:73"
+      },
+      {
+       "ar": "وَصَلَوَٰتٌۭ",
+       "en": "and synagogues",
+       "ref": "22:40"
+      },
+      {
+       "ar": "ٱلصَّلَوٰةَ",
+       "en": "the prayer",
+       "ref": "22:41"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "عرض",
+     "letters": "ع ر ض",
+     "meaning": "to present, to offer",
+     "quranCount": 79,
+     "words": [
+      {
+       "ar": "مُّعْرِضُونَ",
+       "en": "turning away",
+       "ref": "21:1"
+      },
+      {
+       "ar": "مُعْرِضُونَ",
+       "en": "turn away",
+       "ref": "21:32"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "هلك",
+     "letters": "ه ل ك",
+     "meaning": "to perish, to be destroyed",
+     "quranCount": 68,
+     "words": [
+      {
+       "ar": "أَهْلَكْنَـٰهَآ ۖ",
+       "en": "which We destroyed",
+       "ref": "21:6"
+      },
+      {
+       "ar": "وَأَهْلَكْنَا",
+       "en": "and We destroyed",
+       "ref": "21:9"
+      },
+      {
+       "ar": "أَهْلَكْنَـٰهَآ",
+       "en": "which We have destroyed",
+       "ref": "21:95"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "ذوق",
+     "letters": "ذ و ق",
+     "meaning": "to taste",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "ذَآئِقَةُ",
+       "en": "(will) taste",
+       "ref": "21:35"
+      },
+      {
+       "ar": "وَنُذِيقُهُۥ",
+       "en": "and We will make him taste",
+       "ref": "22:9"
+      },
+      {
+       "ar": "وَذُوقُوا۟",
+       "en": "Taste",
+       "ref": "22:22"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 70,
+   "pctQuran": 70
+  },
+  {
+   "night": 18,
+   "juz": 18,
+   "start": {
+    "surah": 23,
+    "ayah": 1,
+    "surahName": "Al-Mu'minun"
+   },
+   "end": {
+    "surah": 25,
+    "ayah": 20,
+    "surahName": "Al-Furqan"
+   },
+   "roots": [
+    {
+     "root": "بيت",
+     "letters": "ب ي ت",
+     "meaning": "to dwell, to lodge",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "بُيُوتًا",
+       "en": "houses",
+       "ref": "24:27"
+      },
+      {
+       "ar": "بُيُوتِكُمْ",
+       "en": "your houses",
+       "ref": "24:27"
+      },
+      {
+       "ar": "بُيُوتٍ",
+       "en": "houses",
+       "ref": "24:36"
+      }
+     ],
+     "inJuz": 14
+    },
+    {
+     "root": "رجل",
+     "letters": "ر ج ل",
+     "meaning": "to walk",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "رَجُلٌۢ",
+       "en": "a man",
+       "ref": "23:25"
+      },
+      {
+       "ar": "رَجُلٌ",
+       "en": "a man",
+       "ref": "23:38"
+      },
+      {
+       "ar": "وَأَرْجُلُهُم",
+       "en": "and their feet",
+       "ref": "24:24"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "زكو",
+     "letters": "ز ك و",
+     "meaning": "to grow, to increase",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "لِلزَّكَوٰةِ",
+       "en": "of purification works",
+       "ref": "23:4"
+      },
+      {
+       "ar": "زَكَىٰ",
+       "en": "(would) have been pure",
+       "ref": "24:21"
+      },
+      {
+       "ar": "يُزَكِّى",
+       "en": "purifies",
+       "ref": "24:21"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "برك",
+     "letters": "ب ر ك",
+     "meaning": "to kneel, to bless",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "فَتَبَارَكَ",
+       "en": "So blessed is",
+       "ref": "23:14"
+      },
+      {
+       "ar": "مُّبَارَكًۭا",
+       "en": "blessed",
+       "ref": "23:29"
+      },
+      {
+       "ar": "مُّبَـٰرَكَةٍۢ",
+       "en": "blessed ",
+       "ref": "24:35"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "طيب",
+     "letters": "ط ي ب",
+     "meaning": "to be good, to be pleasant",
+     "quranCount": 50,
+     "words": [
+      {
+       "ar": "ٱلطَّيِّبَـٰتِ",
+       "en": "the good things",
+       "ref": "23:51"
+      },
+      {
+       "ar": "وَٱلطَّيِّبَـٰتُ",
+       "en": "And good women",
+       "ref": "24:26"
+      },
+      {
+       "ar": "لِلطَّيِّبِينَ",
+       "en": "(are) for good men",
+       "ref": "24:26"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "زني",
+     "letters": "ز ن ي",
+     "meaning": "to commit adultery",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "ٱلزَّانِيَةُ",
+       "en": "The fornicatress",
+       "ref": "24:2"
+      },
+      {
+       "ar": "وَٱلزَّانِى",
+       "en": "and the fornicator",
+       "ref": "24:2"
+      },
+      {
+       "ar": "ٱلزَّانِى",
+       "en": "The fornicator",
+       "ref": "24:3"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "فلح",
+     "letters": "ف ل ح",
+     "meaning": "to succeed, to prosper",
+     "quranCount": 40,
+     "words": [
+      {
+       "ar": "أَفْلَحَ",
+       "en": "successful",
+       "ref": "23:1"
+      },
+      {
+       "ar": "ٱلْمُفْلِحُونَ",
+       "en": "(are) the successful",
+       "ref": "23:102"
+      },
+      {
+       "ar": "يُفْلِحُ",
+       "en": "will succeed",
+       "ref": "23:117"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "نشا",
+     "letters": "ن ش ا",
+     "meaning": "to grow, to arise, to originate",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "أَنشَأْنَـٰهُ",
+       "en": "We produce it",
+       "ref": "23:14"
+      },
+      {
+       "ar": "فَأَنشَأْنَا",
+       "en": "Then We produced",
+       "ref": "23:19"
+      },
+      {
+       "ar": "أَنشَأْنَا",
+       "en": "We produced",
+       "ref": "23:31"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "نكح",
+     "letters": "ن ك ح",
+     "meaning": "to marry, to consummate marriage",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "يَنكِحُ",
+       "en": "marry",
+       "ref": "24:3"
+      },
+      {
+       "ar": "يَنكِحُهَآ",
+       "en": "marry her",
+       "ref": "24:3"
+      },
+      {
+       "ar": "وَأَنكِحُوا۟",
+       "en": "And marry",
+       "ref": "24:32"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ربع",
+     "letters": "ر ب ع",
+     "meaning": "to quarter",
+     "quranCount": 22,
+     "words": [
+      {
+       "ar": "بِأَرْبَعَةِ",
+       "en": "four",
+       "ref": "24:4"
+      },
+      {
+       "ar": "أَرْبَعُ",
+       "en": "(is) four",
+       "ref": "24:6"
+      },
+      {
+       "ar": "أَرْبَعَ",
+       "en": "four",
+       "ref": "24:8"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 73,
+   "pctQuran": 71
+  },
+  {
+   "night": 19,
+   "juz": 19,
+   "start": {
+    "surah": 25,
+    "ayah": 21,
+    "surahName": "Al-Furqan"
+   },
+   "end": {
+    "surah": 27,
+    "ayah": 55,
+    "surahName": "An-Naml"
+   },
+   "roots": [
+    {
+     "root": "اجر",
+     "letters": "ا ج ر",
+     "meaning": "to reward, to hire",
+     "quranCount": 108,
+     "words": [
+      {
+       "ar": "أَجْرٍ",
+       "en": "payment",
+       "ref": "25:57"
+      },
+      {
+       "ar": "لَأَجْرًا",
+       "en": "a reward",
+       "ref": "26:41"
+      },
+      {
+       "ar": "أَجْرٍ ۖ",
+       "en": "payment",
+       "ref": "26:109"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "عزز",
+     "letters": "ع ز ز",
+     "meaning": "to strengthen, to make mighty",
+     "quranCount": 120,
+     "words": [
+      {
+       "ar": "ٱلْعَزِيزُ",
+       "en": "(is) the All-Mighty",
+       "ref": "26:9"
+      },
+      {
+       "ar": "بِعِزَّةِ",
+       "en": "By the might",
+       "ref": "26:44"
+      },
+      {
+       "ar": "ٱلْعَزِيزِ",
+       "en": "the All-Mighty",
+       "ref": "26:217"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "نذر",
+     "letters": "ن ذ ر",
+     "meaning": "to warn, to announce",
+     "quranCount": 130,
+     "words": [
+      {
+       "ar": "نَّذِيرًۭا",
+       "en": "a warner",
+       "ref": "25:51"
+      },
+      {
+       "ar": "وَنَذِيرًۭا",
+       "en": "and a warner",
+       "ref": "25:56"
+      },
+      {
+       "ar": "نَذِيرٌۭ",
+       "en": "a warner",
+       "ref": "26:115"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "قرر",
+     "letters": "ق ر ر",
+     "meaning": "to settle, to establish",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "مُّسْتَقَرًّۭا",
+       "en": "abode",
+       "ref": "25:24"
+      },
+      {
+       "ar": "مُسْتَقَرًّۭا",
+       "en": "abode",
+       "ref": "25:66"
+      },
+      {
+       "ar": "قُرَّةَ",
+       "en": "comfort",
+       "ref": "25:74"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "عرش",
+     "letters": "ع ر ش",
+     "meaning": "to establish, to set up",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "ٱلْعَرْشِ ۚ",
+       "en": "the Throne ",
+       "ref": "25:59"
+      },
+      {
+       "ar": "عَرْشٌ",
+       "en": "(is) a throne",
+       "ref": "27:23"
+      },
+      {
+       "ar": "ٱلْعَرْشِ",
+       "en": "(of) the Throne",
+       "ref": "27:26"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "مطر",
+     "letters": "م ط ر",
+     "meaning": "to rain",
+     "quranCount": 15,
+     "words": [
+      {
+       "ar": "أُمْطِرَتْ",
+       "en": "was showered",
+       "ref": "25:40"
+      },
+      {
+       "ar": "مَطَرَ",
+       "en": "(with) a rain",
+       "ref": "25:40"
+      },
+      {
+       "ar": "وَأَمْطَرْنَا",
+       "en": "And We rained",
+       "ref": "26:173"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "شكر",
+     "letters": "ش ك ر",
+     "meaning": "to thank, to be grateful",
+     "quranCount": 75,
+     "words": [
+      {
+       "ar": "شُكُورًۭا",
+       "en": "to be thankful",
+       "ref": "25:62"
+      },
+      {
+       "ar": "أَشْكُرَ",
+       "en": "I may thank You",
+       "ref": "27:19"
+      },
+      {
+       "ar": "ءَأَشْكُرُ",
+       "en": "whether I am grateful",
+       "ref": "27:40"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "كرم",
+     "letters": "ك ر م",
+     "meaning": "to be generous, to honor",
+     "quranCount": 47,
+     "words": [
+      {
+       "ar": "كِرَامًۭا",
+       "en": "(as) dignified ones",
+       "ref": "25:72"
+      },
+      {
+       "ar": "كَرِيمٍ",
+       "en": "noble",
+       "ref": "26:7"
+      },
+      {
+       "ar": "كَرِيمٍۢ",
+       "en": "honorable",
+       "ref": "26:58"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "عصو",
+     "letters": "ع ص و",
+     "meaning": "staff, stick",
+     "quranCount": 12,
+     "words": [
+      {
+       "ar": "عَصَاهُ",
+       "en": "his staff",
+       "ref": "26:32"
+      },
+      {
+       "ar": "وَعِصِيَّهُمْ",
+       "en": "and their staffs",
+       "ref": "26:44"
+      },
+      {
+       "ar": "بِّعَصَاكَ",
+       "en": "with your staff",
+       "ref": "26:63"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "شعر",
+     "letters": "ش ع ر",
+     "meaning": "to feel, to perceive",
+     "quranCount": 40,
+     "words": [
+      {
+       "ar": "تَشْعُرُونَ",
+       "en": "you perceive",
+       "ref": "26:113"
+      },
+      {
+       "ar": "يَشْعُرُونَ",
+       "en": "perceive",
+       "ref": "26:202"
+      },
+      {
+       "ar": "وَٱلشُّعَرَآءُ",
+       "en": "And the poets ",
+       "ref": "26:224"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 77,
+   "pctQuran": 72
+  },
+  {
+   "night": 20,
+   "juz": 20,
+   "start": {
+    "surah": 27,
+    "ayah": 56,
+    "surahName": "An-Naml"
+   },
+   "end": {
+    "surah": 29,
+    "ayah": 45,
+    "surahName": "Al-'Ankabut"
+   },
+   "roots": [
+    {
+     "root": "جوب",
+     "letters": "ج و ب",
+     "meaning": "to traverse, to cross",
+     "quranCount": 43,
+     "words": [
+      {
+       "ar": "جَوَابَ",
+       "en": "(the) answer",
+       "ref": "27:56"
+      },
+      {
+       "ar": "يُجِيبُ",
+       "en": "responds",
+       "ref": "27:62"
+      },
+      {
+       "ar": "يَسْتَجِيبُوا۟",
+       "en": "they respond",
+       "ref": "28:50"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "مدن",
+     "letters": "م د ن",
+     "meaning": "to cultivate, to civilize",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "ٱلْمَدِينَةَ",
+       "en": "the city",
+       "ref": "28:15"
+      },
+      {
+       "ar": "ٱلْمَدِينَةِ",
+       "en": "the city",
+       "ref": "28:18"
+      },
+      {
+       "ar": "مَدْيَنَ",
+       "en": "Madyan",
+       "ref": "28:22"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "سكن",
+     "letters": "س ك ن",
+     "meaning": "to dwell, to settle, to reside",
+     "quranCount": 69,
+     "words": [
+      {
+       "ar": "لِيَسْكُنُوا۟",
+       "en": "that they may rest",
+       "ref": "27:86"
+      },
+      {
+       "ar": "مَسَـٰكِنُهُمْ",
+       "en": "(are) their dwellings",
+       "ref": "28:58"
+      },
+      {
+       "ar": "تُسْكَن",
+       "en": "have been inhabited",
+       "ref": "28:58"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "تلو",
+     "letters": "ت ل و",
+     "meaning": "to follow, to succeed",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "أَتْلُوَا۟",
+       "en": "I recite",
+       "ref": "27:92"
+      },
+      {
+       "ar": "نَتْلُوا۟",
+       "en": "We recite",
+       "ref": "28:3"
+      },
+      {
+       "ar": "تَتْلُوا۟",
+       "en": "reciting",
+       "ref": "28:45"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "فسد",
+     "letters": "ف س د",
+     "meaning": "to become corrupt, to spoil",
+     "quranCount": 50,
+     "words": [
+      {
+       "ar": "ٱلْمُفْسِدِينَ",
+       "en": "the corrupters",
+       "ref": "28:4"
+      },
+      {
+       "ar": "ٱلْفَسَادَ",
+       "en": "corruption",
+       "ref": "28:77"
+      },
+      {
+       "ar": "فَسَادًۭا ۚ",
+       "en": "corruption",
+       "ref": "28:83"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "عدو",
+     "letters": "ع د و",
+     "meaning": "to be hostile, to oppose",
+     "quranCount": 106,
+     "words": [
+      {
+       "ar": "عَدُوًّۭا",
+       "en": "an enemy",
+       "ref": "28:8"
+      },
+      {
+       "ar": "عَدُوِّهِۦ ۖ",
+       "en": "his enemy",
+       "ref": "28:15"
+      },
+      {
+       "ar": "عَدُوِّهِۦ",
+       "en": "his enemy",
+       "ref": "28:15"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ندي",
+     "letters": "ن د ي",
+     "meaning": "to call out, to summon",
+     "quranCount": 53,
+     "words": [
+      {
+       "ar": "نُودِىَ",
+       "en": "he was called",
+       "ref": "28:30"
+      },
+      {
+       "ar": "نَادَيْنَا",
+       "en": "We called",
+       "ref": "28:46"
+      },
+      {
+       "ar": "يُنَادِيهِمْ",
+       "en": "He will call them",
+       "ref": "28:62"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "مرا",
+     "letters": "م ر ا",
+     "meaning": "person; woman, wife",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "ٱمْرَأَتَهُۥ",
+       "en": "his wife",
+       "ref": "27:57"
+      },
+      {
+       "ar": "ٱمْرَأَتُ",
+       "en": "(the) wife",
+       "ref": "28:9"
+      },
+      {
+       "ar": "ٱمْرَأَتَيْنِ",
+       "en": "two women",
+       "ref": "28:23"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "حزن",
+     "letters": "ح ز ن",
+     "meaning": "to grieve, to be sad",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "تَحْزَنْ",
+       "en": "grieve",
+       "ref": "27:70"
+      },
+      {
+       "ar": "تَحْزَنِىٓ ۖ",
+       "en": "grieve",
+       "ref": "28:7"
+      },
+      {
+       "ar": "وَحَزَنًا ۗ",
+       "en": "and a grief",
+       "ref": "28:8"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "جزي",
+     "letters": "ج ز ي",
+     "meaning": "to reward",
+     "quranCount": 118,
+     "words": [
+      {
+       "ar": "تُجْزَوْنَ",
+       "en": "you recompensed",
+       "ref": "27:90"
+      },
+      {
+       "ar": "نَجْزِى",
+       "en": "We reward",
+       "ref": "28:14"
+      },
+      {
+       "ar": "لِيَجْزِيَكَ",
+       "en": "that he may reward you",
+       "ref": "28:25"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 79,
+   "pctQuran": 74
+  },
+  {
+   "night": 21,
+   "juz": 21,
+   "start": {
+    "surah": 29,
+    "ayah": 46,
+    "surahName": "Al-'Ankabut"
+   },
+   "end": {
+    "surah": 33,
+    "ayah": 30,
+    "surahName": "Al-Ahzab"
+   },
+   "roots": [
+    {
+     "root": "حمد",
+     "letters": "ح م د",
+     "meaning": "to praise, to commend",
+     "quranCount": 68,
+     "words": [
+      {
+       "ar": "ٱلْحَمْدُ",
+       "en": "All Praises",
+       "ref": "29:63"
+      },
+      {
+       "ar": "حَمِيدٌۭ",
+       "en": "Praiseworthy",
+       "ref": "31:12"
+      },
+      {
+       "ar": "ٱلْحَمِيدُ",
+       "en": "the Praiseworthy",
+       "ref": "31:26"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ظهر",
+     "letters": "ظ ه ر",
+     "meaning": "to appear, to become manifest",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "ظَـٰهِرًۭا",
+       "en": "(the) apparent",
+       "ref": "30:7"
+      },
+      {
+       "ar": "تُظْهِرُونَ",
+       "en": "you are at noon",
+       "ref": "30:18"
+      },
+      {
+       "ar": "ظَهَرَ",
+       "en": "Has appeared",
+       "ref": "30:41"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "فرق",
+     "letters": "ف ر ق",
+     "meaning": "to separate, to divide",
+     "quranCount": 72,
+     "words": [
+      {
+       "ar": "يَتَفَرَّقُونَ",
+       "en": "they will become separated",
+       "ref": "30:14"
+      },
+      {
+       "ar": "فَرَّقُوا۟",
+       "en": "divide",
+       "ref": "30:32"
+      },
+      {
+       "ar": "فَرِيقٌۭ",
+       "en": "A party",
+       "ref": "30:33"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ضعف",
+     "letters": "ض ع ف",
+     "meaning": "to be weak, to weaken",
+     "quranCount": 52,
+     "words": [
+      {
+       "ar": "ٱلْمُضْعِفُونَ",
+       "en": "(will) get manifold",
+       "ref": "30:39"
+      },
+      {
+       "ar": "ضَعْفٍۢ",
+       "en": "weakness",
+       "ref": "30:54"
+      },
+      {
+       "ar": "ضَعْفًۭا",
+       "en": "weakness",
+       "ref": "30:54"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "بطل",
+     "letters": "ب ط ل",
+     "meaning": "to become void, to be nullified",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "ٱلْمُبْطِلُونَ",
+       "en": "the falsifiers",
+       "ref": "29:48"
+      },
+      {
+       "ar": "بِٱلْبَـٰطِلِ",
+       "en": "in [the] falsehood",
+       "ref": "29:52"
+      },
+      {
+       "ar": "أَفَبِٱلْبَـٰطِلِ",
+       "en": "Then do in (the) falsehood",
+       "ref": "29:67"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "موه",
+     "letters": "م و ه",
+     "meaning": "water",
+     "quranCount": 63,
+     "words": [
+      {
+       "ar": "مَآءًۭ",
+       "en": "water",
+       "ref": "29:63"
+      },
+      {
+       "ar": "مَّآءٍۢ",
+       "en": "water",
+       "ref": "32:8"
+      },
+      {
+       "ar": "ٱلْمَآءَ",
+       "en": "water",
+       "ref": "32:27"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "سوع",
+     "letters": "س و ع",
+     "meaning": "the Hour; a time",
+     "quranCount": 49,
+     "words": [
+      {
+       "ar": "ٱلسَّاعَةُ",
+       "en": "the Hour",
+       "ref": "30:12"
+      },
+      {
+       "ar": "سَاعَةٍۢ ۚ",
+       "en": "an hour",
+       "ref": "30:55"
+      },
+      {
+       "ar": "ٱلسَّاعَةِ",
+       "en": "(of) the Hour",
+       "ref": "31:34"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "زوج",
+     "letters": "ز و ج",
+     "meaning": "to pair, to match",
+     "quranCount": 81,
+     "words": [
+      {
+       "ar": "أَزْوَٰجًۭا",
+       "en": "mates",
+       "ref": "30:21"
+      },
+      {
+       "ar": "زَوْجٍۢ",
+       "en": "kind",
+       "ref": "31:10"
+      },
+      {
+       "ar": "أَزْوَٰجَكُمُ",
+       "en": "your wives",
+       "ref": "33:4"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "وجه",
+     "letters": "و ج ه",
+     "meaning": "to face, to direct",
+     "quranCount": 78,
+     "words": [
+      {
+       "ar": "وَجْهَكَ",
+       "en": "your face",
+       "ref": "30:30"
+      },
+      {
+       "ar": "وَجْهَ",
+       "en": "(the) Countenance",
+       "ref": "30:38"
+      },
+      {
+       "ar": "وَجْهَهُۥٓ",
+       "en": "his face",
+       "ref": "31:22"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "روح",
+     "letters": "ر و ح",
+     "meaning": "to go, to depart, to travel",
+     "quranCount": 57,
+     "words": [
+      {
+       "ar": "ٱلرِّيَاحَ",
+       "en": "the winds",
+       "ref": "30:46"
+      },
+      {
+       "ar": "ٱلرِّيَـٰحَ",
+       "en": "the winds",
+       "ref": "30:48"
+      },
+      {
+       "ar": "رِيحًۭا",
+       "en": "a wind",
+       "ref": "30:51"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 79,
+   "pctQuran": 75
+  },
+  {
+   "night": 22,
+   "juz": 22,
+   "start": {
+    "surah": 33,
+    "ayah": 31,
+    "surahName": "Al-Ahzab"
+   },
+   "end": {
+    "surah": 36,
+    "ayah": 27,
+    "surahName": "Ya-Sin"
+   },
+   "roots": [
+    {
+     "root": "خشي",
+     "letters": "خ ش ي",
+     "meaning": "to fear, to dread",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "وَتَخْشَى",
+       "en": "And you fear",
+       "ref": "33:37"
+      },
+      {
+       "ar": "تَخْشَىٰهُ ۖ",
+       "en": "you (should) fear Him",
+       "ref": "33:37"
+      },
+      {
+       "ar": "وَيَخْشَوْنَهُۥ",
+       "en": "and fear Him",
+       "ref": "33:39"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "اذي",
+     "letters": "ا ذ ي",
+     "meaning": "to harm",
+     "quranCount": 24,
+     "words": [
+      {
+       "ar": "أَذَىٰهُمْ",
+       "en": "their harm",
+       "ref": "33:48"
+      },
+      {
+       "ar": "يُؤْذِى",
+       "en": "troubling",
+       "ref": "33:53"
+      },
+      {
+       "ar": "تُؤْذُوا۟",
+       "en": "you trouble",
+       "ref": "33:53"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "غيب",
+     "letters": "غ ي ب",
+     "meaning": "to hide, to conceal",
+     "quranCount": 60,
+     "words": [
+      {
+       "ar": "ٱلْغَيْبِ ۖ",
+       "en": "(of) the unseen",
+       "ref": "34:3"
+      },
+      {
+       "ar": "ٱلْغَيْبَ",
+       "en": "the unseen",
+       "ref": "34:14"
+      },
+      {
+       "ar": "ٱلْغُيُوبِ",
+       "en": "(of) the unseen",
+       "ref": "34:48"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "عدد",
+     "letters": "ع د د",
+     "meaning": "to count",
+     "quranCount": 57,
+     "words": [
+      {
+       "ar": "أَعَدَّ",
+       "en": "Allah has prepared",
+       "ref": "33:35"
+      },
+      {
+       "ar": "وَأَعَدَّ",
+       "en": "and He has prepared",
+       "ref": "33:44"
+      },
+      {
+       "ar": "عِدَّةٍۢ",
+       "en": "waiting period",
+       "ref": "33:49"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "سنن",
+     "letters": "س ن ن",
+     "meaning": "to establish a practice, legislate",
+     "quranCount": 21,
+     "words": [
+      {
+       "ar": "سُنَّةَ",
+       "en": "(That is the) Way",
+       "ref": "33:38"
+      },
+      {
+       "ar": "لِسُنَّةِ",
+       "en": "in (the) Way",
+       "ref": "33:62"
+      },
+      {
+       "ar": "سُنَّتَ",
+       "en": "(the) way",
+       "ref": "35:43"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "نسو",
+     "letters": "ن س و",
+     "meaning": "women, wives",
+     "quranCount": 59,
+     "words": [
+      {
+       "ar": "يَـٰنِسَآءَ",
+       "en": "O wives",
+       "ref": "33:32"
+      },
+      {
+       "ar": "ٱلنِّسَآءِ ۚ",
+       "en": "the women",
+       "ref": "33:32"
+      },
+      {
+       "ar": "ٱلنِّسَآءُ",
+       "en": "(to marry) women",
+       "ref": "33:52"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "مسك",
+     "letters": "م س ك",
+     "meaning": "to hold, to grasp, to seize",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "أَمْسِكْ",
+       "en": "Keep",
+       "ref": "33:37"
+      },
+      {
+       "ar": "مُمْسِكَ",
+       "en": "(can) withhold",
+       "ref": "35:2"
+      },
+      {
+       "ar": "يُمْسِكْ",
+       "en": "He withholds",
+       "ref": "35:2"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "لعن",
+     "letters": "ل ع ن",
+     "meaning": "to curse, to revile",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "لَعَنَهُمُ",
+       "en": "Allah has cursed them",
+       "ref": "33:57"
+      },
+      {
+       "ar": "مَّلْعُونِينَ ۖ",
+       "en": "Accursed",
+       "ref": "33:61"
+      },
+      {
+       "ar": "لَعَنَ",
+       "en": "has cursed",
+       "ref": "33:64"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "خبر",
+     "letters": "خ ب ر",
+     "meaning": "to know, to inform",
+     "quranCount": 52,
+     "words": [
+      {
+       "ar": "خَبِيرًا",
+       "en": "All-Aware",
+       "ref": "33:34"
+      },
+      {
+       "ar": "ٱلْخَبِيرُ",
+       "en": "the All-Aware",
+       "ref": "34:1"
+      },
+      {
+       "ar": "خَبِيرٍۢ",
+       "en": "(the) All-Aware",
+       "ref": "35:14"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "مسس",
+     "letters": "م س س",
+     "meaning": "to touch",
+     "quranCount": 61,
+     "words": [
+      {
+       "ar": "تَمَسُّوهُنَّ",
+       "en": "you have touched them",
+       "ref": "33:49"
+      },
+      {
+       "ar": "يَمَسُّنَا",
+       "en": "touches us",
+       "ref": "35:35"
+      },
+      {
+       "ar": "وَلَيَمَسَّنَّكُم",
+       "en": "and surely will touch you",
+       "ref": "36:18"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 79,
+   "pctQuran": 76
+  },
+  {
+   "night": 23,
+   "juz": 23,
+   "start": {
+    "surah": 36,
+    "ayah": 28,
+    "surahName": "Ya-Sin"
+   },
+   "end": {
+    "surah": 39,
+    "ayah": 31,
+    "surahName": "Az-Zumar"
+   },
+   "roots": [
+    {
+     "root": "خلص",
+     "letters": "خ ل ص",
+     "meaning": "to be free, to be pure",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "ٱلْمُخْلَصِينَ",
+       "en": "the chosen ones",
+       "ref": "37:40"
+      },
+      {
+       "ar": "أَخْلَصْنَـٰهُم",
+       "en": "[We] chose them",
+       "ref": "38:46"
+      },
+      {
+       "ar": "بِخَالِصَةٍۢ",
+       "en": "for an exclusive (quality)",
+       "ref": "38:46"
+      }
+     ],
+     "inJuz": 12
+    },
+    {
+     "root": "وحد",
+     "letters": "و ح د",
+     "meaning": "one, alone",
+     "quranCount": 68,
+     "words": [
+      {
+       "ar": "وَٰحِدَةًۭ",
+       "en": "one",
+       "ref": "36:29"
+      },
+      {
+       "ar": "لَوَٰحِدٌۭ",
+       "en": "(is) surely One",
+       "ref": "37:4"
+      },
+      {
+       "ar": "وَٰحِدَةٌۭ",
+       "en": "single",
+       "ref": "37:19"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "اوب",
+     "letters": "ا و ب",
+     "meaning": "to return, to turn back",
+     "quranCount": 17,
+     "words": [
+      {
+       "ar": "أَوَّابٌ",
+       "en": "repeatedly turning",
+       "ref": "38:17"
+      },
+      {
+       "ar": "أَوَّابٌۭ",
+       "en": "repeatedly turning",
+       "ref": "38:19"
+      },
+      {
+       "ar": "مَـَٔابٍۢ",
+       "en": "place of return",
+       "ref": "38:25"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "خصم",
+     "letters": "خ ص م",
+     "meaning": "to dispute, to contend",
+     "quranCount": 18,
+     "words": [
+      {
+       "ar": "يَخِصِّمُونَ",
+       "en": "are disputing",
+       "ref": "36:49"
+      },
+      {
+       "ar": "خَصِيمٌۭ",
+       "en": "(is) an opponent",
+       "ref": "36:77"
+      },
+      {
+       "ar": "ٱلْخَصْمِ",
+       "en": "(of) the litigants",
+       "ref": "38:21"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "حضر",
+     "letters": "ح ض ر",
+     "meaning": "to be present, to attend",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "مُحْضَرُونَ",
+       "en": "(will be) brought",
+       "ref": "36:32"
+      },
+      {
+       "ar": "مُّحْضَرُونَ",
+       "en": "(who will) be brought",
+       "ref": "36:75"
+      },
+      {
+       "ar": "ٱلْمُحْضَرِينَ",
+       "en": "those brought",
+       "ref": "37:57"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "حين",
+     "letters": "ح ي ن",
+     "meaning": "time, while, period",
+     "quranCount": 35,
+     "words": [
+      {
+       "ar": "حِينٍۢ",
+       "en": "a time",
+       "ref": "36:44"
+      },
+      {
+       "ar": "حِينَ",
+       "en": "time",
+       "ref": "38:3"
+      },
+      {
+       "ar": "حِينٍۭ",
+       "en": "a time",
+       "ref": "38:88"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "جحم",
+     "letters": "ج ح م",
+     "meaning": "blazing fire, Hellfire",
+     "quranCount": 26,
+     "words": [
+      {
+       "ar": "ٱلْجَحِيمِ",
+       "en": "(of) the Hellfire",
+       "ref": "37:23"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "وهب",
+     "letters": "و ه ب",
+     "meaning": "to grant, to bestow, to give",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "هَبْ",
+       "en": "grant",
+       "ref": "37:100"
+      },
+      {
+       "ar": "ٱلْوَهَّابِ",
+       "en": "the Bestower",
+       "ref": "38:9"
+      },
+      {
+       "ar": "وَوَهَبْنَا",
+       "en": "And We gave",
+       "ref": "38:30"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "صرط",
+     "letters": "ص ر ط",
+     "meaning": "path, way",
+     "quranCount": 45,
+     "words": [
+      {
+       "ar": "صِرَٰطٌۭ",
+       "en": "(is) a Path",
+       "ref": "36:61"
+      },
+      {
+       "ar": "ٱلصِّرَٰطَ",
+       "en": "(to find) the path",
+       "ref": "36:66"
+      },
+      {
+       "ar": "صِرَٰطِ",
+       "en": "(the) Path",
+       "ref": "37:23"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ضرب",
+     "letters": "ض ر ب",
+     "meaning": "to strike, to hit",
+     "quranCount": 58,
+     "words": [
+      {
+       "ar": "وَضَرَبَ",
+       "en": "And he sets forth",
+       "ref": "36:78"
+      },
+      {
+       "ar": "ضَرْبًۢا",
+       "en": "striking",
+       "ref": "37:93"
+      },
+      {
+       "ar": "فَٱضْرِب",
+       "en": "and strike",
+       "ref": "38:44"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 75,
+   "pctQuran": 76
+  },
+  {
+   "night": 24,
+   "juz": 24,
+   "start": {
+    "surah": 39,
+    "ayah": 32,
+    "surahName": "Az-Zumar"
+   },
+   "end": {
+    "surah": 41,
+    "ayah": 46,
+    "surahName": "Fussilat"
+   },
+   "roots": [
+    {
+     "root": "شدد",
+     "letters": "ش د د",
+     "meaning": "to strengthen, to tighten",
+     "quranCount": 102,
+     "words": [
+      {
+       "ar": "شَدِيدِ",
+       "en": "severe",
+       "ref": "40:3"
+      },
+      {
+       "ar": "أَشَدَّ",
+       "en": "superior",
+       "ref": "40:21"
+      },
+      {
+       "ar": "شَدِيدُ",
+       "en": "severe",
+       "ref": "40:22"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "كسب",
+     "letters": "ك س ب",
+     "meaning": "to earn, to gain",
+     "quranCount": 67,
+     "words": [
+      {
+       "ar": "كَسَبُوا۟",
+       "en": "they earned",
+       "ref": "39:48"
+      },
+      {
+       "ar": "يَكْسِبُونَ",
+       "en": "earn",
+       "ref": "39:50"
+      },
+      {
+       "ar": "كَسَبُوا۟ ۚ",
+       "en": "they earned",
+       "ref": "39:51"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "خسر",
+     "letters": "خ س ر",
+     "meaning": "to lose, to be at loss",
+     "quranCount": 65,
+     "words": [
+      {
+       "ar": "ٱلْخَـٰسِرُونَ",
+       "en": "(are) the losers",
+       "ref": "39:63"
+      },
+      {
+       "ar": "ٱلْخَـٰسِرِينَ",
+       "en": "the losers",
+       "ref": "39:65"
+      },
+      {
+       "ar": "وَخَسِرَ",
+       "en": "and will lose",
+       "ref": "40:78"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ثوي",
+     "letters": "ث و ي",
+     "meaning": "to dwell; abode, lodging",
+     "quranCount": 14,
+     "words": [
+      {
+       "ar": "مَثْوًۭى",
+       "en": "an abode",
+       "ref": "39:32"
+      },
+      {
+       "ar": "مَثْوَى",
+       "en": "(the) abode",
+       "ref": "39:72"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ذنب",
+     "letters": "ذ ن ب",
+     "meaning": "to commit a sin",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "ٱلذُّنُوبَ",
+       "en": "the sins",
+       "ref": "39:53"
+      },
+      {
+       "ar": "ٱلذَّنۢبِ",
+       "en": "(of) the sin",
+       "ref": "40:3"
+      },
+      {
+       "ar": "بِذُنُوبِنَا",
+       "en": "our sins",
+       "ref": "40:11"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "جدل",
+     "letters": "ج د ل",
+     "meaning": "to dispute, to argue",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "يُجَـٰدِلُ",
+       "en": "dispute",
+       "ref": "40:4"
+      },
+      {
+       "ar": "وَجَـٰدَلُوا۟",
+       "en": "and they disputed",
+       "ref": "40:5"
+      },
+      {
+       "ar": "يُجَـٰدِلُونَ",
+       "en": "dispute",
+       "ref": "40:35"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "قوي",
+     "letters": "ق و ي",
+     "meaning": "strength, power",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "قُوَّةًۭ",
+       "en": "(in) strength",
+       "ref": "40:21"
+      },
+      {
+       "ar": "قَوِىٌّۭ",
+       "en": "(is) All-Strong",
+       "ref": "40:22"
+      },
+      {
+       "ar": "قُوَّةً ۖ",
+       "en": "(in) strength",
+       "ref": "41:15"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "وفي",
+     "letters": "و ف ي",
+     "meaning": "to fulfill, to complete",
+     "quranCount": 66,
+     "words": [
+      {
+       "ar": "يَتَوَفَّى",
+       "en": "takes",
+       "ref": "39:42"
+      },
+      {
+       "ar": "وَوُفِّيَتْ",
+       "en": "And (will) be paid in full",
+       "ref": "39:70"
+      },
+      {
+       "ar": "يُتَوَفَّىٰ",
+       "en": "dies",
+       "ref": "40:67"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "سرف",
+     "letters": "س ر ف",
+     "meaning": "to be extravagant, to exceed bounds",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "أَسْرَفُوا۟",
+       "en": "have transgressed",
+       "ref": "39:53"
+      },
+      {
+       "ar": "مُسْرِفٌۭ",
+       "en": "(is) a transgressor",
+       "ref": "40:28"
+      },
+      {
+       "ar": "ٱلْمُسْرِفِينَ",
+       "en": "the transgressors ",
+       "ref": "40:43"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "صعق",
+     "letters": "ص ع ق",
+     "meaning": "to be struck, to be shocked",
+     "quranCount": 11,
+     "words": [
+      {
+       "ar": "فَصَعِقَ",
+       "en": "then (will) fall dead",
+       "ref": "39:68"
+      },
+      {
+       "ar": "صَـٰعِقَةًۭ",
+       "en": "(of) a thunderbolt",
+       "ref": "41:13"
+      },
+      {
+       "ar": "صَـٰعِقَةِ",
+       "en": "(the) thunderbolt",
+       "ref": "41:13"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 84,
+   "pctQuran": 77
+  },
+  {
+   "night": 25,
+   "juz": 25,
+   "start": {
+    "surah": 41,
+    "ayah": 47,
+    "surahName": "Fussilat"
+   },
+   "end": {
+    "surah": 45,
+    "ayah": 37,
+    "surahName": "Al-Jathiyah"
+   },
+   "roots": [
+    {
+     "root": "الم",
+     "letters": "ا ل م",
+     "meaning": "to feel pain, to hurt",
+     "quranCount": 75,
+     "words": [
+      {
+       "ar": "أَلِيمٌۭ",
+       "en": "painful",
+       "ref": "42:21"
+      },
+      {
+       "ar": "أَلِيمٍ",
+       "en": "painful",
+       "ref": "43:65"
+      },
+      {
+       "ar": "أَلِيمٍۢ",
+       "en": "painful",
+       "ref": "45:8"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "كلم",
+     "letters": "ك ل م",
+     "meaning": "to speak, to address",
+     "quranCount": 75,
+     "words": [
+      {
+       "ar": "كَلِمَةٌۭ",
+       "en": "(for) a word",
+       "ref": "42:14"
+      },
+      {
+       "ar": "كَلِمَةُ",
+       "en": "(for) a word",
+       "ref": "42:21"
+      },
+      {
+       "ar": "بِكَلِمَـٰتِهِۦٓ ۚ",
+       "en": "by His Words",
+       "ref": "42:24"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "انث",
+     "letters": "ا ن ث",
+     "meaning": "female",
+     "quranCount": 30,
+     "words": [
+      {
+       "ar": "أُنثَىٰ",
+       "en": "female",
+       "ref": "41:47"
+      },
+      {
+       "ar": "إِنَـٰثًۭا",
+       "en": "females",
+       "ref": "42:49"
+      },
+      {
+       "ar": "وَإِنَـٰثًۭا ۖ",
+       "en": "and females",
+       "ref": "42:50"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "مري",
+     "letters": "م ر ي",
+     "meaning": "to contend, to dispute",
+     "quranCount": 20,
+     "words": [
+      {
+       "ar": "مِرْيَةٍۢ",
+       "en": "doubt",
+       "ref": "41:54"
+      },
+      {
+       "ar": "يُمَارُونَ",
+       "en": "dispute",
+       "ref": "42:18"
+      },
+      {
+       "ar": "تَمْتَرُنَّ",
+       "en": "(be) doubtful",
+       "ref": "43:61"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "ريب",
+     "letters": "ر ي ب",
+     "meaning": "to doubt, to cast doubt",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "رَيْبَ",
+       "en": "doubt",
+       "ref": "42:7"
+      },
+      {
+       "ar": "مُرِيبٍۢ",
+       "en": "disquieting",
+       "ref": "42:14"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "حجج",
+     "letters": "ح ج ج",
+     "meaning": "to argue",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "حُجَّةَ",
+       "en": "argument",
+       "ref": "42:15"
+      },
+      {
+       "ar": "يُحَآجُّونَ",
+       "en": "argue",
+       "ref": "42:16"
+      },
+      {
+       "ar": "حُجَّتُهُمْ",
+       "en": "their argument",
+       "ref": "42:16"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "عفو",
+     "letters": "ع ف و",
+     "meaning": "to pardon, to forgive",
+     "quranCount": 35,
+     "words": [
+      {
+       "ar": "وَيَعْفُوا۟",
+       "en": "and pardons",
+       "ref": "42:25"
+      },
+      {
+       "ar": "وَيَعْفُ",
+       "en": "but He pardons",
+       "ref": "42:34"
+      },
+      {
+       "ar": "عَفَا",
+       "en": "pardons",
+       "ref": "42:40"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "صوب",
+     "letters": "ص و ب",
+     "meaning": "to aim, to direct",
+     "quranCount": 77,
+     "words": [
+      {
+       "ar": "أَصَـٰبَكُم",
+       "en": "befalls you",
+       "ref": "42:30"
+      },
+      {
+       "ar": "مُّصِيبَةٍۢ",
+       "en": "(the) misfortune",
+       "ref": "42:30"
+      },
+      {
+       "ar": "أَصَابَهُمُ",
+       "en": "strikes them",
+       "ref": "42:39"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "هزا",
+     "letters": "ه ز ا",
+     "meaning": "to mock, to ridicule, to scoff at",
+     "quranCount": 34,
+     "words": [
+      {
+       "ar": "يَسْتَهْزِءُونَ",
+       "en": "mock at him",
+       "ref": "43:7"
+      },
+      {
+       "ar": "هُزُوًا ۚ",
+       "en": "(in) ridicule",
+       "ref": "45:9"
+      },
+      {
+       "ar": "هُزُوًۭا",
+       "en": "(in) ridicule",
+       "ref": "45:35"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "نقم",
+     "letters": "ن ق م",
+     "meaning": "to punish, to take vengeance",
+     "quranCount": 17,
+     "words": [
+      {
+       "ar": "فَٱنتَقَمْنَا",
+       "en": "So We took retribution",
+       "ref": "43:25"
+      },
+      {
+       "ar": "مُّنتَقِمُونَ",
+       "en": "(will) take retribution",
+       "ref": "43:41"
+      },
+      {
+       "ar": "ٱنتَقَمْنَا",
+       "en": "We took retribution",
+       "ref": "43:55"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 83,
+   "pctQuran": 78
+  },
+  {
+   "night": 26,
+   "juz": 26,
+   "start": {
+    "surah": 46,
+    "ayah": 1,
+    "surahName": "Al-Ahqaf"
+   },
+   "end": {
+    "surah": 51,
+    "ayah": 30,
+    "surahName": "Adh-Dhariyat"
+   },
+   "roots": [
+    {
+     "root": "كره",
+     "letters": "ك ر ه",
+     "meaning": "to hate, to dislike",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "كُرْهًۭا",
+       "en": "(with) hardship",
+       "ref": "46:15"
+      },
+      {
+       "ar": "كُرْهًۭا ۖ",
+       "en": "(with) hardship",
+       "ref": "46:15"
+      },
+      {
+       "ar": "كَرِهُوا۟",
+       "en": "hate",
+       "ref": "47:9"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "افك",
+     "letters": "ا ف ك",
+     "meaning": "to turn away, to distort",
+     "quranCount": 30,
+     "words": [
+      {
+       "ar": "إِفْكٌۭ",
+       "en": "(is) a lie",
+       "ref": "46:11"
+      },
+      {
+       "ar": "لِتَأْفِكَنَا",
+       "en": "to turn us away",
+       "ref": "46:22"
+      },
+      {
+       "ar": "إِفْكُهُمْ",
+       "en": "(was) their falsehood",
+       "ref": "46:28"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "قدم",
+     "letters": "ق د م",
+     "meaning": "to precede, to go forward",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "قَدِيمٌۭ",
+       "en": "ancient",
+       "ref": "46:11"
+      },
+      {
+       "ar": "أَقْدَامَكُمْ",
+       "en": "your feet",
+       "ref": "47:7"
+      },
+      {
+       "ar": "تَقَدَّمَ",
+       "en": "preceded",
+       "ref": "48:2"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "فسق",
+     "letters": "ف س ق",
+     "meaning": "to transgress, to depart",
+     "quranCount": 54,
+     "words": [
+      {
+       "ar": "تَفْسُقُونَ",
+       "en": "defiantly disobedient",
+       "ref": "46:20"
+      },
+      {
+       "ar": "ٱلْفَـٰسِقُونَ",
+       "en": "the defiantly disobedient",
+       "ref": "46:35"
+      },
+      {
+       "ar": "فَاسِقٌۢ",
+       "en": "a wicked person",
+       "ref": "49:6"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "عجل",
+     "letters": "ع ج ل",
+     "meaning": "to hasten",
+     "quranCount": 47,
+     "words": [
+      {
+       "ar": "ٱسْتَعْجَلْتُم",
+       "en": "you were asking it to be hastened",
+       "ref": "46:24"
+      },
+      {
+       "ar": "تَسْتَعْجِل",
+       "en": "seek to hasten",
+       "ref": "46:35"
+      },
+      {
+       "ar": "فَعَجَّلَ",
+       "en": "and He has hastened",
+       "ref": "48:20"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "دبر",
+     "letters": "د ب ر",
+     "meaning": "to plan, to scheme",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "يَتَدَبَّرُونَ",
+       "en": "they ponder",
+       "ref": "47:24"
+      },
+      {
+       "ar": "أَدْبَـٰرِهِم",
+       "en": "their backs",
+       "ref": "47:25"
+      },
+      {
+       "ar": "وَأَدْبَـٰرَهُمْ",
+       "en": "and their backs",
+       "ref": "47:27"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "عرب",
+     "letters": "ع ر ب",
+     "meaning": "to speak Arabic, to be Arab",
+     "quranCount": 22,
+     "words": [
+      {
+       "ar": "عَرَبِيًّۭا",
+       "en": "Arabic",
+       "ref": "46:12"
+      },
+      {
+       "ar": "ٱلْأَعْرَابِ",
+       "en": "the Bedouins",
+       "ref": "48:11"
+      },
+      {
+       "ar": "ٱلْأَعْرَابُ",
+       "en": "the Bedouins",
+       "ref": "49:14"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "خلو",
+     "letters": "خ ل و",
+     "meaning": "to be empty, to be vacant",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "خَلَتِ",
+       "en": "and have already passed away",
+       "ref": "46:17"
+      },
+      {
+       "ar": "خَلَتْ",
+       "en": "(that) already passed away",
+       "ref": "46:18"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "صدد",
+     "letters": "ص د د",
+     "meaning": "to turn away, to hinder",
+     "quranCount": 42,
+     "words": [
+      {
+       "ar": "وَصَدُّوا۟",
+       "en": "and turn away",
+       "ref": "47:1"
+      },
+      {
+       "ar": "وَصَدُّوكُمْ",
+       "en": "and hindered you",
+       "ref": "48:25"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "منن",
+     "letters": "م ن ن",
+     "meaning": "to show favor, to bestow grace",
+     "quranCount": 27,
+     "words": [
+      {
+       "ar": "مَنًّۢا",
+       "en": "a favor",
+       "ref": "47:4"
+      },
+      {
+       "ar": "يَمُنُّونَ",
+       "en": "They consider (it) a favor",
+       "ref": "49:17"
+      },
+      {
+       "ar": "تَمُنُّوا۟",
+       "en": "consider a favor",
+       "ref": "49:17"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 81,
+   "pctQuran": 79
+  },
+  {
+   "night": 27,
+   "juz": 27,
+   "start": {
+    "surah": 51,
+    "ayah": 31,
+    "surahName": "Adh-Dhariyat"
+   },
+   "end": {
+    "surah": 57,
+    "ayah": 29,
+    "surahName": "Al-Hadid"
+   },
+   "roots": [
+    {
+     "root": "الو",
+     "letters": "ا ل و",
+     "meaning": "to turn, to direct",
+     "quranCount": 37,
+     "words": [
+      {
+       "ar": "ءَالَآءِ",
+       "en": "the Favors",
+       "ref": "53:55"
+      }
+     ],
+     "inJuz": 32
+    },
+    {
+     "root": "عين",
+     "letters": "ع ي ن",
+     "meaning": "to mark/designate",
+     "quranCount": 65,
+     "words": [
+      {
+       "ar": "عِينٍۢ",
+       "en": "(with) large eyes",
+       "ref": "52:20"
+      },
+      {
+       "ar": "بِأَعْيُنِنَا ۖ",
+       "en": "(are) in Our Eyes",
+       "ref": "52:48"
+      },
+      {
+       "ar": "عُيُونًۭا",
+       "en": "(with) springs",
+       "ref": "54:12"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "فكه",
+     "letters": "ف ك ه",
+     "meaning": "to joke, to be playful",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "فَـٰكِهِينَ",
+       "en": "Enjoying",
+       "ref": "52:18"
+      },
+      {
+       "ar": "بِفَـٰكِهَةٍۢ",
+       "en": "with fruit",
+       "ref": "52:22"
+      },
+      {
+       "ar": "فَـٰكِهَةٌۭ",
+       "en": "(is) fruit",
+       "ref": "55:11"
+      }
+     ],
+     "inJuz": 8
+    },
+    {
+     "root": "شرب",
+     "letters": "ش ر ب",
+     "meaning": "to drink",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "وَٱشْرَبُوا۟",
+       "en": "and drink",
+       "ref": "52:19"
+      },
+      {
+       "ar": "شِرْبٍۢ",
+       "en": "drink",
+       "ref": "54:28"
+      },
+      {
+       "ar": "فَشَـٰرِبُونَ",
+       "en": "And drink",
+       "ref": "56:54"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "غني",
+     "letters": "غ ن ي",
+     "meaning": "to be rich, to be wealthy",
+     "quranCount": 73,
+     "words": [
+      {
+       "ar": "يُغْنِى",
+       "en": "will avail",
+       "ref": "52:46"
+      },
+      {
+       "ar": "تُغْنِى",
+       "en": "will avail",
+       "ref": "53:26"
+      },
+      {
+       "ar": "أَغْنَىٰ",
+       "en": "enriches",
+       "ref": "53:48"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "طغي",
+     "letters": "ط غ ي",
+     "meaning": "to transgress, to exceed bounds",
+     "quranCount": 39,
+     "words": [
+      {
+       "ar": "طَاغُونَ",
+       "en": "transgressing",
+       "ref": "51:53"
+      },
+      {
+       "ar": "طَغَىٰ",
+       "en": "it transgressed",
+       "ref": "53:17"
+      },
+      {
+       "ar": "وَأَطْغَىٰ",
+       "en": "and more rebellious",
+       "ref": "53:52"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "وقع",
+     "letters": "و ق ع",
+     "meaning": "to fall, to occur, to happen",
+     "quranCount": 24,
+     "words": [
+      {
+       "ar": "لَوَٰقِعٌۭ",
+       "en": "(will) surely occur",
+       "ref": "52:7"
+      },
+      {
+       "ar": "وَقَعَتِ",
+       "en": "occurs",
+       "ref": "56:1"
+      },
+      {
+       "ar": "ٱلْوَاقِعَةُ",
+       "en": "the Event",
+       "ref": "56:1"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "هوي",
+     "letters": "ه و ي",
+     "meaning": "to desire, to love",
+     "quranCount": 38,
+     "words": [
+      {
+       "ar": "هَوَىٰ",
+       "en": "it goes down",
+       "ref": "53:1"
+      },
+      {
+       "ar": "ٱلْهَوَىٰٓ",
+       "en": "the desire",
+       "ref": "53:3"
+      },
+      {
+       "ar": "تَهْوَى",
+       "en": "desire",
+       "ref": "53:23"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "مني",
+     "letters": "م ن ي",
+     "meaning": "to prevent, to refuse",
+     "quranCount": 22,
+     "words": [
+      {
+       "ar": "وَمَنَوٰةَ",
+       "en": "And Manat",
+       "ref": "53:20"
+      },
+      {
+       "ar": "تَمَنَّىٰ",
+       "en": "he wishes",
+       "ref": "53:24"
+      },
+      {
+       "ar": "تُمْنَىٰ",
+       "en": "it is emitted",
+       "ref": "53:46"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "بطن",
+     "letters": "ب ط ن",
+     "meaning": "to be inner, to be hidden",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "بُطُونِ",
+       "en": "(the) wombs",
+       "ref": "53:32"
+      },
+      {
+       "ar": "بَطَآئِنُهَا",
+       "en": "(whose) inner linings",
+       "ref": "55:54"
+      },
+      {
+       "ar": "ٱلْبُطُونَ",
+       "en": "the bellies",
+       "ref": "56:53"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 75,
+   "pctQuran": 80
+  },
+  {
+   "night": 28,
+   "juz": 28,
+   "start": {
+    "surah": 58,
+    "ayah": 1,
+    "surahName": "Al-Mujadila"
+   },
+   "end": {
+    "surah": 66,
+    "ayah": 12,
+    "surahName": "At-Tahrim"
+   },
+   "roots": [
+    {
+     "root": "حدد",
+     "letters": "ح د د",
+     "meaning": "to limit, to define",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "حُدُودُ",
+       "en": "(are the) limits",
+       "ref": "58:4"
+      },
+      {
+       "ar": "يُحَآدُّونَ",
+       "en": "oppose",
+       "ref": "58:5"
+      },
+      {
+       "ar": "حَآدَّ",
+       "en": "oppose",
+       "ref": "58:22"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "نهي",
+     "letters": "ن ه ي",
+     "meaning": "to forbid, to prohibit",
+     "quranCount": 56,
+     "words": [
+      {
+       "ar": "نُهُوا۟",
+       "en": "were forbidden",
+       "ref": "58:8"
+      },
+      {
+       "ar": "نَهَىٰكُمْ",
+       "en": "he forbids you",
+       "ref": "59:7"
+      },
+      {
+       "ar": "فَٱنتَهُوا۟ ۚ",
+       "en": "refrain",
+       "ref": "59:7"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "تحت",
+     "letters": "ت ح ت",
+     "meaning": "under, beneath",
+     "quranCount": 51,
+     "words": [
+      {
+       "ar": "تَحْتِهَا",
+       "en": "underneath it",
+       "ref": "58:22"
+      },
+      {
+       "ar": "تَحْتَ",
+       "en": "under",
+       "ref": "66:10"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "صير",
+     "letters": "ص ي ر",
+     "meaning": "to become, to turn into",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "ٱلْمَصِيرُ",
+       "en": "the destination",
+       "ref": "58:8"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ودد",
+     "letters": "و د د",
+     "meaning": "to wish, to desire, to love",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "يُوَآدُّونَ",
+       "en": "loving",
+       "ref": "58:22"
+      },
+      {
+       "ar": "بِٱلْمَوَدَّةِ",
+       "en": "love",
+       "ref": "60:1"
+      },
+      {
+       "ar": "وَوَدُّوا۟",
+       "en": "and they desire",
+       "ref": "60:2"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "جري",
+     "letters": "ج ر ي",
+     "meaning": "to run, to flow",
+     "quranCount": 64,
+     "words": [
+      {
+       "ar": "تَجْرِى",
+       "en": "flow",
+       "ref": "58:22"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "ابد",
+     "letters": "ا ب د",
+     "meaning": "to last eternally",
+     "quranCount": 28,
+     "words": [
+      {
+       "ar": "أَبَدًۭا",
+       "en": "ever",
+       "ref": "59:11"
+      },
+      {
+       "ar": "أَبَدًا",
+       "en": "forever",
+       "ref": "60:4"
+      },
+      {
+       "ar": "أَبَدًۢا",
+       "en": "ever",
+       "ref": "62:7"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "عصي",
+     "letters": "ع ص ي",
+     "meaning": "to disobey, to rebel",
+     "quranCount": 32,
+     "words": [
+      {
+       "ar": "وَمَعْصِيَتِ",
+       "en": "and disobedience",
+       "ref": "58:8"
+      },
+      {
+       "ar": "يَعْصِينَكَ",
+       "en": "they will disobey you",
+       "ref": "60:12"
+      },
+      {
+       "ar": "يَعْصُونَ",
+       "en": "they disobey",
+       "ref": "66:6"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "حزب",
+     "letters": "ح ز ب",
+     "meaning": "to gather, to assemble",
+     "quranCount": 20,
+     "words": [
+      {
+       "ar": "حِزْبُ",
+       "en": "(are the) party",
+       "ref": "58:19"
+      },
+      {
+       "ar": "حِزْبَ",
+       "en": "(the) party",
+       "ref": "58:19"
+      }
+     ],
+     "inJuz": 4
+    },
+    {
+     "root": "حبب",
+     "letters": "ح ب ب",
+     "meaning": "to love",
+     "quranCount": 95,
+     "words": [
+      {
+       "ar": "يُحِبُّونَ",
+       "en": "love",
+       "ref": "59:9"
+      },
+      {
+       "ar": "يُحِبُّ",
+       "en": "loves",
+       "ref": "60:8"
+      },
+      {
+       "ar": "تُحِبُّونَهَا ۖ",
+       "en": "that you love ",
+       "ref": "61:13"
+      }
+     ],
+     "inJuz": 4
+    }
+   ],
+   "pctJuz": 85,
+   "pctQuran": 81
+  },
+  {
+   "night": 29,
+   "juz": 29,
+   "start": {
+    "surah": 67,
+    "ayah": 1,
+    "surahName": "Al-Mulk"
+   },
+   "end": {
+    "surah": 77,
+    "ayah": 50,
+    "surahName": "Al-Mursalat"
+   },
+   "roots": [
+    {
+     "root": "وذر",
+     "letters": "و ذ ر",
+     "meaning": "to scatter, to disperse",
+     "quranCount": 45,
+     "words": [
+      {
+       "ar": "فَذَرْنِى",
+       "en": "So leave Me",
+       "ref": "68:44"
+      },
+      {
+       "ar": "فَذَرْهُمْ",
+       "en": "So leave them",
+       "ref": "70:42"
+      },
+      {
+       "ar": "تَذَرُنَّ",
+       "en": "leave",
+       "ref": "71:23"
+      }
+     ],
+     "inJuz": 11
+    },
+    {
+     "root": "كيف",
+     "letters": "ك ي ف",
+     "meaning": "how",
+     "quranCount": 83,
+     "words": [
+      {
+       "ar": "كَيْفَ",
+       "en": "how",
+       "ref": "67:17"
+      },
+      {
+       "ar": "فَكَيْفَ",
+       "en": "and how",
+       "ref": "67:18"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "طعم",
+     "letters": "ط ع م",
+     "meaning": "to taste",
+     "quranCount": 48,
+     "words": [
+      {
+       "ar": "طَعَامِ",
+       "en": "(the) feeding",
+       "ref": "69:34"
+      },
+      {
+       "ar": "طَعَامٌ",
+       "en": "any food",
+       "ref": "69:36"
+      },
+      {
+       "ar": "وَطَعَامًۭا",
+       "en": "And food",
+       "ref": "73:13"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "صبح",
+     "letters": "ص ب ح",
+     "meaning": "to become morning, to dawn",
+     "quranCount": 45,
+     "words": [
+      {
+       "ar": "بِمَصَـٰبِيحَ",
+       "en": "with lamps",
+       "ref": "67:5"
+      },
+      {
+       "ar": "أَصْبَحَ",
+       "en": "becomes",
+       "ref": "67:30"
+      },
+      {
+       "ar": "مُصْبِحِينَ",
+       "en": "(in the) morning",
+       "ref": "68:17"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "دري",
+     "letters": "د ر ي",
+     "meaning": "to know, to be aware",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "أَدْرَىٰكَ",
+       "en": "will make you know",
+       "ref": "69:3"
+      },
+      {
+       "ar": "أَدْرِ",
+       "en": "I had known",
+       "ref": "69:26"
+      },
+      {
+       "ar": "نَدْرِىٓ",
+       "en": "we know",
+       "ref": "72:10"
+      }
+     ],
+     "inJuz": 6
+    },
+    {
+     "root": "ذلل",
+     "letters": "ذ ل ل",
+     "meaning": "to be humble, to be subdued",
+     "quranCount": 24,
+     "words": [
+      {
+       "ar": "ذَلُولًۭا",
+       "en": "subservient",
+       "ref": "67:15"
+      },
+      {
+       "ar": "ذِلَّةٌۭ ۖ",
+       "en": "humiliation",
+       "ref": "68:43"
+      },
+      {
+       "ar": "ذِلَّةٌۭ ۚ",
+       "en": "humiliation",
+       "ref": "70:44"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "قسم",
+     "letters": "ق س م",
+     "meaning": "to divide, to apportion",
+     "quranCount": 33,
+     "words": [
+      {
+       "ar": "أَقْسَمُوا۟",
+       "en": "they swore",
+       "ref": "68:17"
+      },
+      {
+       "ar": "أُقْسِمُ",
+       "en": "I swear",
+       "ref": "69:38"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "طوف",
+     "letters": "ط و ف",
+     "meaning": "to circle, to go around",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "فَطَافَ",
+       "en": "So there came",
+       "ref": "68:19"
+      },
+      {
+       "ar": "طَآئِفٌۭ",
+       "en": "a visitation",
+       "ref": "68:19"
+      },
+      {
+       "ar": "وَطَآئِفَةٌۭ",
+       "en": "and (so do) a group",
+       "ref": "73:20"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "رهق",
+     "letters": "ر ه ق",
+     "meaning": "to exhaust, to overwhelm",
+     "quranCount": 10,
+     "words": [
+      {
+       "ar": "تَرْهَقُهُمْ",
+       "en": "will cover them",
+       "ref": "68:43"
+      },
+      {
+       "ar": "رَهَقًۭا",
+       "en": "(in) burden",
+       "ref": "72:6"
+      },
+      {
+       "ar": "سَأُرْهِقُهُۥ",
+       "en": "Soon I will cover Him",
+       "ref": "74:17"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "جبل",
+     "letters": "ج ب ل",
+     "meaning": "to knead, to form, to create",
+     "quranCount": 41,
+     "words": [
+      {
+       "ar": "وَٱلْجِبَالُ",
+       "en": "and the mountains",
+       "ref": "69:14"
+      },
+      {
+       "ar": "ٱلْجِبَالُ",
+       "en": "the mountains",
+       "ref": "70:9"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 74,
+   "pctQuran": 81
+  },
+  {
+   "night": 30,
+   "juz": 30,
+   "start": {
+    "surah": 78,
+    "ayah": 1,
+    "surahName": "An-Naba"
+   },
+   "end": {
+    "surah": 114,
+    "ayah": 6,
+    "surahName": "An-Nas"
+   },
+   "roots": [
+    {
+     "root": "يسر",
+     "letters": "ي س ر",
+     "meaning": "to make easy",
+     "quranCount": 44,
+     "words": [
+      {
+       "ar": "يَسَّرَهُۥ",
+       "en": "He made easy for him",
+       "ref": "80:20"
+      },
+      {
+       "ar": "يَسِيرًۭا",
+       "en": "easy",
+       "ref": "84:8"
+      },
+      {
+       "ar": "وَنُيَسِّرُكَ",
+       "en": "And We will ease you",
+       "ref": "87:8"
+      }
+     ],
+     "inJuz": 9
+    },
+    {
+     "root": "فجر",
+     "letters": "ف ج ر",
+     "meaning": "to split, to break open",
+     "quranCount": 24,
+     "words": [
+      {
+       "ar": "ٱلْفَجَرَةُ",
+       "en": "the wicked ones",
+       "ref": "80:42"
+      },
+      {
+       "ar": "فُجِّرَتْ",
+       "en": "are made to gush forth",
+       "ref": "82:3"
+      },
+      {
+       "ar": "ٱلْفُجَّارَ",
+       "en": "the wicked",
+       "ref": "82:14"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "صلي",
+     "letters": "ص ل ي",
+     "meaning": "to pray, to worship",
+     "quranCount": 25,
+     "words": [
+      {
+       "ar": "يَصْلَوْنَهَا",
+       "en": "They will burn (in) it",
+       "ref": "82:15"
+      },
+      {
+       "ar": "لَصَالُوا۟",
+       "en": "(surely) will burn",
+       "ref": "83:16"
+      },
+      {
+       "ar": "وَيَصْلَىٰ",
+       "en": "And he will burn",
+       "ref": "84:12"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "شرر",
+     "letters": "ش ر ر",
+     "meaning": "to spark, to kindle",
+     "quranCount": 31,
+     "words": [
+      {
+       "ar": "شَرُّ",
+       "en": "(are the) worst",
+       "ref": "98:6"
+      },
+      {
+       "ar": "شَرًّۭا",
+       "en": "evil",
+       "ref": "99:8"
+      },
+      {
+       "ar": "شَرِّ",
+       "en": "(the) evil",
+       "ref": "113:2"
+      }
+     ],
+     "inJuz": 7
+    },
+    {
+     "root": "حدث",
+     "letters": "ح د ث",
+     "meaning": "to happen, to occur",
+     "quranCount": 36,
+     "words": [
+      {
+       "ar": "حَدِيثُ",
+       "en": "(the) story",
+       "ref": "79:15"
+      },
+      {
+       "ar": "فَحَدِّثْ",
+       "en": "narrate",
+       "ref": "93:11"
+      },
+      {
+       "ar": "تُحَدِّثُ",
+       "en": "it will report",
+       "ref": "99:4"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "سعي",
+     "letters": "س ع ي",
+     "meaning": "to strive, to seek, to endeavor",
+     "quranCount": 30,
+     "words": [
+      {
+       "ar": "يَسْعَىٰ",
+       "en": "striving",
+       "ref": "79:22"
+      },
+      {
+       "ar": "سَعَىٰ",
+       "en": "he strove (for)",
+       "ref": "79:35"
+      },
+      {
+       "ar": "لِّسَعْيِهَا",
+       "en": "With their effort",
+       "ref": "88:9"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "رفع",
+     "letters": "ر ف ع",
+     "meaning": "to lift, to raise",
+     "quranCount": 29,
+     "words": [
+      {
+       "ar": "رَفَعَ",
+       "en": "He raised",
+       "ref": "79:28"
+      },
+      {
+       "ar": "مَّرْفُوعَةٍۢ",
+       "en": "Exalted",
+       "ref": "80:14"
+      },
+      {
+       "ar": "مَّرْفُوعَةٌۭ",
+       "en": "raised high",
+       "ref": "88:13"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "صحف",
+     "letters": "ص ح ف",
+     "meaning": "to alter",
+     "quranCount": 9,
+     "words": [
+      {
+       "ar": "صُحُفٍۢ",
+       "en": "sheets",
+       "ref": "80:13"
+      },
+      {
+       "ar": "ٱلصُّحُفُ",
+       "en": "the pages",
+       "ref": "81:10"
+      },
+      {
+       "ar": "ٱلصُّحُفِ",
+       "en": "the Scriptures",
+       "ref": "87:18"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "بلد",
+     "letters": "ب ل د",
+     "meaning": "to be strange, to bewilder",
+     "quranCount": 19,
+     "words": [
+      {
+       "ar": "ٱلْبِلَـٰدِ",
+       "en": "the cities",
+       "ref": "89:8"
+      },
+      {
+       "ar": "ٱلْبَلَدِ",
+       "en": "city",
+       "ref": "90:1"
+      }
+     ],
+     "inJuz": 5
+    },
+    {
+     "root": "يتم",
+     "letters": "ي ت م",
+     "meaning": "to be orphaned",
+     "quranCount": 23,
+     "words": [
+      {
+       "ar": "ٱلْيَتِيمَ",
+       "en": "the orphan",
+       "ref": "89:17"
+      },
+      {
+       "ar": "يَتِيمًۭا",
+       "en": "An orphan",
+       "ref": "90:15"
+      }
+     ],
+     "inJuz": 5
+    }
+   ],
+   "pctJuz": 71,
+   "pctQuran": 82
+  }
+ ]
+}
