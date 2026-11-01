@@ -41,6 +41,30 @@ interface Props {
   hasWords: boolean;
 }
 
+/** A hidden word (or a whole ayah, with `words`): the same width as the text so the line does not move,
+ *  invisible, with only the first letter showing when `hint` is on. */
+function HiddenWord({ text, hint, words = false }: { text: string; hint: boolean; words?: boolean }) {
+  const first = (w: string) => {
+    const seg = typeof Intl !== 'undefined' && 'Segmenter' in Intl ? [...new Intl.Segmenter('ar', { granularity: 'grapheme' }).segment(w)][0]?.segment : w[0];
+    return seg ?? '';
+  };
+  const parts = words ? text.split(' ') : [text];
+  return (
+    <>
+      {parts.map((w, i) => {
+        const f = hint ? first(w) : '';
+        return (
+          <span key={i}>
+            {i > 0 && ' '}
+            {f && <span style={{ color: '#C2AD84' }}>{f}</span>}
+            <span style={{ color: 'transparent' }}>{w.slice(f.length)}</span>
+          </span>
+        );
+      })}
+    </>
+  );
+}
+
 async function shareAyah(surahNumber: number, ayahNumber: number, setCopied: (k: string | null) => void) {
   const shareUrl = `${window.location.origin}/share/${surahNumber}/${ayahNumber}`;
   const key = `${surahNumber}:${ayahNumber}`;
@@ -95,6 +119,10 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
   const [selectedWord, setSelectedWord] = useState<WordData | null>(null);
   const [wordAnchor, setWordAnchor] = useState<HTMLElement | null>(null);
   const [wordByWord, setWordByWord] = useState(hasWords);
+  // Recall (hifz self-test): Arabic hidden, meanings kept; tap a word (or an ayah) to check yourself
+  const [recall, setRecall] = useState<'off' | 'hide' | 'hint'>('off');
+  const [revealed, setRevealed] = useState<Set<string>>(new Set());
+  const reveal = (key: string) => setRevealed((r) => new Set(r).add(key));
   const [lessonAyah, setLessonAyah] = useState<{ surah: number; ayah: number; words: WordData[]; translation: string } | null>(null);
   const [copiedKey, setCopiedKey] = useState<string | null>(null);
 
@@ -383,7 +411,21 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
           openAudioMode(block, ref.from, { from: ref.from, to: ref.to, each: 1, times: 1, gap: 0 });
         }}
       />
-      <div className="flex justify-end gap-2 mb-8">
+      <div className="flex justify-end gap-2 mb-8 flex-wrap">
+        <button
+          onClick={() => { setRecall(recall === 'off' ? 'hide' : 'off'); setRevealed(new Set()); }}
+          aria-pressed={recall !== 'off'}
+          className="flex items-center gap-1.5 text-xs font-medium px-3 py-2 rounded-xl transition-all duration-200"
+          style={recall !== 'off'
+            ? { background: 'rgba(212,162,70,0.12)', color: '#D4A246', border: '1px solid rgba(212,162,70,0.25)' }
+            : { background: 'rgba(255,255,255,0.04)', color: '#A3A19C', border: '1px solid rgba(255,255,255,0.07)' }}
+          title="Hide the Arabic and recite from memory; tap a word to check yourself"
+        >
+          <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" aria-hidden>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M3.98 8.223A10.477 10.477 0 0 0 1.934 12C3.226 16.338 7.244 19.5 12 19.5c.993 0 1.953-.138 2.863-.395M6.228 6.228A10.451 10.451 0 0 1 12 4.5c4.756 0 8.773 3.162 10.065 7.498a10.522 10.522 0 0 1-4.293 5.774M6.228 6.228 3 3m3.228 3.228 3.65 3.65m7.894 7.894L21 21m-3.228-3.228-3.65-3.65m0 0a3 3 0 1 0-4.243-4.243m4.242 4.242L9.88 9.88" />
+          </svg>
+          Recall
+        </button>
         {hasWords && (
           <button
             onClick={() => setWordByWord(!wordByWord)}
@@ -446,6 +488,16 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
           Display
         </button>
       </div>
+      {recall !== 'off' && (
+        <div className="-mt-5 mb-8 flex flex-wrap items-center justify-end gap-2 text-xs" style={{ color: '#A3A19C' }}>
+          <span>{repeatPlan ? `Hiding ${audioSurah?.surahNumber}:${repeatPlan.from}${repeatPlan.to !== repeatPlan.from ? `–${repeatPlan.to}` : ''}.` : 'Arabic hidden.'} Recite, then tap a word to check.</span>
+          <button onClick={() => setRecall(recall === 'hint' ? 'hide' : 'hint')} className="px-2.5 py-1 rounded-lg" style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.07)', color: recall === 'hint' ? '#D4A246' : '#A3A19C' }}>
+            {recall === 'hint' ? 'Hide first letters' : 'Show first letters'}
+          </button>
+          <button onClick={() => setRevealed(new Set())} className="px-2.5 py-1 rounded-lg" style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.07)' }}>Hide all again</button>
+          <button onClick={() => setRecall('off')} className="px-2.5 py-1 rounded-lg" style={{ background: 'rgba(255,255,255,0.04)', border: '1px solid rgba(255,255,255,0.07)' }}>Show everything</button>
+        </div>
+      )}
 
       {/* Settings panel */}
       {showSettings && (
@@ -557,6 +609,9 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
             <div className={`space-y-1 ${!isFirstBlock ? 'mt-4' : ''}`}>
               {block.ayahs.map((ayah) => {
                 const isActiveAyah = audioMode && audioSurah?.surahNumber === block.surahNumber && audioCurrentAyah === ayah.number;
+                // with a hifz plan running, only the ayahs being memorised are hidden
+                const inPlan = !repeatPlan || (audioSurah?.surahNumber === block.surahNumber && ayah.number >= repeatPlan.from && ayah.number <= repeatPlan.to);
+                const hideAyah = recall !== 'off' && inPlan;
                 // Word highlight only fires when WxW is explicitly on — decoupled from active-ayah state
                 const showWordHighlight = isActiveAyah && wordByWord;
                 return (
@@ -597,15 +652,19 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
                               .filter((w) => w.charType === 'word')
                               .map((word) => {
                                 const isActiveWord = showWordHighlight && audioCurrentWordPos === word.position;
+                                const wKey = `${block.surahNumber}:${ayah.number}:${word.position}`;   // word positions restart in each ayah
+                                const hidden = hideAyah && !revealed.has(wKey);
                                 return (
                                   <button
                                     id={`word-btn-${word.position}`}
                                     key={word.position}
                                     onClick={(e) => {
                                       e.stopPropagation();
+                                      if (hidden) { reveal(wKey); return; }   // recall: the first tap checks yourself
                                       setSelectedWord(word);
                                       setWordAnchor(e.currentTarget);
                                     }}
+                                    aria-label={hidden ? `Hidden word, tap to reveal${word.translation ? ` (${word.translation})` : ''}` : undefined}
                                     className="flex flex-col items-center gap-1 px-2 py-1.5 rounded-xl cursor-pointer transition-all duration-200"
                                     style={{
                                       background: isActiveWord
@@ -632,9 +691,10 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
                                       style={{
                                         fontSize: `${quranSettings.fontSize}px`,
                                         color: isActiveWord ? '#D4A246' : '#F0E8D8',
+                                        ...(hidden ? { borderRadius: 10, background: 'rgba(212,162,70,0.08)', boxShadow: 'inset 0 0 0 1px rgba(212,162,70,0.18)' } : {}),
                                       }}
                                     >
-                                      {word.textUthmani}
+                                      {hidden ? <HiddenWord text={word.textUthmani} hint={recall === 'hint'} /> : word.textUthmani}
                                     </span>
                                     {word.translation && (
                                       // dir="ltr" because the gloss is English
@@ -660,12 +720,17 @@ export function SurahReaderClient({ ayahs, surahNumber, surahName, surahArabicNa
                           <p
                             className="font-arabic leading-[2.4] text-right"
                             dir="rtl"
+                            onClick={hideAyah ? () => reveal(`${block.surahNumber}:a${ayah.number}`) : undefined}
                             style={{
                               fontSize: `${quranSettings.fontSize}px`,
                               color: '#F0E8D8',
+                              ...(hideAyah && !revealed.has(`${block.surahNumber}:a${ayah.number}`)
+                                ? { cursor: 'pointer', borderRadius: 14, background: 'rgba(212,162,70,0.06)', boxShadow: 'inset 0 0 0 1px rgba(212,162,70,0.15)' } : {}),
                             }}
                           >
-                            {ayah.textUthmani}
+                            {hideAyah && !revealed.has(`${block.surahNumber}:a${ayah.number}`)
+                              ? <HiddenWord text={ayah.textUthmani} hint={recall === 'hint'} words />
+                              : ayah.textUthmani}
                           </p>
                         )}
 
