@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { requireAdmin } from '@/lib/adminGuard';
 import { notFound } from 'next/navigation';
 import { sql } from 'drizzle-orm';
 import { db, dbQuery } from '@/db';
@@ -8,6 +9,8 @@ import { shortDate, relativeDay } from '@/lib/adminStats';
 export const dynamic = 'force-dynamic';
 
 export default async function AdminUserDetailPage({ params }: { params: { id: string } }) {
+  // The layout's check does not stop this page from rendering (and sending its data), so check here too.
+  await requireAdmin();
   const { id } = params;
 
   const [user] = (await dbQuery(() =>

@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { requireAdmin } from '@/lib/adminGuard';
 import { sql } from 'drizzle-orm';
 import { db, dbQuery } from '@/db';
 import { UsersTableControls } from '@/components/admin/UsersTableControls';
@@ -34,6 +35,8 @@ export default async function AdminUsersPage({
 }: {
   searchParams: { q?: string; page?: string; sort?: string };
 }) {
+  // The layout's check does not stop this page from rendering (and sending its data), so check here too.
+  await requireAdmin();
   const q = (searchParams.q ?? '').trim();
   const page = Math.max(1, parseInt(searchParams.page ?? '1', 10) || 1);
   const sort = SORT_SQL[searchParams.sort ?? 'new'] ? (searchParams.sort ?? 'new') : 'new';

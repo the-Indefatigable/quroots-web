@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { requireAdmin } from '@/lib/adminGuard';
 import { StatCard } from '@/components/admin/StatCard';
 import { BarChart } from '@/components/admin/BarChart';
 import { getOverviewStats, getSignupSeries, getDauSeries } from '@/lib/adminStats';
@@ -6,6 +7,8 @@ import { getOverviewStats, getSignupSeries, getDauSeries } from '@/lib/adminStat
 export const dynamic = 'force-dynamic';
 
 export default async function AdminOverviewPage() {
+  // The layout's check does not stop this page from rendering (and sending its data), so check here too.
+  await requireAdmin();
   const [stats, signups, dau] = await Promise.all([
     getOverviewStats(),
     getSignupSeries(30),

@@ -1,10 +1,13 @@
 import { sql } from 'drizzle-orm';
+import { requireAdmin } from '@/lib/adminGuard';
 import { db, dbQuery } from '@/db';
 import { relativeDay } from '@/lib/adminStats';
 
 export const dynamic = 'force-dynamic';
 
 export default async function AdminEngagementPage() {
+  // The layout's check does not stop this page from rendering (and sending its data), so check here too.
+  await requireAdmin();
   const [topLessons, funnel, quizByType, recent] = await Promise.all([
     dbQuery(() =>
       db.execute(sql`

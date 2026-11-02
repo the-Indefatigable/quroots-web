@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import { requireAdmin } from '@/lib/adminGuard';
 import { sql } from 'drizzle-orm';
 import { db, dbQuery } from '@/db';
 import { relativeDay } from '@/lib/adminStats';
@@ -17,6 +18,8 @@ type Funnel = { visitors: number; path: number; d1open: number; d1: number; d3: 
  * paying. Fed by growth_events (src/lib/track.ts). Admin visitors are left out of every number.
  */
 export default async function AdminGrowthPage({ searchParams }: { searchParams: { days?: string } }) {
+  // The layout's check does not stop this page from rendering (and sending its data), so check here too.
+  await requireAdmin();
   const days = RANGES.some((r) => String(r.days) === searchParams.days) ? Number(searchParams.days) : 30;
   const since = days ? sql`now() - make_interval(days => ${days})` : sql`'-infinity'::timestamptz`;
 
