@@ -128,6 +128,41 @@ export function confirmReminders(o: { day: number; pct: number; nextTitle: strin
   };
 }
 
+// ── Joining the email list from the website (double opt-in) ──────────────────────────────────────
+// Sent once, when someone types their email into the "get updates" box. Nothing else goes out
+// until they tap the button, which also proves the address is theirs.
+
+export function confirmWeekly(o: { confirmUrl: string; token: string }) {
+  const { confirmUrl, token } = o;
+  const body = [
+    row(p('Salaam,', 16, INK), '22px 30px 0'),
+    row(p('Someone (hopefully you) asked to get emails from QuRoots: one ayah and the root inside it each Friday, plus news like the free Ramadan paths when they open.'), '4px 30px 0'),
+    row(`<div style="text-align:center;padding:16px 0 8px">${button(confirmUrl, 'Yes, send me QuRoots emails')}</div>
+      <p style="margin:12px 0 0;text-align:center;font-size:13px;line-height:1.6;color:${QUIET}">If you didn&rsquo;t ask for this, ignore it and you won&rsquo;t hear from us.</p>`, '0 30px 12px'),
+  ].join('');
+  return {
+    subject: 'Confirm your QuRoots emails',
+    html: layout({ preheader: 'One tap to confirm. Nothing is sent until you do.', body, list: 'weekly', token, reason: 'You&rsquo;re getting this one email because someone asked for QuRoots emails with this address.' }),
+  };
+}
+
+// ── A note from the founder, sent by hand from /admin/emails to people who said yes ──────────────
+// `text` is plain text from the admin form: blank lines make paragraphs, a line that is only a
+// URL becomes the button. Everything is escaped, so nothing typed there can inject HTML.
+
+export function broadcast(o: { firstName: string; text: string; token: string; preheader?: string }) {
+  const { firstName, text, token, preheader } = o;
+  const blocks = text.replace(/\r/g, '').split(/\n{2,}/).map((b) => b.trim()).filter(Boolean);
+  const body = [
+    row(p(`Salaam ${esc(firstName)},`, 16, INK), '22px 30px 0'),
+    ...blocks.map((b) => /^https:\/\/\S+$/.test(b)
+      ? row(`<div style="text-align:center;padding:10px 0 6px">${button(esc(b), 'Open QuRoots')}</div>`, '0 30px 0')
+      : row(p(esc(b).replace(/\n/g, '<br>')), '4px 30px 0')),
+    row(p('Alam<br><span style="color:' + QUIET + ';font-size:14px">Founder, QuRoots</span>', 16, INK), '8px 30px 14px'),
+  ].join('');
+  return { html: layout({ preheader: preheader ?? blocks[0]?.slice(0, 90) ?? '', body, list: 'weekly', token }) };
+}
+
 // ── Gifts ────────────────────────────────────────────────────────────────────────────────────────
 
 export function giftReady(o: { kind: 'gift' | 'sponsor'; url: string; code: string }) {

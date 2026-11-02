@@ -56,7 +56,7 @@ const PASS_COOKIE = 'qr_p';
 const PASS_TTL_MS = 6 * 60 * 60 * 1000;
 const PASS_RENEW_MS = 60 * 60 * 1000;
 // Routes that must work without a page first: sign-in, Stripe and Vercel cron calls, email links.
-const OPEN_API = /^\/api\/(auth|cron|webhooks|digest\/unsubscribe|salah\/remind\/confirm|og)(\/|$)/;
+const OPEN_API = /^\/api\/(auth|cron|webhooks|digest\/unsubscribe|salah\/remind\/confirm|subscribe\/confirm|og)(\/|$)/;
 let passKey: Promise<CryptoKey> | null = null;
 
 function hmacKey(): Promise<CryptoKey> {

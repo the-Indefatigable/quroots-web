@@ -109,7 +109,7 @@ export function DailyWordsClient() {
       ) : (
         <div className="grid sm:grid-cols-2 gap-3">
           {results.map((w) => (
-            <article key={w.en} className="rounded-2xl p-4 flex flex-col" style={{ background: 'var(--color-surface)', border: '1px solid var(--color-border-light)' }}>
+            <article key={w.en} className="cv-auto-words rounded-2xl p-4 flex flex-col" style={{ background: 'var(--color-surface)', border: '1px solid var(--color-border-light)' }}>
               <div className="flex items-start justify-between gap-2 mb-2">
                 <h2 className="text-[17px] font-semibold" style={{ color: 'var(--color-ivory)' }}>{w.en}</h2>
                 <span className="shrink-0 text-[11px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full" style={{ background: 'rgba(212,162,70,0.1)', color: GOLD }}>

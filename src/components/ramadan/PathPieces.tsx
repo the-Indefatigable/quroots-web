@@ -118,7 +118,7 @@ export function RootLesson({ storeKey, base, unit, n, total, kicker, title, intr
   const isDone = done.includes(n);
   return (
     <div className="max-w-3xl mx-auto px-5 py-12">
-      <Link href={base} className="text-sm" style={{ color: '#9A9893' }}>← All {total} {unit}s</Link>
+      <Link href={base} className="inline-flex items-center min-h-[44px] text-sm" style={{ color: '#9A9893' }}>← All {total} {unit}s</Link>
       <p className="mt-6 text-[12px] font-semibold uppercase tracking-[0.16em]" style={{ color: GOLD }}>{kicker}</p>
       <h1 className="font-heading leading-[1.08] mt-2 mb-4" style={{ fontSize: 'clamp(1.9rem, 4.4vw, 2.8rem)', color: '#F0E8D8' }}>{title}</h1>
       <p className="text-[17px] leading-relaxed mb-6" style={{ color: '#B5B2AC' }}>{intro}</p>
@@ -141,11 +141,11 @@ export function RootLesson({ storeKey, base, unit, n, total, kicker, title, intr
       )}
 
       <div className="flex flex-wrap items-center justify-between gap-3">
-        {n > 1 ? <Link href={`${base}/${n - 1}`} className="text-sm" style={{ color: '#9A9893' }}>← {unit} {n - 1}</Link> : <span />}
+        {n > 1 ? <Link href={`${base}/${n - 1}`} className="inline-flex items-center min-h-[44px] text-sm" style={{ color: '#9A9893' }}>← {unit} {n - 1}</Link> : <span />}
         <button type="button" onClick={() => complete(n)} className="btn-primary" disabled={isDone}>
           {isDone ? `${unit[0].toUpperCase()}${unit.slice(1)} ${n} done ✓` : `I've learned these ${roots.length || ''} roots`.replace('  ', ' ')}
         </button>
-        {n < total ? <Link href={`${base}/${n + 1}`} className="text-sm" style={{ color: GOLD }}>{unit} {n + 1} →</Link> : <span />}
+        {n < total ? <Link href={`${base}/${n + 1}`} className="inline-flex items-center min-h-[44px] text-sm" style={{ color: GOLD }}>{unit} {n + 1} →</Link> : <span />}
       </div>
     </div>
   );

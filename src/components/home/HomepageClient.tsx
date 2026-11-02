@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ACCURACY_NOTICE } from '@/components/ui/SiteFooter';
+import { EmailSignup } from '@/components/ui/EmailSignup';
 import { useEffect, useState } from 'react';
 import { useAppStore } from '@/store/useAppStore';
 import { RootBloom } from './RootBloom';
@@ -704,6 +705,7 @@ export function HomepageClient() {
             </Link>
           ))}
         </div>
+        <div className="mt-8 mx-auto max-w-md text-left"><EmailSignup source="home" /></div>
         <p className="mt-6 text-xs leading-relaxed max-w-2xl mx-auto" style={{ color: '#8A8783' }}>
           {ACCURACY_NOTICE} Spotted a mistake? Tell us at salam@quroots.com and we&rsquo;ll fix it.
         </p>

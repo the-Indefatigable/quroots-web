@@ -195,7 +195,7 @@ export function RootsBrowserClient({
               <button
                 key={key}
                 onClick={() => setSortVerbs(key)}
-                className={`text-xs px-3 py-1.5 rounded-lg transition-colors ${
+                className={`text-xs px-3.5 min-h-[40px] rounded-lg transition-colors ${
                   sortVerbs === key ? 'bg-primary-light text-primary' : 'bg-surface text-text-tertiary hover:text-text'
                 }`}
               >
@@ -211,7 +211,7 @@ export function RootsBrowserClient({
               <button
                 key={key}
                 onClick={() => setSortNouns(key)}
-                className={`text-xs px-3 py-1.5 rounded-lg transition-colors ${
+                className={`text-xs px-3.5 min-h-[40px] rounded-lg transition-colors ${
                   sortNouns === key ? 'bg-primary-light text-primary' : 'bg-surface text-text-tertiary hover:text-text'
                 }`}
               >
@@ -227,7 +227,7 @@ export function RootsBrowserClient({
               <button
                 key={key}
                 onClick={() => setSortParticles(key)}
-                className={`text-xs px-3 py-1.5 rounded-lg transition-colors ${
+                className={`text-xs px-3.5 min-h-[40px] rounded-lg transition-colors ${
                   sortParticles === key ? 'bg-primary-light text-primary' : 'bg-surface text-text-tertiary hover:text-text'
                 }`}
               >
@@ -242,7 +242,7 @@ export function RootsBrowserClient({
       {tab === 'verbs' && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {filteredRoots.map((root) => (
-            <Link key={root.id} href={`/roots/${encodeURIComponent(root.root)}`} prefetch={false}>
+            <Link key={root.id} href={`/roots/${encodeURIComponent(root.root)}`} prefetch={false} className="cv-auto">
               <Card className="h-full">
                 <div className="flex items-start justify-between gap-3 mb-1">
                   <p className="font-arabic text-[34px] leading-[1.4]" dir="rtl" lang="ar" style={{ color: 'var(--color-primary)' }}>{root.root.split('').join(' ')}</p>
@@ -288,7 +288,7 @@ export function RootsBrowserClient({
             <div className="text-center mt-6">
               <button
                 onClick={() => setShowCount((c) => c + 200)}
-                className="text-xs text-primary hover:text-primary transition-colors font-medium"
+                className="min-h-[44px] px-5 text-sm text-primary transition-colors font-medium"
               >
                 Show more ({filteredNouns.length - visibleNouns.length} remaining)
               </button>
@@ -323,7 +323,7 @@ export function RootsBrowserClient({
                 <div className="text-center mt-6">
                   <button
                     onClick={() => setShowCount((c) => c + 200)}
-                    className="text-xs text-primary hover:text-primary transition-colors font-medium"
+                    className="min-h-[44px] px-5 text-sm text-primary transition-colors font-medium"
                   >
                     Show more ({filteredParticles.length - visibleParticles.length} remaining)
                   </button>

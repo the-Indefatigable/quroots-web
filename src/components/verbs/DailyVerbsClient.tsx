@@ -361,7 +361,7 @@ export function DailyVerbsClient() {
             return (
               <article
                 key={v.id}
-                className="rounded-2xl p-4 flex flex-col transition-colors"
+                className="cv-auto-tall rounded-2xl p-4 flex flex-col transition-colors"
                 style={{
                   background: known ? 'rgba(212,162,70,0.045)' : 'var(--color-surface)',
                   border: `1px solid ${known ? 'rgba(212,162,70,0.32)' : 'var(--color-border-light)'}`,
